@@ -1,28 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-02-08 11:48:07 -0500
+title:  "Nuevo intento de página web"
+date:   2025-02-08 19:44:16 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Estoy usando Jekyll para realizar mi nueva página web. La verdad aún no sé bien ni cómo funciona, pero espero que me pueda servir para expresar las cosas que quiero de una forma un tanto libre.
 
-Jekyll requires blog post files to be named according to the following format:
+Bueno, aparentemente hay cosas que debo saber y que aún no sé, soy totalmente principiante en esto. Una cosa que debo realizar, aparentemente, es usar el código `jekyll serve` para poder "lanzar" un servidor web y autogenerar mi sitio web para reconstruirlo cuando uno de mis archivos (blogs) es actualizado. Dejaré esto anotado porque siendo principiante estoy convencido de que sea algo que probablemente se me olvide.
+
+Quizá otra cosa que no quiero que se me olvide es que los archivos deben estar nombrados con el siguiente formato:
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Donde `YEAR` está en formato de un número de cuatro dígitos, `MONTH` y `DAY` son números de dos dígitos, y `MARKUP` es la extensión que representa el formato usdo en el archivo. Supongo que hay información en la web si tengo dudas adicionales.
 
-Jekyll also offers powerful support for code snippets:
+Información adicional incluye los documentos de Jekyll ([Jekyll docs][jekyll-docs]), el repositorio para enviar solicitudes o reportar fallos ([Jekyll’s GitHub repo][jekyll-gh]), y el foro donde puedo realizar preguntas sobre Jekyll ([Jekyll Talk][jekyll-talk]).
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Con fe termino aprendiendo a usar estas herramientas :)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
