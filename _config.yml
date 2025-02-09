@@ -27,8 +27,14 @@ github_username:  danimedi
 
 # Build settings
 theme: minima
+minima:
+  date_format: "%Y-%m-%d"
 plugins:
   - jekyll-feed
+header_pages:
+  - about.markdown
+  - blog.html
+  - contact.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
