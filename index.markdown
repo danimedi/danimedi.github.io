@@ -5,6 +5,6 @@
 layout: home
 title: Inicio
 ---
-![Mi foto](/assets/images/example.jpg){: height="300" }
+![Mi foto](/assets/images/photo_me_2.jpeg){: height="300" }
 
 Bienvenido a mi página web experimental. Quiero tener aquí un blog donde pueda compartir algunos proyectos, experiencias o lo que se me ocurra.
