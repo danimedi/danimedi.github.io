@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1672'
 permalink: /blog/buscando-rumbo/
-image: /wp-content/uploads/2025/01/Gowy-icaro-prado.jpg
+image: /assets/images/Gowy-icaro-prado.jpg
 categories:
     - Escritos
     - Pensamientos
