@@ -1,0 +1,15 @@
+.post-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.post-thumbnail {
+  max-width: 120px !important;
+  max-height: 80px !important;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+}
+

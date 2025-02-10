@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<head>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -13,16 +17,25 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
+      <li class="post-item">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
+        <!-- Check if the post has an image and display it -->
+        {%- if post.image -%}
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-thumbnail">
+          </a>
+        {%- endif -%}
+
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          <p>{{ post.excerpt }}</p>
         {%- endif -%}
       </li>
       {%- endfor -%}
@@ -30,5 +43,4 @@ layout: default
 
     <p class="rss-subscribe">Suscríbete al Blog <a href="{{ "/feed.xml" | relative_url }}">vía RSS</a></p>
   {%- endif -%}
-
 </div>
