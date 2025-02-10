@@ -23,9 +23,11 @@ En lo personal, me gusta mucho tener claros los motivos por los cuales hago las 
 
 Para esto, escribí en [Notion](https://www.notion.so/) mis motivos, por qué hago lo que hago. Tiene una estructura y contenido similares a un [post](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/) que escribí sobre qué quiero hacer con mi vida. En realidad, escribí ese contenido en Notion primero y luego lo transformé en ese post.
 
-En este video muestro mi plan de vida a la fecha (2022-08-22) en Notion.
+En este GIF muestro mi plan de vida a la fecha (2022-08-22) en Notion.
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/08/my-life-plan-notion-tour.mp4"></video></figure>Tener este tipo de contenido disponible todo el tiempo y poder actualizarlo conforme cambio mi forma de pensar y hacer las cosas es de gran utilidad para trabajar para conseguir aquellas cosas que quiero más. Además, me brinda un lugar donde también puedo agregar información adicional de mi vida de forma ordenada (ej. proyectos, finanzas).
+![](/assets/images/my-life-plan-notion-tour.gif)
+
+Tener este tipo de contenido disponible todo el tiempo y poder actualizarlo conforme cambio mi forma de pensar y hacer las cosas es de gran utilidad para trabajar para conseguir aquellas cosas que quiero más. Además, me brinda un lugar donde también puedo agregar información adicional de mi vida de forma ordenada (ej. proyectos, finanzas).
 
 ### ¿Notion?
 
@@ -41,7 +43,7 @@ Como dice una frase:
 
 > Your mind is for having ideas, not holding them.
 > 
-> <cite>— David Allen</cite>
+> — David Allen
 
 Es normal que nos olvidemos las cosas si no las anotamos, no es que tengamos “mala memoria”. Es importante tener algún lugar donde anotar las cosas que debemos hacer cada día.
 
@@ -87,9 +89,7 @@ Respecto a esto, creo que tenerlas anotadas de forma ordenada y con una dinámic
 
 Es común que sobreestimemos nuestras capacidades al momento de planificar las cosas que queremos hacer. Es posible que registremos cosas que escapan a nuestras capacidades (ej. leer cuatro libros, ir al gimnasio, jugar una pichanga, grabar un video de YouTube y salir de fiesta). Esto puede llegar a desmotivarnos y a sentir que no tenemos la voluntad suficiente de hacer las cosas.
 
-Para combatir esto considero que es importante comenzar con poco e ir aumentando las cosas que queremos hacer progresivamente. Simplemente tener una actividad como 30 minutos de lectura al día es un buen comienzo. Con el tiempo podemos ir conociéndonos mejor para poder ponernos objetivos más realistas y podemos ir superando nuestros límites aumentando las cosas que somos capaces de hacer durante el día.
-
-> Seamos amables con nosotros mismos.
+Para combatir esto considero que es importante comenzar con poco e ir aumentando las cosas que queremos hacer progresivamente. Simplemente tener una actividad como 30 minutos de lectura al día es un buen comienzo. Con el tiempo podemos ir conociéndonos mejor para poder ponernos objetivos más realistas y podemos ir superando nuestros límites aumentando las cosas que somos capaces de hacer durante el día. Seamos amables con nosotros mismos.
 
 #### Dejar todo a última hora
 
@@ -147,4 +147,4 @@ Esto tiene que ver con el primer punto, el tema de los motivos. Tener nuestros m
 
 Si bien es importante tener nuestros motivos claros, no es necesario ni adecuado sobrepensarlos mientras realizamos las cosas. Hay momentos para planificar y momentos para ejecutar. Cuando uno planifica, uno piensa en los motivos que tiene, uno se cuestiona si lo que esta siendo con su vida es lo correcto, si hay algo en lo que puede cambiar. Esto es natural en nosotros, los seres humanos, y es normal que nos cuestionemos las cosas. Sin embargo, cuando nos proponemos hacer algo luego de haberlo pensado y planificado, en muchos casos es mejor bajar la cabeza y realizar el esfuerzo correspondiente. Es muy común cuestionarnos las cosas cuando estamos pasando por situaciones complicadas, cuando estamos estresados, cuando nos sentimos cansados; pero vivir cuestionando lo que hacemos todo el tiempo es simplemente un impedimento y una pérdida de tiempo.
 
-> Yo lo veo como nadar aguas abiertas. Hay momentos para levantar la cabeza y ver la dirección de nuestro rumbo, y hay momentos para meter la cabeza en el agua y simplemente avanzar.
+Yo lo veo como nadar aguas abiertas. Hay momentos para levantar la cabeza y ver la dirección de nuestro rumbo, y hay momentos para meter la cabeza en el agua y simplemente avanzar.

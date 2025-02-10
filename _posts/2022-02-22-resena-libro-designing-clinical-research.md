@@ -23,33 +23,35 @@ La forma en la que realizaré esta reseña/resumen del libro es extrayendo de fo
 
 Nota: esta es la primera vez que realizo una reseña de un libro y por ahora el enfoque fue algo más personal, especialmente la parte de “Cosas que aprendí”. Hay un video en mi canal de YouTube con un comentario sobre el libro y sus partes: <https://youtu.be/PippPLykgjE>. Este video podría ser lo que buscan si es que quieren algo más conciso y solamente introductorio al libro.
 
-<div class="wp-block-ht-block-toc  is-style-outline htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded"><span class="htoc__title"><span class="ht_toc_title">Tabla de contenido</span><span class="htoc__toggle"><svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap">- [Sección 1: ingredientes básicos](#seccion-1-ingredientes-basicos)
-    - [Capítulo 1: comenzando](#capitulo-2-pregunta-de-investigacion)
-    - [Capítulo 2: pregunta de investigación](#capitulo-2-pregunta-de-investigacion1)
-    - [Capítulo 3: sujetos de estudio](#capitulo-3-sujetos-de-estudio)
-    - [Capítulo 4: mediciones](#capitulo-3-sujetos-de-estudio1)
-    - [Capítulo 5: tamaño de muestra](#capitulo-3-sujetos-de-estudio11)
-    - [Capítulo 6: tamaño de muestra (aplicaciones y ejemplos)](#capitulo-3-sujetos-de-estudio111)
-- [Sección 2: diseños de estudios](#seccion-2-disenos-de-estudios)
-    - [Capítulo 7: estudios transversales y de cohortes](#capitulo-3-sujetos-de-estudio1111)
-    - [Capítulo 8: estudios de casos y controles](#capitulo-3-sujetos-de-estudio11111)
-    - [Capítulo 9: mejorando inferencia causal en estudios observacionales](#capitulo-3-sujetos-de-estudio111111)
-    - [Capítulo 10: ensayo clínico aleatorizado](#capitulo-3-sujetos-de-estudio1111111)
-    - [Capítulo 11: diseños alternativos de ensayos clínicos y consideraciones de implementación de ensayos clínicos](#capitulo-3-sujetos-de-estudio11111111)
-    - [Capítulo 12: estudios de pruebas médicas](#capitulo-3-sujetos-de-estudio111111111)
-    - [Capítulo 13: investigación usando datos ya existentes](#capitulo-3-sujetos-de-estudio1111111111)
-- [Sección 3: implementación](#seccion-3-implementacion)
-    - [Capítulo 14: conflictos éticos](#capitulo-3-sujetos-de-estudio11111111111)
-    - [Capítulo 15: cuestionarios, entrevistas y encuestas](#capitulo-3-sujetos-de-estudio111111111111)
-    - [Capítulo 16: manejo de datos](#capitulo-3-sujetos-de-estudio1111111111111)
-    - [Capítulo 17: implementando el estudio y control de calidad](#capitulo-3-sujetos-de-estudio11111111111111)
-    - [Capítulo 18: estudios comunitarios e internacionales](#capitulo-3-sujetos-de-estudio111111111111111)
-    - [Capítulo 19: propuesta de financiación de la investigación](#capitulo-3-sujetos-de-estudio1111111111111111)
+**Tabla de contenido**
+
+- [Sección 1: Ingredientes básicos](#sección-1-ingredientes-básicos)
+    - [Capítulo 1: Comenzando](#capítulo-1-comenzando)
+    - [Capítulo 2: Pregunta de investigación](#capítulo-2-pregunta-de-investigación)
+    - [Capítulo 3: Sujetos de estudio](#capítulo-3-sujetos-de-estudio)
+    - [Capítulo 4: Mediciones](#capítulo-4-mediciones)
+    - [Capítulo 5: Tamaño de muestra](#capítulo-5-tamaño-de-muestra)
+    - [Capítulo 6: Tamaño de muestra (aplicaciones y ejemplos)](#capítulo-6-tamaño-de-muestra-aplicaciones-y-ejemplos)
+- [Sección 2: Diseños de estudios](#sección-2-diseños-de-estudios)
+    - [Capítulo 7: Estudios transversales y de cohortes](#capítulo-7-estudios-transversales-y-de-cohortes)
+    - [Capítulo 8: Estudios de casos y controles](#capítulo-8-estudios-de-casos-y-controles)
+    - [Capítulo 9: Mejorando inferencia causal en estudios observacionales](#capítulo-9-mejorando-inferencia-causal-en-estudios-observacionales)
+    - [Capítulo 10: Ensayo clínico aleatorizado](#capítulo-10-ensayo-clínico-aleatorizado)
+    - [Capítulo 11: Diseños alternativos de ensayos clínicos y consideraciones de implementación de ensayos clínicos](#capítulo-11-diseños-alternativos-de-ensayos-clínicos-y-consideraciones-de-implementación-de-ensayos-clínicos)
+    - [Capítulo 12: Estudios de pruebas médicas](#capítulo-12-estudios-de-pruebas-médicas)
+    - [Capítulo 13: Investigación usando datos ya existentes](#capítulo-13-investigación-usando-datos-ya-existentes)
+- [Sección 3: Implementación](#sección-3-implementación)
+    - [Capítulo 14: Conflictos éticos](#capítulo-14-conflictos-éticos)
+    - [Capítulo 15: Cuestionarios, entrevistas y encuestas](#capítulo-15-cuestionarios-entrevistas-y-encuestas)
+    - [Capítulo 16: Manejo de datos](#capítulo-16-manejo-de-datos)
+    - [Capítulo 17: Implementando el estudio y control de calidad](#capítulo-17-implementando-el-estudio-y-control-de-calidad)
+    - [Capítulo 18: Estudios comunitarios e internacionales](#capítulo-18-estudios-comunitarios-e-internacionales)
+    - [Capítulo 19: Propuesta de financiación de la investigación](#capítulo-19-propuesta-de-financiación-de-la-investigación)
 - [Comentario general del libro](#comentario-general-del-libro)
 
-</div></div>## Sección 1: ingredientes básicos
+## Sección 1: ingredientes básicos
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-0b60498b"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-d9c8c461">### Capítulo 1: comenzando
+### Capítulo 1: Comenzando
 
 #### Idea central
 
@@ -72,7 +74,7 @@ La investigación clínica puede explicarse en dos componentes: anatomía (cómo
 - Es útil resumir el estudio en una sola oración, por ejemplo: “Este es un estudio transversal de hábitos dietéticos en personas de 50 a 69 años con historia de enfermedad coronaria, seguido por un estudio de cohortes prospectivo sobre si el consumo de pescado está asociado con menor riesgo de subsecuentes eventos coronarios”.
 - Aprendí esta frase (parafraseando): “Los buenos científicos se distinguen no tanto por tener las mejores ideas de investigación, sino por su destreza para desechar aquellas ideas que no funcionan y pasar a otras mejores”.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-ca330cae"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-000400a4">### Capítulo 2: pregunta de investigación
+### Capítulo 2: Pregunta de investigación
 
 #### Idea central
 
@@ -103,7 +105,7 @@ Todo estudio debe comenzar con una pregunta de investigación enfocada en aquell
 - Tener un mentor es realmente algo importante y se puede tener más de un mentor de diferentes disciplinas.
 - La originalidad de es importante, pero la pregunta de investigación no necesariamente tiene que ser completamente original, puede valer la pena preguntarse si investigación pasada puede replicarse o si hallazgos en una población se aplican en otra.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-cc92b3ed"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-df24d906">### Capítulo 3: sujetos de estudio
+### Capítulo 3: Sujetos de estudio
 
 #### Idea central
 
@@ -124,7 +126,7 @@ La investigación clínica esta basada, en gran medida, en el uso de una muestra
 - En investigación clínica una muestra aleatoria a partir de toda la población objetivo casi nunca es posible. Muestreo por conveniencia, preferentemente con un diseño consecutivo, es práctico y usualmente apropiado.
 - Hay muchas opciones para reclutar participantes, por ejemplo: personas conocidas de los investigadores, lugares públicos, e-mails, anuncios en internet, referencias de colegas, revisiones retrospectivas, examinar listas de pacientes.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-c4b41ca4"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-540b912e">### Capítulo 4: mediciones
+### Capítulo 4: Mediciones
 
 #### Idea central
 
@@ -155,7 +157,7 @@ Las variables pueden venir de diferentes formas (ej. numéricas vs. categóricas
 - La exactitud (*accuracy*) puede determinarse, para variables continuas, como la diferencia promedio entre la medición en investigación y el *gold standard* en los sujetos de estudio; para variables dicotómicas, mediante sensibilidad y especificidad; y, para variables categóricas con más de dos categorías, el porcentaje de acierto en cada una.
 - Cuando se diseña un estudio suele haber la tendencia a seguir agregando ítems que no son centrales a la pregunta de investigación, pero que podrían ser de interés. Recoger demasiada información es un error común que puede cansar a los sujetos, sobrecargar al equipo haciendo las mediciones y complicar el manejo de datos y análisis.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-b6ef9869"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-c3b28c38">### Capítulo 5: tamaño de muestra
+### Capítulo 5: Tamaño de muestra
 
 #### Idea central
 
@@ -180,7 +182,7 @@ El objetivo de determinar el tamaño de muestra es tener un número adecuado de 
 - La corrección de Bonferroni es usualmente demasiado rigurosa, una mejor alternativa es usar la probabilidad previa (*prior probability*) de que la hipótesis es correcta, esto es un enfoque “Bayesiano”.
 - A veces surgen hipótesis después de iniciar el estudio, en estos casos el problema no es tanto que se agregó después, sino si hay un probabilidad previa razonable basada en evidencia de otras fuentes de que la hipótesis es verdadera.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-3d655679"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-19f05c46">### Capítulo 6: tamaño de muestra (aplicaciones y ejemplos)
+### Capítulo 6: Tamaño de muestra (aplicaciones y ejemplos)
 
 #### Idea central
 
@@ -232,9 +234,10 @@ Este capítulo incluye técnicas (como recetas) para usar los principios para es
 - Es usualmente más fácil estimar el tamaño de muestra para métodos complejos usando un método más simple, como *chi-squared test* y *t test*. Los hallazgos son similares a los que se obtendrían usando técnicas más sofisticadas para estos métodos más complejos.
 - El cálculo de tamaño de muestra para *equivalence trials* y *non-inferiority trials* requieren de ciertas consideraciones especiales.
 
-</div></div></div>## Sección 2: diseños de estudios
+## Sección 2: Diseños de estudios
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-568dc202"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-47101d3e">### Capítulo 7: estudios transversales y de cohortes
+
+### Capítulo 7: Estudios transversales y de cohortes
 
 #### Idea central
 
@@ -261,7 +264,7 @@ Este capítulo habla del diseño de estudios transversales y de cohortes. Estos 
 - Para estudios prospectivos, el contacto periódico con los sujetos una o dos veces al año ayuda a mantenerse en contacto y puede mejorar el tiempo de respuesta y exactitud de los resultados de interés.
 - Las tasas de incidencia son base de métodos modernos de análisis para calcular *multivariate hazard ratios* usando *Cox proportional hazard models*.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-0e835e3c"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-1855cb8f">### Capítulo 8: estudios de casos y controles
+### Capítulo 8: Estudios de casos y controles
 
 #### Idea central
 
@@ -294,7 +297,7 @@ Los estudios de casos y controles son relativamente poco costosos y únicamente 
 - Llamar a números de teléfono generados aleatoriamente puede ser de gran utilidad, pero hay que tener algunas consideraciones.
 - Los *nested case-control* y *case-cohort designs* han sido usados con menos frecuencia de lo que deberían. Se debe considerar preservar información (ej. muestras biológicas, imágenes, registros) en estudios prospectivos grandes para ser reanalizados por estos diseños.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-5f73d087"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-b9105823">### Capítulo 9: mejorando inferencia causal en estudios observacionales
+### Capítulo 9: Mejorando inferencia causal en estudios observacionales
 
 #### Idea central
 
@@ -356,7 +359,7 @@ La mayoría de estudios observacionales están diseñados para poder comprender 
 - Ajustar *confounding* puede hacer que aparezcan asociaciones, no solo que desaparezcan. Por ejemplo, un factor protector puede no parecer serlo, o incluso parecer dañino, cuando este está asociado a un factor de riesgo.
 - En muchas situaciones las estrategias para controlar *confounding* en la fase de análisis (*stratification*, *adjustment*, *propensity scores*) son tan buenas como las usadas en la fase de diseño y tienen la ventaja de ser reversibles.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-7a497872"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-4d26bb80">### Capítulo 10: ensayo clínico aleatorizado
+### Capítulo 10: Ensayo clínico aleatorizado
 
 #### Idea central
 
@@ -406,7 +409,7 @@ El diseño del clásico ensayo clínico aleatorizado cegado (*randomized blinded
 - Usualmente la mejor decisión es asignar números iguales a cada grupo de estudio, ya que esto maximiza el poder a un determinado tamaño de muestra, pero hay algunos casos en los que grupos desiguales (*unequal allocation*) puede resultar útil (ver más arriba).
 - Una buena idea es evaluar *blinding* al terminar el estudio preguntando a los participantes e investigadores que adivinen el tratamiento asignado. Si una proporción más grande de la esperada acierta, la discusión de los resultados debería incluir los sesgos potenciales que podrían ser causados por este *partial unblinding*.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-ff0e50f8"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-1cf9546e">### Capítulo 11: diseños alternativos de ensayos clínicos y consideraciones de implementación de ensayos clínicos
+### Capítulo 11: Diseños alternativos de ensayos clínicos y consideraciones de implementación de ensayos clínicos
 
 #### Idea central
 
@@ -471,7 +474,7 @@ Este capítulo también contiene información sobre la implementación de ensayo
 - En ensayos clínicos grandes o aquellos en los que hay mayor riesgo de efectos adversos importantes se suele tener un comité encargado de realizar la monitorización durante el estudio, el *Data and Safety Monitoring Board* (DSMB).
 - Si los resultados de los análisis de acuerdo a *intention-to-treat* y *per-protocol* difieren, los resultados de *intention-to-treat* generalmente predominan para estimaciones de la eficacia, porque preservan el valor de la aleatorización y solo pueden sesgar el efecto estimado en dirección conservadora (favoreciendo la hipótesis nula); sin embargo, para estimaciones de daño, análisis *per-protocol* brindan las estimaciones más conservadoras.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-19660a3e"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-1edc1862">### Capítulo 12: estudios de pruebas médicas
+### Capítulo 12: Estudios de pruebas médicas
 
 #### Idea central
 
@@ -521,7 +524,7 @@ Estudios de pruebas médicas, como aquellas usadas para tamizaje de algún facto
 - Considerar que efectos adversos también pueden ocurrir por resultados falsos positivos y por la prueba en sí (ej. colonoscopías). Registrar esto puede ser de gran valor.
 - Para medir el efecto de las pruebas es mejor tener como resultado a la morbilidad o mortalidad en lugar del diagnóstico o etapa de la enfermedad. Por ejemplo, demostrar que hombres que son tamizaos para cáncer de próstata tienen una mayor proporción de cánceres diagnosticados en etapa temprana no brinda tanta información sobre el efecto, ya que muchos de estos cánceres no causan problemas de no ser detectados.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-1b6f978f"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-32b50297">### Capítulo 13: investigación usando datos ya existentes
+### Capítulo 13: Investigación usando datos ya existentes
 
 #### Idea central
 
@@ -582,9 +585,9 @@ Los estudios que usan datos ya existentes puede ser una alternativa conveniente 
 - Una buena fuente de información de los métodos para conducir revisiones sistemáticas de alta calidad puede encontrarse en el [Cochrane Handbook for Systematic Reviews](http://handbook.chocrane.org).
 - Diferentes formas de calcular el *summary estimate* e intervalo de confianza en una revisión sistemática pueden dar resultados diferentes.
 
-</div></div></div>## Sección 3: implementación
+## Sección 3: Implementación
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-a45f500c"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-152429c6">### Capítulo 14: conflictos éticos
+### Capítulo 14: Conflictos éticos
 
 #### Idea central
 
@@ -673,7 +676,7 @@ Grandes errores se han cometido en la historia producto de no seguir ciertos pri
 - Las cuestiones de la autoría (autores y orden) deben ser decididas al comienzo del proyecto. Cambios deben ser negociados si hay decisiones sobre cambios de responsabilidades.
 - Para evitar influencia económica inapropiada causada por pagos altos a los participantes se ha sugerido que los participantes sean compensados solo por gastos reales y tiempo a una tasa horaria de trabajo no especializado (*unskilled labor*).
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-280dd077"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-7864fc31">### Capítulo 15: cuestionarios, entrevistas y encuestas
+### Capítulo 15: Cuestionarios, entrevistas y encuestas
 
 #### Idea central
 
@@ -715,7 +718,7 @@ Cuestionarios, entrevistas y encuestas son formas comunes de recolectar informac
 - Hay alternativas a las entrevistas clásicas como las entrevistas telefónicas asistidas por computador o las respuestas de voz interactivas.
 - Algunas opciones de encuestas online usadas por investigadores son REDCap, SurveyMonkey, Zoomerang, Qualtrics, QuesGen.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-9344b2f2"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-ef79e31f">### Capítulo 16: manejo de datos
+### Capítulo 16: Manejo de datos
 
 #### Idea central
 
@@ -739,7 +742,7 @@ La información registrada en nuestros estudios terminará generalmente en una b
 - Varias organizaciones han lanzado iniciativas de desarrollar elementos de datos comunes en áreas de investigación específicas con la intención de estandarizar estructuras de registros de datos y los formatos de los mismos.
 - En ensayos clínicos los formularios electrónicos son llamados *electronic case report forms* (eCRFs).
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-6039aa8c"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-18cffd9e">### Capítulo 17: implementando el estudio y control de calidad
+### Capítulo 17: Implementando el estudio y control de calidad
 
 #### Idea central
 
@@ -818,7 +821,7 @@ Un estudio bien diseñado puede fallar en la implementación. Una implementació
 - Cuando se usa *blinding* en el staff de laboratorio se deben tener procedimientos claros para reportar los resultados algún miembro del staff que esté calificado a revisar los resultados y decidir si el participantes debería ser notificado y qué acción tomar.
 - Un procedimiento estandarizado debe ser usado para cambiar datos originales o cualquier forma de datos. Este procedimiento debe consistir en indicar el cambio, la fecha y quién lo realizó sin borrar la información original. Esto brinda evidencia que justifica los cambios en la información y previene el fraude.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-478e76b3"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-7c77456c">### Capítulo 18: estudios comunitarios e internacionales
+### Capítulo 18: Estudios comunitarios e internacionales
 
 #### Idea central
 
@@ -845,7 +848,7 @@ Investigación comunitaria (*community research*) es definida como aquella que t
 - Estudios en países pobres que son dirigidos o financiados en otros lugares requieren aprobación de comités de ética de ambos países.
 - Una estrategia par analizar si es que una investigación internacional (en un país de bajos o medianos ingresos) tiene un conflicto ético fundamental es preguntarse por qué esta investigación no se realiza en un país rico. El objetivo verdadero debería ser obtener información para ayudar a las personas de aquel país, en lugar de conveniencia o para evitar obstáculos de hacer el estudio en un país rico.
 
-</div></div></div><div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-6fc79a4d"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-3f1966c3">### Capítulo 19: propuesta de financiación de la investigación
+### Capítulo 19: Propuesta de financiación de la investigación
 
 #### Idea central
 
@@ -901,7 +904,7 @@ El protocolo es necesario incluso si es que no se busca financiación, una propu
 - Realizar propuestas al NIH requiere ciertas consideraciones especiales y entendimiento del proceso (el libro incluye detalles sobre esto).
 - [The Foundation Center](http://fdncenter.org/) mantiene un directorio en el que se pueden buscar fundaciones y encontrar información de contacto, así como consejo sobre cómo escribir propuestas efectivas a fundaciones.
 
-</div></div></div>## Comentario general del libro
+## Comentario general del libro
 
 En realidad el libro superó mis expectativas, creo que me abrió el panorama completamente y me permitió poder tener un entendimiento general de cómo funciona la investigación en el área médica. Muchas de las dudas que tenía fueron solucionadas con la lectura del libro y en varios puntos me sentí identificado con algunas de las dificultades típicas que el libro mencionaba.
 
@@ -913,4 +916,4 @@ En conclusión, el libro fue muy valioso para mí y coincido con la persona que 
 
 En este video de mi canal de YouTube puede encontrarse un comentario sobre este libro y sus partes:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/PippPLykgjE?feature=oembed" title="Comentario del libro Designing Clinical Research" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PippPLykgjE?si=0_77aTPRlKxJumYb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

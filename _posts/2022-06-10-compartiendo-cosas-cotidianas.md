@@ -18,7 +18,7 @@ Durante la mayor parte de mi vida nunca he compartido mis cosas cotidianas (aunq
 
 > It’s what you do in the dark that puts you in the light.
 > 
-> <cite>Frase utilizada en una campaña de Under Armor.</cite>
+> — Under Armor (campaña publicitaria)
 
 Personalmente, además de esta idea, yo mismo me sentía muchas veces incluso avergonzado por las cosas que hacía, como si esforzarse fuera algo malo. Por ejemplo, en los deportes, sentía que tener que entrenar significaba que no era bueno naturalmente y esa no era una impresión que quería dar, me gustaba que todas las cosas me salieran bien a la primera, para sentir (y que otros sientan) que aquello que hacía era producto de lo que en esencia era y no algo que había conseguido de forma “artificial”. En resumen, sentía que el talento era más valioso que el esfuerzo y que *requerir esfuerzo evidenciaba falta de talento*.
 
@@ -28,13 +28,9 @@ Es por esto que muchas veces mentía sobre las cosas que hacía, intentaba ocult
 
 ## El esfuerzo no es malo
 
-Con forme fui creciendo cambié poco a poco mi forma de pensar respecto a esto y el deporte me ayudó mucho. Conocí a personas más talentosas que yo que se esforzaban muchísimo más que yo (como mi hermano) y personas que con esfuerzo terminaban siendo mejores que personas con mucho talento.
+Con forme fui creciendo cambié poco a poco mi forma de pensar respecto a esto y el deporte me ayudó mucho. Conocí a personas más talentosas que yo que se esforzaban muchísimo más que yo (como mi hermano) y personas que con esfuerzo terminaban siendo mejores que personas con mucho talento. Descubrí que personas con talento son más comunes que personas dispuestas al esfuerzo.
 
-> Descubrí que personas con talento son más comunes que personas dispuestas al esfuerzo.
-
-Además, en la carrera de medicina encontraba a veces a algunas personas que compartían sus experiencias y contaban las cosas que hacían. Lo veía de forma extraña, un poco crítica, porque no compartía esa forma de pensar. En muchas ocasiones pensaba que las cosas que hacían y compartían otras personas no eran para tanto, que no era algo que valía la pena. Pero cuando compartían sus fracasos e inseguridades, una parte de mí se sentía identificada y, al verlas compartir tan libremente todo eso, me sentía agradecido y menos solo. Poco a poco fui entendiendo que *tenía más valor compartir los fracasos que los éxitos*.
-
-> Quien forma su imagen en base al éxito no puede exigir que lo reconozcan en el fracaso.
+Además, en la carrera de medicina encontraba a veces a algunas personas que compartían sus experiencias y contaban las cosas que hacían. Lo veía de forma extraña, un poco crítica, porque no compartía esa forma de pensar. En muchas ocasiones pensaba que las cosas que hacían y compartían otras personas no eran para tanto, que no era algo que valía la pena. Pero cuando compartían sus fracasos e inseguridades, una parte de mí se sentía identificada y, al verlas compartir tan libremente todo eso, me sentía agradecido y menos solo. Poco a poco fui entendiendo que *tenía más valor compartir los fracasos que los éxitos*. Quien forma su imagen en base al éxito no puede exigir que lo reconozcan en el fracaso.
 
 Porque los errores, las dificultades, los sufrimientos nos unen más que los éxitos y las buenas cosas. Nuestro rechazo al dolor es una característica universal, algo en lo que todos estamos de acuerdo.
 
@@ -42,9 +38,7 @@ Porque los errores, las dificultades, los sufrimientos nos unen más que los éx
 
 En algún punto comencé a incorporar al esfuerzo a mi identidad, es más, di un giro completo a mi forma de hacer las cosas. Quería mostrar que era 100% esfuerzo y nada de talento, que no era naturalmente bueno en nada, pero que con esfuerzo tenía el potencial de poder ser bueno en lo que se me plazca (pensamiento raro, lo reconozco).
 
-Entonces, posteriormente me junté con personas que estaban dispuestas a esforzarse también y que les daba igual mostrar que se esforzaban. Aún así solo compartía mi esfuerzo con unas pocas personas, personas con las que compartía objetivos y con las que me sentía seguro y en confianza.
-
-> Pues entrenar, estudiar, aprender son cosas que muestran vulnerabilidad, mostrar los límites físicos y mentales de uno, mostrar el lado más débil y humano de uno.
+Entonces, posteriormente me junté con personas que estaban dispuestas a esforzarse también y que les daba igual mostrar que se esforzaban. Aún así solo compartía mi esfuerzo con unas pocas personas, personas con las que compartía objetivos y con las que me sentía seguro y en confianza. Pues entrenar, estudiar, aprender son cosas que muestran vulnerabilidad, mostrar los límites físicos y mentales de uno, mostrar el lado más débil y humano de uno.
 
 ## Traigan las luces
 
@@ -59,8 +53,8 @@ Comencé mostrándome más abierto con las personas cercanas que me rodean y de 
 - Registrar las cosas que hago me permite ser más consciente de aquello que realizo durante el día.
 - Me motiva a hacer cosas. Por ejemplo, en algunas ocasiones durante el día pienso en qué cosa interesante puedo hacer a continuación.
 
-Por este motivo probaré por un tiempo compartir algunas cosas de mi vida cotidiana a través de stories en Instagram. Esta es la cuenta: [@danimedi\_vlogs](https://www.instagram.com/danimedi_vlogs/).
+Por este motivo probaré por un tiempo compartir algunas cosas de mi vida cotidiana a través de stories en Instagram. Esta es la cuenta: [@danimedi\_\_](https://www.instagram.com/danimedi__/).
 
 > If you want to go fast, go alone. If you want to go far, go together.
 > 
-> <cite>Proverbio africano.</cite>
+> — Proverbio africano

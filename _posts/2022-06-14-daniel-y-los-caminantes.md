@@ -1,6 +1,6 @@
 ---
 id: 1109
-title: 'Daniel y los caminantes'
+title: 'Cuento: Daniel y los caminantes'
 date: '2022-06-14T21:50:32+00:00'
 author: DaniMedi
 layout: post
@@ -90,6 +90,10 @@ Alejandro no pudo contener la risa y Daniel lo siguió. Ambos se reían nerviosa
 
 Y así, Daniel, Daniel y Alejandro pasaron la noche soñando ante el calor de una fogata.
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-0e502459"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-3348514a">Este cuento refleja algunos pensamiento de mí, Daniel Alejandro. En [este otro post](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/) abordo algunos de estos temas, especialmente la parte de tener un impacto, con menos literatura u.u
+<br>
 
-</div></div></div>
+----
+
+<br>
+
+Este cuento refleja algunos pensamiento de mí, Daniel Alejandro. En [este otro post](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/) abordo algunos de estos temas, especialmente la parte de tener un impacto, con menos literatura.

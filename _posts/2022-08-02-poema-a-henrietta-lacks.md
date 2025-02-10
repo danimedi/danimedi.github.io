@@ -13,12 +13,13 @@ categories:
 
 Escribí este poema con la inspiración de la historia de Henrietta Lacks y [algunas controversias](https://apnews.com/article/business-thermo-fisher-scientific-inc-lawsuits-race-and-ethnicity-health-1b7942bb535b3656195d2347c9e676be) que hubieron a partir del uso de sus células.
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-bd1e2cbe"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-5db8438a">Una vez fue una célula  
+<em>
+Una vez fue una célula  
 La que dio lugar a ella,  
 Un individuo colectivo  
 Con una sola meta:  
-Persistir.
-
+Persistir.  
+<br>
 Y alguna de esas células  
 Tuvo un error, tuvo la idea  
 De crecer con mayor prisa  
@@ -27,8 +28,8 @@ Se comenzó a dividir
 Sin parar y acabó con todo,  
 No queda nada  
 No hay más historia  
-Así termina la vida de Henrietta.
-
+Así termina la vida de Henrietta.  
+<br>
 Y entonces, hubo un rescate,  
 De aquella célula,  
 De la causante del desenlace.  
@@ -36,29 +37,28 @@ Robó tu vida, robó tu nombre,
 Porque ya no eres tú.  
 Qué es lo que queda,  
 Quién es su dueño,  
-No estás aquí para decidirlo tú.
-
+No estás aquí para decidirlo tú.  
+<br>
 Probablemente,  
 No me importara,  
 Si no supiera  
 Que las células HeLa  
 Eran de ella,  
 Una persona  
-Como cualquiera.
-
+Como cualquiera.  
+<br>
 Quizá,  
 No me importara  
 Si no supiera  
 Que en esas células  
 Está el bosquejo  
 De lo que un día  
-Surgió Henrietta.
-
+Surgió Henrietta.  
+<br>
 Tal vez no me importaría,  
 Henrietta,  
 Si no supiera  
 Que alguna vez  
 Fuiste algo más  
-Que una célula.
-
-</div></div></div>
+Que una célula.  
+</em>

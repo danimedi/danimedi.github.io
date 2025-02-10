@@ -1,6 +1,6 @@
 ---
 id: 1543
-title: 'Internado médico: consejos de un ex-interno'
+title: 'Internado médico: Consejos de un ex-interno'
 date: '2024-03-16T22:43:44+00:00'
 author: DaniMedi
 layout: post
@@ -85,9 +85,13 @@ Algo importante a tener en cuenta es que al usar alguna plantilla puede existir 
 
 Algo que no debemos descuidar es el lavado de manos. Cuando hacemos historias clínicas y en la evaluación continua de los pacientes estamos en contacto con microorganismos y otros contaminantes que pueden afectar nuestra salud, por lo que no debemos olvidarnos del lavado de manos. Se recomienda lavarse las manos constantemente, en las siguientes situaciones:
 
-<figure class="wp-block-image size-large">![](https://openwho-public.s3.openhpicloud.de/courses/5rbHGauEcBxZSUsVqWB1nu/visual_v10.jpg)</figure>Es casi seguro que en el lugar donde estén tengan acceso a agua potable y jabón, clorhexidina o algo para lavarse las manos con agua. Sin embargo, el lavado de manos con agua y jabón puede ser tedioso y tardar mucho tiempo en algunas situaciones, como cuando debemos hacerlo en durante la visita médica o cuando necesitamos hacer muchas cosas en poco tiempo. En estas situaciones resulta más práctico el uso de alcohol en gel o algún desinfectante basado en alcohol que podemos llevar en el bolsillo y usarlo en todo momento. El siguiente video habla un poco sobre el tema, lo comparto porque lo considero importante (pueden verlo terminando de leer el post):
+![](https://openwho-public.s3.openhpicloud.de/courses/5rbHGauEcBxZSUsVqWB1nu/visual_v10.jpg)
 
-<figure class="wp-embed-aspect-4-3 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="900" loading="lazy" src="https://www.youtube.com/embed/uGmMDC-4IMY?feature=oembed" title="Hand Hygiene | NEJM" width="1200"></iframe></div></div></figure>¡Mantengan sus manos limpias!
+Es casi seguro que en el lugar donde estén tengan acceso a agua potable y jabón, clorhexidina o algo para lavarse las manos con agua. Sin embargo, el lavado de manos con agua y jabón puede ser tedioso y tardar mucho tiempo en algunas situaciones, como cuando debemos hacerlo en durante la visita médica o cuando necesitamos hacer muchas cosas en poco tiempo. En estas situaciones resulta más práctico el uso de alcohol en gel o algún desinfectante basado en alcohol que podemos llevar en el bolsillo y usarlo en todo momento. El siguiente video habla un poco sobre el tema, lo comparto porque lo considero importante (pueden verlo terminando de leer el post):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uGmMDC-4IMY?si=HalA4h6hsgKUs1rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+¡Mantengan sus manos limpias!
 
 ## Conociendo a los pacientes
 
@@ -122,9 +126,13 @@ Así como la estructura de la visita médica y las cosas que se exigían en esta
 
 Respecto a esto durante el internado usamos diferentes estrategias para registrar la información de los pacientes. Habitualmente, cuando teníamos varios pacientes a nuestro cargo, como en especialidades como cirugía, obstetricia y medicina interna ayudaba usar alguna base de datos como tablas en Excel o en [Google Spreadsheets](https://docs.google.com/spreadsheets) o tablas en [Google Docs](https://docs.google.com/). Otra cosa que podía ayudar era copiar cosas en formato de texto plano, como evoluciones, en [Google Docs](https://docs.google.com/). Cada estrategia tiene pros y contras y es cuestión de probar cuál funciona mejor. Personalmente, al final le agarré más gusto a registrar información en formato de texto en [Google Docs](https://docs.google.com/) y separar la información de los pacientes con encabezados para cada paciente, usaba la opción de no tener una página y para encontrar rápidamente la información de un paciente determinado simplemente buscaba en el índice generado automáticamente a partir de los encabezados. Tenía la opción de poder acceder al documento incluso sin estar conectado a internet y lo usaba durante la visita para presentar pacientes usando mi celular o también durante los “Rounds” de medicina interna. Algo como lo mostrado en la imagen.
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2024/03/example_patient_information_google_docs.png)</figure>Sin embargo, cuando trabaja en grupo con otros internos habitualmente usábamos tablas, por ejemplo, para obstetricia usábamos una tabla en [Google Docs](https://docs.google.com/) en la que cada fila era un paciente y en cada columna registrábamos información. En la siguiente tabla se muestran las columnas.
+![](/assets/images/example_patient_information_google_docs.png)
 
-<figure class="wp-block-image size-large">![](https://danimedi.com/wp-content/uploads/2024/03/example_patient_information_table_google_docs-1024x191.png)</figure>En la primera columna también agregábamos cosas como el número de cama, el DNI, la edad, la fecha de última actualización de la información.
+Sin embargo, cuando trabaja en grupo con otros internos habitualmente usábamos tablas, por ejemplo, para obstetricia usábamos una tabla en [Google Docs](https://docs.google.com/) en la que cada fila era un paciente y en cada columna registrábamos información. En la siguiente tabla se muestran las columnas.
+
+![](/assets/images/example_patient_information_table_google_docs.png)
+
+En la primera columna también agregábamos cosas como el número de cama, el DNI, la edad, la fecha de última actualización de la información.
 
 Otra opción es usar tablas en [Google Spreadsheets](https://docs.google.com/spreadsheets), algo que solíamos hacer en cirugía y tiene algunas ventajas también, por ejemplo, con una función que compare la fecha de hoy con la fecha de la cirugía se podía obtener de forma automatizada el día postoperatorio, eso hacíamos en cirugía.
 
@@ -235,4 +243,4 @@ Algunos posts que escribí relacionados son los siguientes:
 
 Realicé el siguiente video en YouTube abordando el contenido de este post:
 
-<figure class="wp-embed-aspect-4-3 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="900" loading="lazy" src="https://www.youtube.com/embed/EU_WNDwFL-E?feature=oembed" title="Internado médico: Experiencias de un ex-interno" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EU_WNDwFL-E?si=PwoeAjopRWEzfeSZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -134,4 +134,4 @@ En esta página web escribí anteriormente publicaciones con mi experiencia prep
 
 Realicé un video de YouTube con el contenido de este post:
 
-<figure class="wp-embed-aspect-16-9 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/bBMdiL16N-A?feature=oembed" title="Cómo prepararse para un examen" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBMdiL16N-A?si=7juh79de6g6uRSkP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

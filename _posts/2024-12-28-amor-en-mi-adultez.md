@@ -58,4 +58,4 @@ Y no lo digo de forma triste o resignada, soy consciente de que es perfectamente
 
 No sé muy bien cómo se sienten los demás respecto a esto, a veces me gustaría salir a tomar algún jugo con alguien para hablar de este tema. Preguntarles a los demás si les ocurre lo mismo, si también su paleta del amor se está volviendo color pastel.
 
-> Tal vez sea una situación típica de la adultez, lo suficientemente importante para ameritar pensar al respecto, pero sin la urgencia necesaria que genere una acción o una emoción profunda.
+Tal vez sea una situación típica de la adultez, lo suficientemente importante para ameritar pensar al respecto, pero sin la urgencia necesaria que genere una acción o una emoción profunda.

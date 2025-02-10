@@ -34,13 +34,13 @@ Es así que descubrí [Notion](https://www.notion.so/). En realidad ya lo conoc�
 
 > Your mind is for having ideas, not holding them.
 > 
-> <cite>— David Allen</cite>
+> — David Allen
 
 Y esta otra:
 
 > The shortest pencil is longer than the longest memory.
 > 
-> <cite>— Mark Batterson</cite>
+> — Mark Batterson
 
 Entonces decidí probar Notion. Muchos youtubers que sigo lo recomendaban, como [Thomas Frank](https://www.youtube.com/c/Thomasfrank) y [Ali Abdaal](https://www.youtube.com/c/aliabdaal), así que decidí darle una oportunidad.
 
@@ -52,9 +52,11 @@ Así fue que comencé a usar Notion y rápidamente le agarré el gusto. Diría q
 
 ### Cosas que hago en Notion
 
-En este video muestro cómo organizo algunas cosas de mi vida en Notion (cosa de la que hablo en este [otro post](https://danimedi.com/blog/mi-nueva-forma-de-organizar-mi-vida/)).
+En este GIF muestro cómo organizo algunas cosas de mi vida en Notion (cosa de la que hablo en este [otro post](https://danimedi.com/blog/mi-nueva-forma-de-organizar-mi-vida/)).
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/08/my-life-plan-notion-tour.mp4"></video></figure>Y actualmente realmente uso Notion para muchas cosas. Cosas como tener mis motivos claros, administrar mis proyectos, llevar mis finanzas, guardar mis escritos e ideas.
+![](/assets/images/my-life-plan-notion-tour.gif)
+
+Y actualmente realmente uso Notion para muchas cosas. Cosas como tener mis motivos claros, administrar mis proyectos, llevar mis finanzas, guardar mis escritos e ideas.
 
 ### ¿Cómo comenzar?
 

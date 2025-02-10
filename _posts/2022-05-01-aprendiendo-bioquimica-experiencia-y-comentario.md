@@ -1,6 +1,6 @@
 ---
 id: 910
-title: 'Aprendiendo bioquímica: experiencia y comentario'
+title: 'Aprendiendo bioquímica: Experiencia y comentario'
 date: '2022-05-01T15:40:37+00:00'
 author: DaniMedi
 layout: post
@@ -68,4 +68,4 @@ Algo a tener en cuenta, por ejemplo, es que hay algunos temas en los que puede e
 
 Este post está acompañado por un video en el canal de YouTube:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/nPaAoAsYjF8?feature=oembed" title="Aprendiendo bioquímica: experiencia y comentario" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nPaAoAsYjF8?si=3VI9ji9ehFFpvymn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -26,7 +26,9 @@ Antes de decidir organizar nuestro tiempo debemos saber qué cosas queremos hace
 
 Esta libertad puede abrumarnos y hacernos pensar de que no hay manera de que tomemos la decisión correcta entre tantas posibilidades, pero también nos hace realmente dueños de lo que queremos hacer y de las cosas a las que les damos valor.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/MBRqu0YOH14?feature=oembed" title="Optimistic Nihilism" width="1200"></iframe></div></div></figure>Lógicamente, cada persona tiene su propia forma de dar valor y decidir qué hacer, pero es importante tener alguna idea de qué es lo que queremos más, para no distraernos en algunas cosas que no son lo que queremos más y son solamente lo que queremos en algún momento.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBRqu0YOH14?si=VeI4eWhNNVTZsV7z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Lógicamente, cada persona tiene su propia forma de dar valor y decidir qué hacer, pero es importante tener alguna idea de qué es lo que queremos más, para no distraernos en algunas cosas que no son lo que queremos más y son solamente lo que queremos en algún momento.
 
 Una frase que ilustra el enfoque de esto es “Dream big, start small”. Lo que quiere decir que tenemos la libertad de soñar y atrevernos a tener grandes planes para poder tener siempre cosas pequeñas que hacer en nuestro día a día.
 
@@ -52,21 +54,22 @@ Las actividades que haremos cada día pueden clasificarse artificialmente en:
 
 ### Rutinas
 
-<figure class="wp-block-table">| Pros | Contras |
+| Pros | Contras |
 |---|---|
-| &gt; Más eficiente distribución de esfuerzo en el tiempo.   &gt; No requiere pensar mucho (solo planificación inicial). | &gt; Poca flexibilidad.   &gt; Puede llegar a ser monótono.   &gt; Más propenso a terminar en una zona de confort. |
+| &gt; Más eficiente distribución de esfuerzo en el tiempo. <br> &gt; No requiere pensar mucho (solo planificación inicial). | &gt; Poca flexibilidad. <br> &gt; Puede llegar a ser monótono. <br> &gt; Más propenso a terminar en una zona de confort. |
 
-</figure>Para tener rutinas uso alarmas en el celular y a veces creo algún horario semanal en Excel con las actividades que hacer durante la semana (ej. horario de clases en la universidad).
+Para tener rutinas uso alarmas en el celular y a veces creo algún horario semanal en Excel con las actividades que hacer durante la semana (ej. horario de clases en la universidad).
 
 Entre las cosas que realizo como rutinas de forma diaria se encuentran estudiar y preparar el almuerzo.
 
 ### Planes / eventos
 
-<figure class="wp-block-table">| Pros | Contras |
-|---|---|
-| &gt; Gran flexibilidad.   &gt; Mínima monotonía. | &gt; Tiempo para planificar. |
 
-</figure>Para los planes y/o eventos uso Google Calendar.
+| Pros | Contras |
+|---|---|
+| &gt; Gran flexibilidad. <br> &gt; Mínima monotonía. | &gt; Tiempo para planificar. |
+
+Para los planes y/o eventos uso Google Calendar.
 
 Últimamente uso esto bastante y mi calendario está lleno de colorcitos, con actividades por hacer todos los días. Estas actividades incluyen cumpleaños de amigos, trabajos, días de limpieza, entretenimiento, entre muchísimas otras.
 
@@ -84,7 +87,7 @@ Podemos tener en mente que nuestros planes son simplemente una guía. Las cosas 
 
 > *Plans are useless but planning is indispensable.*
 > 
-> <cite>Dwight D. Eisenhower</cite>
+> — Dwight D. Eisenhower
 
 ## Mejorar eficiencia y no solo aumentar tiempo
 
@@ -132,10 +135,10 @@ Es probable que, sin importar la estrategia que usemos, llegue algún día en el
 
 Tener disciplina para cumplir con las cosas que nos proponemos es algo que se entrena y se mejor a conforme la usamos. Debemos tener paciencia y ser constantes, mejorar poco a poco. “Dream big, start small”.
 
-> *Cuando lo extraordinario se vuelve lo normal, significa que mejoramos.*
+*Cuando lo extraordinario se vuelve lo normal, significa que mejoramos.*
 
 Suele pasar que nuestros éxitos del día a día dejan de darnos satisfacción y se transforman en lo “normal”. Es bueno saber contemplar lo mucho que hemos avanzado y sentirnos contentos de nosotros mismos.
 
 Aquí hay un video en mi canal de YouTube en el que hablo de esto mismo:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="900" loading="lazy" src="https://www.youtube.com/embed/o-bEZ0qjUfM?feature=oembed" title="Manejando mi tiempo" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-bEZ0qjUfM?si=NZ8tz-4SqLgBBbRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -25,9 +25,7 @@ HTML y CSS no son lenguajes de programación en sí, por lo que tal vez no deber
 
 Lo que sucede es que en Anki se pueden diseñar las flashcards mediante la utilización de HTML y CSS. Es decir, poder usar HTML tags y CSS selectos para manipular las características de mis flashcards (ej. tamaño de letra, alineación, colores) era algo que me resultaba interesante, divertido y algo a lo que le dediqué tiempo para aprender. Incluso realicé varios tutoriales al respecto (aquí tengo un [post sobre el tema](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/)).
 
-Además, Anki tiene algunas cosas propias adicionales, como el uso de condicionales. Todo esto hizo que me llamara la atención diseñar cosas con la computadora.
-
-> Sentía como si hablara con la computadora. Yo le daba indicaciones y ella me obedecía. Nunca se equivocaba, si ocurría algo que no esperaba era mi error, no el suyo.
+Además, Anki tiene algunas cosas propias adicionales, como el uso de condicionales. Todo esto hizo que me llamara la atención diseñar cosas con la computadora. Sentía como si hablara con la computadora. Yo le daba indicaciones y ella me obedecía. Nunca se equivocaba, si ocurría algo que no esperaba era mi error, no el suyo.
 
 Si bien algunos no considerarían usar HTML o CSS como programar, muchos de los sentimientos que tenía al hacer cosas con ellos también los tuve cuando utilicé lenguajes de programación como R y Python.
 
@@ -41,11 +39,12 @@ La parte teórica puede aprenderse de [W3Schools](https://www.w3schools.com/), q
 
 Mi objetivo de aprender a usar R fue hacer estadísticas inicialmente. Recuerdo que en mi mente esperaba que fuera algo similar a Excel y fue un choque tremendo para mí descubrir que no se parecía en nada. Al comienzo me resulto todo muy complejo e incomprensible, pero poco a poco las cosas comenzaron a adquirir cierto sentido y finalmente terminé completamente maravillado por las cosas que era capaz de hacer con muy pocos conocimientos y con muy poco código.
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2022/08/ggplot2-graph-example.jpg)<figcaption>Ejemplo de cómo se puede hacer un gráfico complejo con pocas líneas de código ([link](https://r4ds.had.co.nz/data-visualisation.html)).</figcaption></figure>Realmente se me hacía raro hacer cosas tan complejas de una forma tan sencilla. Por el lado de la estadística, las cosas eran incluso más locas. Se podían realizar pruebas muy complejas simplemente con una función, utilizando una palabra y colocando los argumentos.
+![](/assets/images/ggplot2-graph-example.jpg)
+*Ejemplo de cómo se puede hacer un gráfico complejo con pocas líneas de código ([link](https://r4ds.had.co.nz/data-visualisation.html)).*
 
-Descubrir el canal de YouTube [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures) fue absolutamente increíble para mí. Lo descubrí cuando ya había aprendido cosas básicas de R y quería aprender estadística.
+Realmente se me hacía raro hacer cosas tan complejas de una forma tan sencilla. Por el lado de la estadística, las cosas eran incluso más locas. Se podían realizar pruebas muy complejas simplemente con una función, utilizando una palabra y colocando los argumentos.
 
-> El hecho de que enseñara estadística usando R y con ejemplos centrados en el área de medicina hizo que se sintiera como un regalo divino destinado para mí.
+Descubrir el canal de YouTube [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures) fue absolutamente increíble para mí. Lo descubrí cuando ya había aprendido cosas básicas de R y quería aprender estadística. El hecho de que enseñara estadística usando R y con ejemplos centrados en el área de medicina hizo que se sintiera como un regalo divino destinado para mí.
 
 Posteriormente seguí un curso de análisis de datos y también leí un libro disponible abiertamente en internet llamado “[R for Data Science](https://r4ds.had.co.nz/)” que enseña como realizar manejo y análisis de datos en R utilizando paquetes que conforman lo que se conoce como “[tidyverse](https://www.tidyverse.org/)“.
 
@@ -53,7 +52,7 @@ Después de todo eso aprendí algunas cosas más, como hacer aplicaciones web co
 
 ### ¿Cómo aprender?
 
-Me encantó cómo aprendí R, se sintió como una aventura. No tenía idea de qué trataba, no sabía que esperar, ni sabía de qué trataba un lenguaje de programación. Todo aquello que aprendía era completamente novedoso e interesante para mí. Sin embargo, si alguno no quiere gastar mucho tiempo aprendiendo, el camino que tomé no es el más adecuado, probablemente.
+Me gustó cómo aprendí R, se sintió como una aventura. No tenía idea de qué trataba, no sabía que esperar, ni sabía de qué trataba un lenguaje de programación. Todo aquello que aprendía era completamente novedoso e interesante para mí. Sin embargo, si alguno no quiere gastar mucho tiempo aprendiendo, el camino que tomé no es el más adecuado, probablemente.
 
 Si tuviera que aprender de nuevo y no quisiera gastar mucho tiempo, primero comenzaría aprendiendo lo básico de R. Para esto recomendaría mi propia playlist en YouTube: [Tutorial básico de R / Programación básica en R](https://www.youtube.com/playlist?list=PLiR4mMxzSHWjkzl-JAcCQ6LKV8b2I8LzR). Diría que es mi mejor playlist, estoy bastante orgulloso de ella, a pesar de que sea una de las que menos vistas tiene. Creé la playlist como para que la viera mi hermano menor y aprendiera a programar.
 
@@ -74,13 +73,10 @@ Después de aprender R me animé a aprender Python. Debo decir que no fue tan di
 
 Lo que sucedió con Python es que en todo momento fui bastante superior usando R y me resultaba más sencillo hacer cosas en R. De hecho, diría que es, en general, más sencillo hacer manejo de datos y estadística en R.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> One of the many reasons I chose R.   
->   
-> True story. 🧵[\#rstats](https://twitter.com/hashtag/rstats?src=hash&ref_src=twsrc%5Etfw) [\#python](https://twitter.com/hashtag/python?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/yp3YKfgNtV](https://t.co/yp3YKfgNtV)
-> 
-> — Matt Dancho (Business Science) (@mdancho84) [August 19, 2022](https://twitter.com/mdancho84/status/1560584110124449792?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Esto hizo que no tuviera tantos incentivos que me empujaran a dominar Python con mayor profundidad, así que simplemente he hecho proyectos ocasionales en Python. Proyectos que eran más como retos, ya que podría haberlos hecho de forma más sencilla con R.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of the many reasons I chose R. <br><br>True story. 🧵<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://t.co/yp3YKfgNtV">pic.twitter.com/yp3YKfgNtV</a></p>&mdash; 🔥 Matt Dancho (Business Science) 🔥 (@mdancho84) <a href="https://twitter.com/mdancho84/status/1560584110124449792?ref_src=twsrc%5Etfw">August 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Esto hizo que no tuviera tantos incentivos que me empujaran a dominar Python con mayor profundidad, así que simplemente he hecho proyectos ocasionales en Python. Proyectos que eran más como retos, ya que podría haberlos hecho de forma más sencilla con R.
 
 ### ¿Cómo aprender?
 

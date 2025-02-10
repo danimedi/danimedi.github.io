@@ -1,6 +1,6 @@
 ---
 id: 892
-title: 'Poema &#8220;Y si todo sale bien?&#8221;'
+title: 'Poema ¿Y si todo sale bien?'
 date: '2022-04-12T16:21:51+00:00'
 author: DaniMedi
 layout: post
@@ -15,25 +15,29 @@ categories:
 
 Escribí este poema el 12 de abril de 2022, inspirado por la imagen de una story de Instagram de una amiga.
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-e5ea98f8"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-44633162">### Y si todo sale bien?
+### Y si todo sale bien?
 
-Y si todo sale bien?  
-Qué tal es mi día de suerte.  
+<em>
+Y si todo sale bien,  
+qué tal es mi día de suerte.  
 Si me despierto sano  
-Con gente que me quiere al lado.
-
+con gente que me quiere al lado.  
+<br>
 Si pudiera hacer lo que sea que mi alma anhela,  
-Sonreír, llorar, amar, ser feliz,  
-Tener comida en la mesa  
-Y en mi mente un sueño,  
-Un lugar al que ir,  
-Un deseo, una meta.
-
+sonreír, llorar, amar, ser feliz,  
+tener comida en la mesa  
+y en mi mente un sueño,  
+un lugar al que ir,  
+un deseo, una meta.  
+<br>
 Podría colorear mi día  
-Con expectativas,  
-Con perspectivas nuevas,  
-Con ganas de vivir la vida,  
-De estudiar, de aprender, de reír  
-O de incluso escribir un poema 🙂
-
-</div></div></div><figure class="wp-block-audio"><audio controls="" src="https://danimedi.com/wp-content/uploads/2022/04/poema-y-si-todo-sale-bien.mp3"></audio></figure>
+con expectativas,  
+con perspectivas nuevas,  
+con ganas de vivir la vida,  
+de estudiar, de aprender, de reír  
+o de incluso escribir un poema.  
+</em>
+<br>
+<audio controls>
+  <source src="/assets/audios/poema-y-si-todo-sale-bien.mp3" type="audio/mpeg">
+</audio>

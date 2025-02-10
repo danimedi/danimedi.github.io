@@ -45,25 +45,25 @@ Existen diferentes formas de tener experiencia clínica en Estados Unidos y hay 
 
 Los métodos formales u oficiales serían aquellos en los que uno entabla una conversación directa con alguna universidad u hospital de allá y la admisión se hace directamente mediante el proceso estándar para estudiantes visitantes internacionales.
 
-<figure class="wp-block-table">| **Ventajas** | **Desventajas** |
-|---|---|
-| &gt; Experiencia certificada por una institución.   &gt; Más oportunidades de tener realmente práctica clínica (hands-on experience).   &gt; Mayor valor percibido. | &gt; Mayor competencia (mayor número de interesados).   &gt; Usualmente más requisitos (ej. Step 1, TOEFL, estar en el último año).   &gt; Menor flexibilidad de tiempos y lugares. |
+| **Ventajas** | **Desventajas** |
+|-------------|---------------|
+| - Experiencia certificada por una institución.  <br> - Más oportunidades de tener realmente práctica clínica (hands-on experience).  <br> - Mayor valor percibido. | - Mayor competencia (mayor número de interesados).  <br> - Usualmente más requisitos (ej. Step 1, TOEFL, estar en el último año).  <br> - Menor flexibilidad de tiempos y lugares. |
 
-</figure>### No formales
+### No formales
 
 Los métodos no formales o no oficiales comprenden la obtención de experiencia clínica de forma alternativa, generalmente a través de un médico que trabaja allá. Esto puede realizarse de forma directa (ej. contactos en Estados Unidos) o mediante el uso de alguna empresa encargada de brindar estos servicios. Respecto a estas empresas, en realidad esto siempre me ha dado un poco de miedo, porque las estafas por internet abundan hoy en día, pero sé de primera mano que algunos compañeros han usado empresas como AMOpportunities.
 
-<figure class="wp-block-table">| **Ventajas** | **Desventajas** |
-|---|---|
-| &gt; Mayor flexibilidad de tiempos y lugares.   &gt; Pocos requisitos. | &gt; Usualmente no certificado por una institución. |
+| **Ventajas** | **Desventajas** |
+|-------------|---------------|
+| - Mayor flexibilidad de tiempos y lugares.  <br> - Pocos requisitos. | - Usualmente no certificado por una institución. |
 
-</figure>En lo personal, considero que los métodos formales u oficiales son los que brindan un mayor valor por el costo, por lo que considero que para mí son una mejor opción; sin embargo, tener cualquier experiencia clínica es mejor que no tener ninguna y los métodos “no oficiales” también brindan posibilidades para adquirir cierta experiencia. Por ejemplo, no estar en el último año, no tener un nivel de inglés certificado, no haber dado el USMLE Step 1 podrían ser algunas limitaciones de seguir los métodos formales y los métodos “no formales” podrían brindar este tipo de experiencia.
+En lo personal, considero que los métodos formales u oficiales son los que brindan un mayor valor por el costo, por lo que considero que para mí son una mejor opción; sin embargo, tener cualquier experiencia clínica es mejor que no tener ninguna y los métodos “no oficiales” también brindan posibilidades para adquirir cierta experiencia. Por ejemplo, no estar en el último año, no tener un nivel de inglés certificado, no haber dado el USMLE Step 1 podrían ser algunas limitaciones de seguir los métodos formales y los métodos “no formales” podrían brindar este tipo de experiencia.
 
 ## Postulando de forma “formal” u “oficial”
 
 Ahora, para postular a alguna rotación clínica en una universidad u hospital de forma directa, que es lo que personalmente estuve haciendo, se debe buscar las páginas web correspondientes de forma individual y observar si estas reciben estudiantes de medicina internacionales, así como los requisitos que se tienen. Este proceso puede llegar a ser algo tedioso, pero se puede hacer de diferentes maneras.
 
-Para hacer esto utilicé un método que encontré por ahí, así como algunos recursos que encontré por internet. Para encontrar programas específicos de universidades u hospitales busqué en Google de la siguiente forma: “\[*hospital/university*\] (foreign OR international) (medical OR medicine) student (rotation OR elective OR clerkship)”. Algunos recursos que encontré útiles para encontrar rotaciones son los siguientes: [US Electives](http://electives.us/), [list of 50 hospitals for IMGs by Doctor Sebas](https://www.doctorsebas.com/post/3cf89da0), [Residency Explorer](https://www.residencyexplorer.org/Home/Dashboard).
+Para hacer esto utilicé un método que encontré por ahí, así como algunos recursos que encontré por internet. Para encontrar programas específicos de universidades u hospitales busqué en Google de la siguiente forma: `\[*hospital/university*\] (foreign OR international) (medical OR medicine) student (rotation OR elective OR clerkship)`. Algunos recursos que encontré útiles para encontrar rotaciones son los siguientes: [US Electives](http://electives.us/), [list of 50 hospitals for IMGs by Doctor Sebas](https://www.doctorsebas.com/post/3cf89da0), [Residency Explorer](https://www.residencyexplorer.org/Home/Dashboard).
 
 Nota: existe un programa que recientemente se está implementando que es el [VSLO program](https://students-residents.aamc.org/visiting-student-learning-opportunities/visiting-student-learning-opportunities-1). Este programa alivia un poco el problema de estar buscando las páginas web una por una y permite encontrar las distintas oportunidades en una sola plataforma; sin embargo, las universidades u hospitales que se encuentran en este programa solo aceptan a estudiantes de universidades que forman parte del mismo, en el caso de mi país, Perú, a la fecha de escribir este post, solo tiene en este programa las siguientes universidades:
 
@@ -127,4 +127,6 @@ Entonces, me encuentro en la incertidumbre de si seré capaz de poder tener la v
 
 Los temas de este post son desarrollados en el siguiente video:
 
-<figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">https://youtu.be/2xc4Jcy6RKo </div></figure>Si alguno tiene alguna información, comentario o crítica puede hacerla en los comentarios de este video de YouTube 🙂
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xc4Jcy6RKo?si=Nsq_OSdQrcA_qLm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Si alguno tiene alguna información, comentario o crítica puede hacerla en los comentarios de este video de YouTube 🙂

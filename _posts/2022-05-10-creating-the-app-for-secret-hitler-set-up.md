@@ -15,7 +15,7 @@ Secret Hitler is probably my favorite board game ever. I think that one of the c
 
 So, one day, my brother told me one idea he had about automatizing this process by creating a a computer program. He explained to me the details and I thought that it could be a challenge for me and something really interesting to try. So I did it and this is how I did it.
 
-> NOTE: this is not a tutorial about how to create this Shiny app, but I might make one in the future. This post contains general information about the conceptual process of creating this app and only some simple technical considerations.
+*NOTE: this is not a tutorial about how to create this Shiny app, but I might make one in the future. This post contains general information about the conceptual process of creating this app and only some simple technical considerations.*
 
 ## Basic idea
 

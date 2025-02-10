@@ -24,7 +24,9 @@ Este post es acompañado por un [video de YouTube](https://youtu.be/nsXewKrXFlc)
 
 Esta nueva actualización ya no soporta el uso de la versión 1 del scheduler (versión antigua). Esto no es la gran cosa, ya que la [versión 2](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html) y la nueva [versión 3](https://faqs.ankiweb.net/the-2021-scheduler.html#daily-limits) son mejores en muchos sentidos. Para esta actualización ahora es necesario pasar a alguna de estas. Esto se puede hacer desde “Preferencias” (*Preferences*).
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/04/anki-example-v3-scheduler.mp4"></video></figure>También se incluyen algunos cambios en la más nueva versión 3 del scheduler. La mayoría de estos cambios me parecen positivos en lo general y al probarlos funcionan adecuadamente. La lista completa de cambios en la versión 3 del scheduler puede encontrarse en la [página web de cambios para esta versión](https://github.com/ankitects/anki/releases) (en la parte de “Scheduler Changes”).
+![](/assets/images/anki-example-v3-scheduler.gif)
+
+También se incluyen algunos cambios en la más nueva versión 3 del scheduler. La mayoría de estos cambios me parecen positivos en lo general y al probarlos funcionan adecuadamente. La lista completa de cambios en la versión 3 del scheduler puede encontrarse en la [página web de cambios para esta versión](https://github.com/ankitects/anki/releases) (en la parte de “Scheduler Changes”).
 
 ## Cambios en el editor
 
@@ -35,7 +37,9 @@ Los cambios en el editor son bastante visibles. Entre ellos se mejoran y se corr
 - El tamaño de las imágenes puede ser ajustado desde el editor.
 - Los campos/fields pueden tener ahora una descripción opcional.
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/04/anki-example-new-editor.mp4"></video></figure>Personalmente, estos cambios en el editor me parecen fantásticos y solucionan muchos de los problemas que antes se tenían. Por ejemplo, los cambios en la forma de agregar e editar etiquetas me parece algo absolutamente genial y creo que significativamente mejora la forma de lidiar con las etiquetas.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2y3nsmGApcU?si=bJNFtwACGfTg_VBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Personalmente, estos cambios en el editor me parecen fantásticos y solucionan muchos de los problemas que antes se tenían. Por ejemplo, los cambios en la forma de agregar e editar etiquetas me parece algo absolutamente genial y creo que significativamente mejora la forma de lidiar con las etiquetas.
 
 ## Nuevas funciones
 
@@ -57,4 +61,4 @@ He probado esta actualización ya una semana y me gusta mucho, así que seguiré
 
 Este tema es abordado en un video de YouTube del canal:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/nsXewKrXFlc?feature=oembed" title="Cambios en la actualización de Anki 2.1.50" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nsXewKrXFlc?si=48dj2CuHJ_-eSiG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

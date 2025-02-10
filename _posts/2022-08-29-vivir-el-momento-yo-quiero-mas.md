@@ -21,14 +21,9 @@ Porque lo que sucede es que, si bien vivimos en el presente, muchas de las cosas
 
 Muchas de estas cosas se consiguen a través de esfuerzos constantes y sacrificios. Implican dejar de hacer cosas que queremos hacer de forma inmediata para conseguir algo que queremos más.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Si prefieres eso mucho más,  
-> por qué sacrificarlo por aquello  
-> que tan solo  
-> quieres ahora.
-> 
-> — DaniMedi (@danimedi555) [August 29, 2022](https://twitter.com/danimedi555/status/1564047428289978368?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Si prefieres eso mucho más,<br>por qué sacrificarlo por aquello<br>que tan solo<br>quieres ahora.</p>&mdash; DaniMedi (@danimedi555) <a href="https://twitter.com/danimedi555/status/1564047428289978368?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Optar todo el tiempo por realizar cosas que satisfacen simplemente nuestros deseos momentáneos es en muchos casos un impedimento para poder cumplir las cosas que deseamos más profundamente, que tienen un mayor significado. Imagina no conseguir tu título universitario por no estudiar, producto de que, al vivir el momento, optes todo el tiempo por ir a fiestas, jugar videojuegos y hacer todas aquellas cosas que (aunque momentáneamente) te hacen muy feliz.
+Optar todo el tiempo por realizar cosas que satisfacen simplemente nuestros deseos momentáneos es en muchos casos un impedimento para poder cumplir las cosas que deseamos más profundamente, que tienen un mayor significado. Imagina no conseguir tu título universitario por no estudiar, producto de que, al vivir el momento, optes todo el tiempo por ir a fiestas, jugar videojuegos y hacer todas aquellas cosas que (aunque momentáneamente) te hacen muy feliz.
 
 ## Una interpretación más razonable
 
@@ -40,28 +35,17 @@ Yo disfruto estudiar, y el motivo por el cual disfruto hacerlo es porque sé que
 
 Idea que, de alguna manera, se plasma en este tweet:
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Tener un objetivo  
-> me brinda un camino  
-> al cual seguir,  
-> me brinda una excusa  
-> para ser feliz.
-> 
-> — DaniMedi (@danimedi555) [August 27, 2022](https://twitter.com/danimedi555/status/1563514016693383168?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Tener un objetivo<br>me brinda un camino<br>al cual seguir,<br>me brinda una excusa<br>para ser feliz.</p>&mdash; DaniMedi (@danimedi555) <a href="https://twitter.com/danimedi555/status/1563514016693383168?ref_src=twsrc%5Etfw">August 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>## ¿Es todo un sacrificio?
+## ¿Es todo un sacrificio?
 
 Entonces, ¿hay algún sentido en salir a fiestas, salir a jugar pichangas, hacer cosas que me dan una satisfacción momentánea pero que no contribuyen a conseguir algún objetivo “profundo”? ¿Es todo esto una pérdida de tiempo que debería ser eliminado de la vida de uno?
 
 Yo creo que podemos hacer estas cosas, porque queremos, porque somos libres de hacerlo, porque decidimos utilizar nuestra libertad para hacer estas cosas. Pero no lo hacemos “a ciegas”, sin ver más allá que el momento, lo hacemos siendo conscientes de las consecuencias que estas actividades tienen y pensando en las cosas buenas y malas que nos brindan.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Libertad  
-> es como esa moneda  
-> para comprar  
-> todo.
-> 
-> — DaniMedi (@danimedi555) [August 29, 2022](https://twitter.com/danimedi555/status/1564052186480394241?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Libertad<br>es como esa moneda<br>para comprar<br>todo.</p>&mdash; DaniMedi (@danimedi555) <a href="https://twitter.com/danimedi555/status/1564052186480394241?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Salir a jugar una pichanga es una forma de hacer ejercicio, de sociabilizar. Incluso, podría ser el medio para conseguir algún objetivo que tengamos (ej. ser el goleador del próximo campeonato de fútbol). Quién sabe, tal vez jugar pichangas lo ayuda a uno a estudiar mejor. Y también tiene cosas malas, como todo, como estudiar o realizar otras cosas que son consideradas como “buenas” de forma absoluta.
+Salir a jugar una pichanga es una forma de hacer ejercicio, de sociabilizar. Incluso, podría ser el medio para conseguir algún objetivo que tengamos (ej. ser el goleador del próximo campeonato de fútbol). Quién sabe, tal vez jugar pichangas lo ayuda a uno a estudiar mejor. Y también tiene cosas malas, como todo, como estudiar o realizar otras cosas que son consideradas como “buenas” de forma absoluta.
 
 Mi postura es que todo se basa en la libertad. Tener mayor libertad es mejor y por este motivo argumento que pensar en hacer las cosas guiados por “vivir el momento” (en su interpretación habitual expuesta anteriormente) puede ser perjudicial, porque puede ser un impedimento para nuestra libertad.
 
@@ -75,23 +59,9 @@ Tener libertad se trata de poder decidir emprender los caminos que queremos. Por
 
 Por otro lado, una persona que simplemente se guía por sus deseos inmediatos tiene realmente una menor libertad, aunque en el momento parezca que es lo opuesto. Las cosas que se pueden hacer de forma inmediata o a muy corto plazo, lo que se suele considerar como “el momento” o “el presente” tienen un límite. Puedo enumerar algunas: tomar agua, ir al baño, comer, besar a alguien, tener sexo, jugar videojuegos, masturbarse. Pero, si no se tiene nada más, entonces qué libertad le queda a uno realmente.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Libertad,  
-> es lo que buscamos,  
-> nuestro más profundo deseo,  
-> y lo mejor es  
-> que ya la hemos conseguido.  
->   
-> Hacemos lo que queremos,  
-> sí,  
-> pero cuánto queremos,  
-> ahí está el detalle.  
-> Qué tan lejos podemos ver  
-> para ejercer nuestra libertad  
-> plenamente.
-> 
-> — DaniMedi (@danimedi555) [August 29, 2022](https://twitter.com/danimedi555/status/1564051656093884418?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Libertad,<br>es lo que buscamos,<br>nuestro más profundo deseo,<br>y lo mejor es<br>que ya la hemos conseguido.<br><br>Hacemos lo que queremos,<br>sí,<br>pero cuánto queremos,<br>ahí está el detalle.<br>Qué tan lejos podemos ver<br>para ejercer nuestra libertad<br>plenamente.</p>&mdash; DaniMedi (@danimedi555) <a href="https://twitter.com/danimedi555/status/1564051656093884418?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>## Restricciones
+## Restricciones
 
 No sé por qué, pero existe esa idea de que negarte hacer cosas significa tener una menor libertad cuando no es así (ej. sacerdotes y el voto de castidad, personas que deciden no tomar alcohol, vegetarianos). Se suele decir que es mejor “dejarse llevar”, “fluir”, en lugar de tomar decisiones activas conscientes, de poder decir que no a aquellas cosas que, aunque se sientan naturales, no van de acuerdo, o incluso en contra, a los objetivos de uno.
 
@@ -109,4 +79,4 @@ Termino este post con esta frase:
 
 > “If I seriously tried to live today as my last, it would make tomorrow awful”.
 > 
-> <cite>— Jesse S. Summers</cite>
+> — Jesse S. Summers

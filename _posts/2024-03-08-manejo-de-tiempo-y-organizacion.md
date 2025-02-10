@@ -24,9 +24,7 @@ La verdad, desde antes del año pasado no valoraba mucho el orden, especialmente
 
 A comienzos del año pasado, cuando llegué a Lima, la situación llegó a ser crítica en algún punto, porque tenía muchas responsabilidades que antes no tenía y era difícil para mí cumplir con todo lo que debía. Iba temprano al internado y salía bastante tarde. Además, durante el día debía aprovechar los pocos espacios de tiempo que tenía para poder avanzar con algunas cosas, como algunos trámites que debíamos de hacer para el internado, también algunas compras de cosas que no tenía en ese momento (como scrubs, canguro, libretas). Sumado a esto, descuidé también actividades que no había tomado en cuenta, barrer el departamento donde vivía, limpiar algunas cosas que usaba, o incluso lavar mi ropa. En un inicio llegó incluso a acabarse la ropa limpia de hospital que tenía, porque no calculé bien y tuve que ir con jean, camisa y zapatos en alguna ocasión producto de que mi ropa no había secado. Y eso no fue lo único, también se me complicó el tema de comprar comida, y solucionar algunos problemas que se me presentaban, como cuando se malogró mi celular.
 
-Debido a todo lo ocurrido se hizo prioridad para mí encontrar una manera de administrar mi tiempo y cumplir con mis actividades. También era importante para mí para poder lidiar con mis labores como interno en el hospital. Porque, así como yo tenía cosas pendientes, los pacientes a mi cargo en el hospital también tenían cosas pendientes de las cuales era yo también responsable. Algunos tenían algunos procedimientos o cirugías programados y debían tener las cosas listas, como laboratorios actualizados, consentimiento de la cirugía firmado, donantes de paquetes globulares, entre otras cosas.
-
-> Si no era capaz de lidiar con mis pendientes personales, menos iba a ser capaz de poder cumplir con los pendientes de alguien más.
+Debido a todo lo ocurrido se hizo prioridad para mí encontrar una manera de administrar mi tiempo y cumplir con mis actividades. También era importante para mí para poder lidiar con mis labores como interno en el hospital. Porque, así como yo tenía cosas pendientes, los pacientes a mi cargo en el hospital también tenían cosas pendientes de las cuales era yo también responsable. Algunos tenían algunos procedimientos o cirugías programados y debían tener las cosas listas, como laboratorios actualizados, consentimiento de la cirugía firmado, donantes de paquetes globulares, entre otras cosas. Si no era capaz de lidiar con mis pendientes personales, menos iba a ser capaz de poder cumplir con los pendientes de alguien más.
 
 Creo que darme cuenta de eso fue un punto de inflexión importante para mí, porque fue un momento en el que sentí por primera vez lo que conllevaba tener una vida de adulto, debiendo responder por tus necesidades y responsabilidades propias, así como por las responsabilidades que tienes por alguien más que está a tu cargo y cuidado.
 
@@ -64,7 +62,7 @@ Otro punto sumamente importante es mantener nuestras cosas ordenadas. El desorde
 
 > “El que tolera el desorden para evitar la guerra, tiene primero el desorden y después la guerra”.
 > 
-> <cite>— Maquiavelo</cite>
+> — Maquiavelo
 
 A veces ser un poco más lentos, pero manteniendo el orden, es más rápido que intentar hacer las cosas rápido sin pensar bien en lo que hacemos y cómo lo hacemos. Por ejemplo, si vamos de compras apurados y nos olvidamos de comprar algo importante debido a no haber realizado una lista de las cosas que necesitamos por querer ahorrar tiempo, al final terminaremos gastando más tiempo que si lo hacíamos lento pero de forma ordenada. Podemos usar el orden para planificar las cosas y aumentar nuestra eficiencia, aprovechar las veces que vamos de compras para comprar todo junto y no por partes para no tener que ir tantas veces, y también podemos usar el mismo principio en otras situaciones.
 
@@ -96,11 +94,17 @@ Yo lo veo del siguiente modo: usar un papel es conveniente dentro de un mismo d�
 
 Se puede usar de la misma manera que crear una lista de cosas por hacer en un papel, simplemente se agrega una nueva tarea que indique qué queremos hacer y la agregamos, automáticamente se programará para hoy.
 
-<figure class="wp-block-image size-large">![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/wp-content/uploads/2018/12/Add-task.gif)</figure>Si queremos programar cosas para algún otro día simplemente colocamos alguna frase que indique cuándo queremos que se programe. El programa detecta lo que queremos decir, nos lo indica y lo programa automáticamente.
+![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/wp-content/uploads/2018/12/Add-task.gif)
 
-<figure class="wp-block-image size-large">![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/wp-content/uploads/2018/12/Natural-Language-Dates.gif)</figure>Podemos hacer lo mismo para poder programar actividades recurrentes, como tareas que queremos que estén programadas para cada viernes, o para el primer día de cada mes, o el mismo día de cada año, entre otras opciones.
+Si queremos programar cosas para algún otro día simplemente colocamos alguna frase que indique cuándo queremos que se programe. El programa detecta lo que queremos decir, nos lo indica y lo programa automáticamente.
 
-<figure class="wp-block-image size-large">![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_768/https://get.todoist.help/hc/article_attachments/11570934234396)</figure>Yo uso esto para recordarme cuándo son cumpleaños importantes, cuándo tengo que renovar mis documentos, ir al gimnasio, entre otras cosas. En realidad, ahora que estoy más tranquilo en casa, también lo uso para escribir cosas para el mismo día, en lugar de usar un papel en físico como lo hacía en el internado, esto principalmente porque tengo más calma para hacer las cosas y no tengo la necesidad de anotar rápidamente estas tareas.
+![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/wp-content/uploads/2018/12/Natural-Language-Dates.gif)
+
+Podemos hacer lo mismo para poder programar actividades recurrentes, como tareas que queremos que estén programadas para cada viernes, o para el primer día de cada mes, o el mismo día de cada año, entre otras opciones.
+
+![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_768/https://get.todoist.help/hc/article_attachments/11570934234396)
+
+Yo uso esto para recordarme cuándo son cumpleaños importantes, cuándo tengo que renovar mis documentos, ir al gimnasio, entre otras cosas. En realidad, ahora que estoy más tranquilo en casa, también lo uso para escribir cosas para el mismo día, en lugar de usar un papel en físico como lo hacía en el internado, esto principalmente porque tengo más calma para hacer las cosas y no tengo la necesidad de anotar rápidamente estas tareas.
 
 Del mismo modo que con el método del papel, también procuro dejar mi Todoist limpio, sin pendientes, al terminar el día.
 
@@ -124,7 +128,7 @@ Además de las herramientas mencionadas hay otras como usar un reloj con tempori
 
 Ahora, independientemente del método que escojamos, es importante poder analizar nuestro desempeño. Si bien a veces queremos hacer las cosas rápido y puede que en algunos momentos tengamos impulsos de querer hacer las cosas sin descanso y centrados solamente en nuestro trabajo, es importante tomarnos el tiempo de observar y analizar nuestro desempeño, valorando si estamos haciendo las cosas bien, replanteándonos nuestras prioridades, preguntándonos algunas cosas. Este tiempo de reflexión es sumamente importante, porque no sirve de nada ir rápido si no estamos yendo hacia donde queremos.
 
-> Si bien no podemos estar preguntándonos los motivos de las cosas que hacemos todo el tiempo, es importante tener unos pequeños momentos para analizar las cosas.
+Si bien no podemos estar preguntándonos los motivos de las cosas que hacemos todo el tiempo, es importante tener unos pequeños momentos para analizar las cosas.
 
 Este análisis es en realidad algo personal y requiere cierta capacidad de introspección para poder darnos cuenta de lo que estamos haciendo. Considero que con la práctica uno puede darse cuenta mejor de qué es lo que necesita.
 
@@ -175,7 +179,9 @@ Darle tiempo a la reflexión, a la vida social, al ejercicio, comer saludable, t
 
 > “Que lo urgente deje tiempo para lo importante”.
 
-<figure class="wp-block-image size-large">![](https://www.luciamipediatra.com/wp-content/uploads/2020/09/mafalda.jpg)</figure>## Conclusiones
+![](https://www.luciamipediatra.com/wp-content/uploads/2020/09/mafalda.jpg)
+
+## Conclusiones
 
 Manejar nuestro tiempo adecuadamente y organizar nuestras actividades nos sirve para poder ser más eficientes y sacar mayor valor al tiempo que tenemos. Además, nos permite reducir el número de errores que cometemos, los cuales pueden ser costosos. Es de utilidad pensar en nostros como un sistema y no como personas para poder mejorar aspectos que influyen en nuestro desempeño sin necesidad de culparnos o sentirnos mal con nosotros mismos sin que esto lleve a una solución de nuestros problemas.
 
@@ -185,4 +191,4 @@ Finalmente, es importante reflexionar en las cosas que hacemos y analizar si nue
 
 Subí a YouTube un video hablando sobre lo mencionado en este post:
 
-<figure class="wp-embed-aspect-16-9 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/DDwiqxEpwPs?feature=oembed" title="Manejo de tiempo y organización" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDwiqxEpwPs?si=g-huF3m3skHznbNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

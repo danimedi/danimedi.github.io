@@ -1,6 +1,6 @@
 ---
 id: 954
-title: 'Cuento: &#8220;El sueño de Suksu&#8221;'
+title: 'Cuento: El sueño de Suksu'
 date: '2022-05-30T15:01:42+00:00'
 author: DaniMedi
 layout: post
@@ -91,6 +91,10 @@ Suksu no comprendió nada, pero le pareció entender que le decían “Tranquilo
 
 Al final, Suksu, solo en aquella chuklla, no consiguió levantarse nunca. Cuánto tiempo pasó en su mente, cuántos años presenció, ¿unos doscientos quizá? ¡Cuántas cosas tuvo que soñar para poder morir tranquilo! La enfermedad puso fin a su vida y puso fin a su sueño, ahora solo queda imaginar cómo hubiera continuado. Quizá… ¿un hermoso cielo azul en Arequipa?, ¿personas caminando sin cubrir sus rostros?, o mejor aún: no más gente tosiendo.
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-0259e278"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-8834192e">Este cuento fue escrito para los [III Juegos Florales Estudiantiles de Medicina 2021 de ASPEFAM](https://www.aspefam.org.pe/repem/juegosflorales.html), con el tema “Medicina a través del bicentenario”. Ya terminó el concurso (no gané), así que ahora lo comparto por aquí.
+<br>
 
-</div></div></div>
+----
+
+<br>
+
+Este cuento fue escrito para los [III Juegos Florales Estudiantiles de Medicina 2021 de ASPEFAM](https://www.aspefam.org.pe/repem/juegosflorales.html), con el tema “Medicina a través del bicentenario”. Ya terminó el concurso (no gané), así que ahora lo comparto por aquí.

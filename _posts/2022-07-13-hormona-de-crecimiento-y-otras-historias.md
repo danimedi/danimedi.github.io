@@ -19,7 +19,10 @@ En este post quiero contar una historia bastante personal y que, durante la mayo
 
 Siempre he sido un niño pequeño, vaya a donde vaya era usualmente el más chiquito. El más pequeño en el colegio, en el fútbol, en el Taekwondo, en la natación. Y habitualmente no era por un margen estrecho, era considerablemente más pequeño.
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2022/07/small-me-photo.jpg)<figcaption>Foto tomada en alguna clase del colegio. Por lo mencionado, se nota quién soy.</figcaption></figure>### ¿Cómo me sentía?
+![](/assets/images/small-me-photo.jpg)
+*Foto tomada en alguna clase del colegio. Por lo mencionado, se nota quién soy.*
+
+### ¿Cómo me sentía?
 
 La verdad, cuando era muy pequeño (en edad) no me daba cuenta, aunque mirando atrás sé que tuvo alguna importancia en algunos eventos que sucedieron posteriormente. No lo recuerdo del todo, pero sé que en el colegio me pegaban cuando estaba en inicial. Mi mamá me contó alguna vez que ella vio un episodio de ese tipo y le dolió bastante, incluso fue ese el motivo por el cual mis padres me inscribieron en Taekwondo, el objetivo era que aprendiera a contraatacar (spoiler: no funcionó).
 
@@ -29,9 +32,7 @@ Mi padre siempre me decía que debía defenderme, que debía responder de la mis
 
 Pero cuando fui creciendo, sí comencé a darme cuenta de que era mucho más pequeño que los demás y eso me comenzó a frustrar. Las cosas se hicieron más marcadas cuando mis compañeros llegaban a la pubertad y tenían sus estirones. Yo esperaba que llegara el mío (quizá aún siga esperando el mío), pero no llegaba.
 
-Y la estatura es algo que se valora mucho en la pubertad, recuerdo que los más altos se medían en el recreo para ver quién era más alto, las chicas solían hablar de eso también, de lo atractivos que son los chicos altos.
-
-> A mí me daba cólera, no el hecho de ser pequeño en sí, sino el hecho de no poder hacer nada al respecto.
+Y la estatura es algo que se valora mucho en la pubertad, recuerdo que los más altos se medían en el recreo para ver quién era más alto, las chicas solían hablar de eso también, de lo atractivos que son los chicos altos. A mí me daba cólera, no el hecho de ser pequeño en sí, sino el hecho de no poder hacer nada al respecto.
 
 La autosuperación era parte de mi forma de pensar. Cuando me iba mal en el colegio, estudiaba más y me iba mejor; cuando no sabía algo, leía al respecto y lo aprendía; cuando sentía que algo no me salí bien, lo practicaba y me salía mejor. Y cuando las cosas salen bien producto de tu esfuerzo es algo de lo que puedes sentirte orgulloso. En ese entonces, el tema de la estatura era algo que me fastidiaba particularmente. Realmente no podía hacer nada al respecto y veía como otras personas se llenaban de orgullo por tener una gran estatura cuando sabía que no era precisamente producto de su esfuerzo y sacrificio.
 
@@ -39,17 +40,13 @@ Sí, lo confieso, estaba resentido.
 
 ### Una mancha en el lienzo
 
-Pero ser y sentirme pequeño iba más allá de eso, llegó a tener un efecto en otras áreas de mi vida. Lo que sucedió es que por ese tiempo tenía una mentalidad muy perfeccionista, quería que todo me saliera bien, que las cosas me salieran de la forma más perfecta posible (más que ahora). Entonces, ser pequeño significaba para mí algo que nunca iba a ser capaz de superar, un impedimento definitivo para alcanzar la perfección, un argumento absoluto que hacía que tan solo aspirar a ser perfecto carezca de sentido.
-
-> Era una desmotivación permanente, por decirlo de forma breve.
+Pero ser y sentirme pequeño iba más allá de eso, llegó a tener un efecto en otras áreas de mi vida. Lo que sucedió es que por ese tiempo tenía una mentalidad muy perfeccionista, quería que todo me saliera bien, que las cosas me salieran de la forma más perfecta posible (más que ahora). Entonces, ser pequeño significaba para mí algo que nunca iba a ser capaz de superar, un impedimento definitivo para alcanzar la perfección, un argumento absoluto que hacía que tan solo aspirar a ser perfecto carezca de sentido. Era una desmotivación permanente, por decirlo de forma breve.
 
 Mi baja estatura fue quizá el inicio de varios conflictos que tuve conmigo mismo relacionados a la autopercepción de mi belleza y de actitudes de resignación respecto a ello que continuaron durante gran parte de mi vida. Qué importa si estoy peinado o no o si tengo los dientes chuecos o no, si las personas se van a fijar más en mi pequeño tamaño. Mi forma de pensar respecto a eso evolucionó mucho a lo largo del tiempo (tal vez pueda ser un tema de otro escrito).
 
 ## Problema endocrino
 
-Entonces, mi pubertad esperada no llegaba y las diferencias entre mi talla y la de los demás era cada vez mayor. Mis padres se preocupaban cada vez más por eso y me contagiaban su preocupación también. Y yo, por mi parte, en verdad tenía ganas también de ser más alto, un poquito más normal, recibí algunos insultos alguna vez por ser pequeño.
-
-> Y cuando el insulto es sobre algo que causa inseguridad hasta a tus padres, normal que a un niño le cause inseguridad también.
+Entonces, mi pubertad esperada no llegaba y las diferencias entre mi talla y la de los demás era cada vez mayor. Mis padres se preocupaban cada vez más por eso y me contagiaban su preocupación también. Y yo, por mi parte, en verdad tenía ganas también de ser más alto, un poquito más normal, recibí algunos insultos alguna vez por ser pequeño. Y cuando el insulto es sobre algo que causa inseguridad hasta a tus padres, normal que a un niño le cause inseguridad también.
 
 Fue así que terminé yendo a una pediatra especialista en endocrinología. Me realizaron varios análisis y finalmente me hicieron el diagnóstico de deficiencia de hormona del crecimiento.
 
@@ -63,9 +60,7 @@ Así fue que, luego de que mis padres tomaran algunas decisiones, inicié con mi
 
 Inicié el tratamiento por primera vez cuando tenía 11 años aproximadamente. En ese tiempo ya practicaba varios deportes, pero sentía más inclinación hacia la natación. Por esas fechas ya era bastante destacado en algunos deportes en el ámbito regional, pero la natación me gustaba más y a partir de esa edad ya se convirtió en mi deporte principal.
 
-Me fue bastante bien ese año y al año siguiente (2012), pude conseguir cosas importantes para mí en el deporte. Las cosas pintaban bien, pero también comenzó a surgir la idea en mí de que estaba haciendo trampa. Resulta que la hormona de crecimiento está entre las sustancias consideradas como dopaje deportivo y eso me generaba cierta inseguridad.
-
-> ¿Era lo que había logrado producto de entrenar más de dos veces al día, de sacrificar mi desempeño escolar, mi vida social? ¿O simplemente era por el uso de una sustancia prohibida en competencias deportivas oficiales?
+Me fue bastante bien ese año y al año siguiente (2012), pude conseguir cosas importantes para mí en el deporte. Las cosas pintaban bien, pero también comenzó a surgir la idea en mí de que estaba haciendo trampa. Resulta que la hormona de crecimiento está entre las sustancias consideradas como dopaje deportivo y eso me generaba cierta inseguridad. ¿Era lo que había logrado producto de entrenar más de dos veces al día, de sacrificar mi desempeño escolar, mi vida social? ¿O simplemente era por el uso de una sustancia prohibida en competencias deportivas oficiales?
 
 Una parte de mí me decía que no había problema, al fin y al cabo tenía un diagnóstico médico y estaba recibiendo el tratamiento adecuado. Antes estaba en desventaja y ahora no. Sin embargo, otra parte de mí me decía que había logrado las cosas sin merecerlo realmente, que no hubiera llegado tan lejos por mí mismo.
 
@@ -81,9 +76,7 @@ Todo iba mal, ya no disfrutaba entrenar ni competir. ¿Por qué seguía haciénd
 
 Primero, para mí nadar se había convertido en aquello que me identificaba, sentía que era todo lo que era yo. Dejar de nadar significaba dejar de ser yo, significaba ser nadie. En ese entonces no tenía el valor de tomar una decisión así. Realmente sentía que nadar era aquello que me hacía sentir especial, aquello que me daba valor, las competencias eran uno de los pocos momentos donde se juntaban mis ambos padres para verme, incluso iban mis abuelos y otros familiares. La verdad no tenía nada parecido, nada con lo cual reemplazar a la natación y al deporte en general. No conocía una forma diferente de vivir.
 
-Segundo, retirarme en ese momento, cuando estaba todo mal, significaba rendirme, significaba aceptar que todo lo conseguido no fue por mérito propio, significaba cargar por el resto de mi vida el peso de haber hecho trampa, de haber sido un impostor. Me reusaba a aceptarlo.
-
-> Sentía que mostrar públicamente mi fracaso era la penitencia que merecía, la forma con la cual borrar todo aquello “bueno” que alguna vez había hecho.
+Segundo, retirarme en ese momento, cuando estaba todo mal, significaba rendirme, significaba aceptar que todo lo conseguido no fue por mérito propio, significaba cargar por el resto de mi vida el peso de haber hecho trampa, de haber sido un impostor. Me reusaba a aceptarlo. Sentía que mostrar públicamente mi fracaso era la penitencia que merecía, la forma con la cual borrar todo aquello “bueno” que alguna vez había hecho.
 
 Tercero, había invertido mucho. Aunque eso no me importaba tanto, lo que me importaba más era que mis padres habían invertido mucho, mucho tiempo y mucho dinero. Mi madre era la que me llevaba a entrenar en las mañanas y me llevaba luego al colegio, me llevaba mi almuerzo al club y me recogía por la noche. Mis padres nunca me dieron propina ni acostumbraban darme regalos, pero cuando se trataba de la natación nunca me faltaron lentes, gorros, ropas de baño, aletas, entre otras cosas. No tenía el coraje de decirles que no quería nadar más, que el tiempo y el dinero que invirtieron en mí fue por gusto. Quería darles alguna alegría, brindarles algo que justifique todo aquello que estaba pasando. Simplemente no sabía cómo.
 
@@ -93,9 +86,7 @@ Porque entrenaba bastante, era muy disciplinado. Simplemente que las cosas no me
 
 Pasé años de mi vida intentando volverme un gran nadador sin necesidad de usar hormona del crecimiento. En el camino descubrí que podía hacer otras cosas relativamente bien. Por ejemplo, descubrí que no era tan mal estudiante como pensaba y muchas cosas me salían naturalmente bien, aunque no les dedicaba mucho tiempo.
 
-Estaba obsesionado con la natación, pero con una mentalidad muy negativa. Las cosas no cambiaron incluso luego de ingresar a la universidad. La verdad no me iba mal en los cursos, a pesar de que estudiaba relativamente poco. Entonces, en lugar de darle más tiempo a los estudios, algo en lo que tenía el potencial de ser realmente bueno, le daba más tiempo al deporte, porque representaba para mí algo que no podía hacer bien, algo en lo que no estaba a la altura de mis expectativas.
-
-> Simplemente quería demostrarme que podía lograrlo, nada más. Con eso era suficiente para poder retirarme sin sentir que me había rendido.
+Estaba obsesionado con la natación, pero con una mentalidad muy negativa. Las cosas no cambiaron incluso luego de ingresar a la universidad. La verdad no me iba mal en los cursos, a pesar de que estudiaba relativamente poco. Entonces, en lugar de darle más tiempo a los estudios, algo en lo que tenía el potencial de ser realmente bueno, le daba más tiempo al deporte, porque representaba para mí algo que no podía hacer bien, algo en lo que no estaba a la altura de mis expectativas. Simplemente quería demostrarme que podía lograrlo, nada más. Con eso era suficiente para poder retirarme sin sentir que me había rendido.
 
 ### Más esfuerzo
 
@@ -135,4 +126,4 @@ Durante gran parte de mi vida me pareció injusto que me haya tocado ser tan peq
 
 Me quedo con lo siguiente:
 
-> Hay cosas que pueden cambiarse, otras cosas que no. En el juego de la vida se juega con las fichas que uno tiene.
+*Hay cosas que pueden cambiarse, otras cosas que no. En el juego de la vida se juega con las fichas que uno tiene.*

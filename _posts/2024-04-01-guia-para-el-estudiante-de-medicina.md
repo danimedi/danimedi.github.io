@@ -18,54 +18,56 @@ Resulta que ya terminé la carrera de medicina humana, fue una etapa bonita en m
 
 Realicé una [playlist en mi canal de YouTube](https://www.youtube.com/playlist?list=PLiR4mMxzSHWgnZJYuwLz4vYfT4BB694Te) con los contenidos de este post.
 
-<div class="wp-block-ht-block-toc  is-style-outline htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded"><span class="htoc__title"><span class="ht_toc_title">Tabla de contenidos</span><span class="htoc__toggle"><svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap">- [Eligiendo la carrera](#htoc-eligiendo-la-carrera)
-- [Primeros años: ciencias básicas](#htoc-primeros-a-os-ciencias-b-sicas)
-    - [Cursos más importantes](#htoc-cursos-m-s-importantes)
-    - [Aprobando los cursos](#htoc-aprobando-los-cursos)
-    - [Priorizando temas: fisiología y cursos relacionados](#htoc-priorizando-temas-fisiolog-a-y-cursos-relacionados)
-    - [Estudiando patología e infectología](#htoc-estudiando-patolog-a-e-infectolog-a)
-    - [Estudiando anatomía, histología y embriología](#htoc-estudiando-anatom-a-histolog-a-y-embriolog-a)
-    - [Investigación](#htoc-investigaci-n)
-- [Importancia de saber inglés](#htoc-importancia-de-saber-ingl-s)
-- [Método de estudio](#htoc-m-todo-de-estudio)
-    - [Método personal](#htoc-m-todo-personal)
-    - [Anki](#htoc-a)
-        - [AnKing deck](#htoc-anking-deck)
-    - [¿Y qué hay con las clases?](#htoc-y-qu-hay-con-las-clases)
-- [Siguientes años: parte clínica](#htoc-siguientes-a-os-parte-cl-nica)
-    - [Cursos y recursos](#htoc-cursos-y-recursos)
-        - [Medicina interna](#htoc-medicina-interna)
-        - [Obstetricia y ginecología](#htoc-obstetricia-y-ginecolog-a)
-        - [Pediatría y neonatología](#htoc-pediatr-a-y-neonatolog-a)
-        - [Cirugía](#htoc-cirug-a)
-    - [Aprendiendo solo](#htoc-aprendiendo-solo)
-    - [Habilidades blandas](#htoc-habilidades-blandas)
-    - [ECOE](#htoc-ecoe)
-    - [Mejorar anamnesis y examen físico](#htoc-mejorar-anamnesis-y-examen-f-sico)
-    - [Procedimientos](#htoc-procedimientos)
-- [Expandiendo conocimientos y manteniéndose al día](#htoc-expandiendo-conocimientos-y-manteni-ndose-al-d-a)
-    - [Recursos](#htoc-recursos)
-    - [En nuestro día a día](#htoc-en-nuestro-d-a-a-d-a)
-    - [Extra: descargando recursos no disponibles](#htoc-e)
-- [Realizando investigación](#htoc-realizando-investigaci-n)
-    - [Aprendiendo](#htoc-aprendiendo)
-    - [Buscando un equipo](#htoc-buscando-un-equipo)
-    - [Intentando](#htoc-intentando)
-    - [Tesis](#htoc-tesis)
-- [Internado](#htoc-internado)
-- [Luego de pregrado](#htoc-luego-de-pregrado)
-    - [A tener en cuenta](#htoc-a-tener-en-cuenta)
-        - [Promedio de pregrado](#htoc-promedio-de-pregrado)
-    - [ENAM](#htoc-enam)
-    - [SERUMS](#htoc-serums)
-    - [Especialidad en algún otro país](#htoc-especialidad-en-alg-n-otro-pa-s)
-- [Reflexión](#htoc-reflexi-n)
-    - [Metas y expectativas](#htoc-metas-y-expectativas)
-    - [Aceptándonos](#htoc-acept-ndonos)
-    - [Además de medicina](#htoc-adem-s-de-medicina)
-- [Disclaimer](#htoc-disclaimer)
+## Tabla de contenidos
 
-</div></div>## Eligiendo la carrera
+- [Eligiendo la carrera](#eligiendo-la-carrera)
+- [Primeros años: ciencias básicas](#primeros-años-ciencias-básicas)
+    - [Cursos más importantes](#cursos-más-importantes)
+    - [Aprobando los cursos](#aprobando-los-cursos)
+    - [Priorizando temas: fisiología y cursos relacionados](#priorizando-temas-fisiología-y-cursos-relacionados)
+    - [Estudiando patología e infectología](#estudiando-patología-e-infectología)
+    - [Estudiando anatomía, histología y embriología](#estudiando-anatomía-histología-y-embriología)
+    - [Investigación](#investigación)
+- [Importancia de saber inglés](#importancia-de-saber-inglés)
+- [Método de estudio](#método-de-estudio)
+    - [Método personal](#método-personal)
+    - [Anki](#anki)
+        - [AnKing deck](#anking-deck)
+    - [¿Y qué hay con las clases?](#¿y-qué-hay-con-las-clases)
+- [Siguientes años: parte clínica](#siguientes-años-parte-clínica)
+    - [Cursos y recursos](#cursos-y-recursos)
+        - [Medicina interna](#medicina-interna)
+        - [Obstetricia y ginecología](#obstetricia-y-ginecología)
+        - [Pediatría y neonatología](#pediatría-y-neonatología)
+        - [Cirugía](#cirugía)
+    - [Aprendiendo solo](#aprendiendo-solo)
+    - [Habilidades blandas](#habilidades-blandas)
+    - [ECOE](#ecoe)
+    - [Mejorar anamnesis y examen físico](#mejorar-anamnesis-y-examen-físico)
+    - [Procedimientos](#procedimientos)
+- [Expandiendo conocimientos y manteniéndose al día](#expandiendo-conocimientos-y-manteniéndose-al-día)
+    - [Recursos](#recursos)
+    - [En nuestro día a día](#en-nuestro-día-a-día)
+    - [Extra: descargando recursos no disponibles](#extra-descargando-recursos-no-disponibles)
+- [Realizando investigación](#realizando-investigación)
+    - [Aprendiendo](#aprendiendo)
+    - [Buscando un equipo](#buscando-un-equipo)
+    - [Intentando](#intentando)
+    - [Tesis](#tesis)
+- [Internado](#internado)
+- [Luego de pregrado](#luego-de-pregrado)
+    - [A tener en cuenta](#a-tener-en-cuenta)
+        - [Promedio de pregrado](#promedio-de-pregrado)
+    - [ENAM](#enam)
+    - [SERUMS](#serums)
+    - [Especialidad en algún otro país](#especialidad-en-algún-otro-país)
+- [Reflexión](#reflexión)
+    - [Metas y expectativas](#metas-y-expectativas)
+    - [Aceptándonos](#aceptándonos)
+    - [Además de medicina](#además-de-medicina)
+- [Disclaimer](#disclaimer)
+
+## Eligiendo la carrera
 
 Yo comencé a estudiar medicina terminando el colegio (La Salle en Arequipa). Comencé a estudiar medicina el año 2017 en la Universidad Católica de Santa María. Durante mi etapa escolar mi prioridad era el deporte y quizá por eso no pensé mucho en qué carrera escoger. Sinceramente, no recuerdo las razones por los que decidí estudiar medicina humana, era muy joven en aquel momento. Recuerdo que inicialmente suponía que iba a estudiar ingeniería civil, como mis padres, pero no se dio. Me aconsejaban mucho en aquel entonces que siguiera algo que me gustara, algo que me apasionara. En su momento sonaba como un buen consejo, ahora estoy en desacuerdo con esa postura. Creo que tomar una decisión depende mucho de tu forma de ver la vida, por eso no suelo dar consejos sobre este tema, pero pienso que deberían considerarse otros aspectos al momento de tomar decisiones importantes en la vida, hay cosas más importantes que tener pasión por algo.
 
@@ -288,7 +290,10 @@ El Examen Clínico Objetivo Estructurado (ECOE), o también conocido como Object
 
 A pesar de jamás haber dado un ECOE, considero algunas recomendaciones para este tipo de evaluaciones útiles en la práctica clínica. Por ejemplo, en un [video](https://youtu.be/Mmdx3um6oSA?si=-FNxx7EHqVLYhpyT) The Anking presenta un método para recoger información para realizar la historia clínica durante esta evaluación y considero que es bastante eficiente y algunas ideas pueden utilizarse en algunas situaciones de la práctica clínica Recomendaría ver el video mencionado para algunos tips adicionales y también hay videos similares en español, como [este video](https://youtu.be/D9PQKclvqkY?si=Wcne55dQr094ejLT) que encontré mientras redactaba este post.
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2024/04/the_anking_osce_strategy_paper.png)<figcaption class="wp-element-caption">Imagen obtenida del [video de The Anking](https://youtu.be/Mmdx3um6oSA?si=bryCXlr5u8Evv6CK). Se observa una forma de obtener información para realizar la historia clínica durante el ECOE.</figcaption></figure>Recomiendo también que conversen con compañeros de años anteriores para preguntar por información y consejos. Esta recomendación también aplica a todo lo demás, es bueno pedir ayuda y consejo.
+![](/assets/images/the_anking_osce_strategy_paper.png)
+*Imagen obtenida del [video de The Anking](https://youtu.be/Mmdx3um6oSA?si=bryCXlr5u8Evv6CK). Se observa una forma de obtener información para realizar la historia clínica durante el ECOE.*
+
+Recomiendo también que conversen con compañeros de años anteriores para preguntar por información y consejos. Esta recomendación también aplica a todo lo demás, es bueno pedir ayuda y consejo.
 
 ### Mejorar anamnesis y examen físico
 
@@ -412,7 +417,9 @@ En este otro post mencioné experiencias y consejos durante el internado:
 
 **[Internado médico: consejos de un ex-interno](https://danimedi.com/blog/internado-medico-consejos-de-un-ex-interno/)**
 
-<figure class="wp-embed-aspect-16-9 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="675" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EU_WNDwFL-E?feature=oembed" title="Internado médico: Experiencias de un ex-interno" width="1200"></iframe></div></div></figure>Y este post es sobre cómo estudié durante el internado:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EU_WNDwFL-E?si=_Tmo_gWyz0inVKrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Y este post es sobre cómo estudié durante el internado:
 
 **[Estudiando durante el internado (y para el ENAM)](https://danimedi.com/blog/estudiando-durante-el-internado-y-para-el-enam/)**
 
@@ -495,25 +502,25 @@ Resulta útil tener la perspectiva que la vida se trata de caminos y no de desti
 
 Es normal sentir a veces algún deseo de volver a hacer las cosas para hacerlas mejor. A veces me pregunto qué hubiera sido si me dedicaba a estudiar desde el primer día, si tomaba mejores decisiones, si no perdía mi tiempo en proyectos que al final fallaron, si aprovechaba mejor mi tiempo. Sin embargo, en el gran esquema de las cosas son problemas pequeños, al fin y al cabo sigo vivo y esto de la medicina es solo una parte de mi vida, no es toda mi vida. Aún hay muchas cosas por delante y aún hay tiempo de poder volver a empezar, de volverlo a intentar y de volver a fallar. Soy una persona más entre millones, con problemas e imperfecciones al igual que todos. Lógicamente tenemos algunas desventajas que podemos considerar injustas, pero si reflexionamos, también tenemos muchas ventajas que se podrían considerar injustas de las que podríamos sentirnos agradecidos. No reneguemos de nuestra situación, aprendamos a aceptarla y no olvidar que nuestra condición humana es similar a la de todos. Seamos compasivos, especialmente con nosotros mismos.
 
-Comparto un fragmento de un poema que encontré en una historia de Instagram de una amiga:
+Comparto un fragmento de un poema extraído de la [página web de Risto Mejide](https://ristomejide.com/2015/06/18/al-rincon-de-pensar-%C2%B7-temporada-1-%C2%B7-capitulo-v-%C2%B7-alberto-chicote-y-carlos-sainz/):
 
-<div class=" wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-c17acc5e"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class=" wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-37c8e333">Si volviera a nacer, me gustaría decirte que corregiría errores,  
+<em>
+Si volviera a nacer, me gustaría decirte que corregiría errores,  
 pero pasaría seguramente por las mismas cosas.  
 Me equivocaría en los mismos sitios.  
-Y acertaría más bien poco o casi nunca.
-
+Y acertaría más bien poco o casi nunca.  
+<br>
 Porque si volviera a nacer,  
-me gustaría decirte que sería más duro, más experimentado, más sabio.
-
+me gustaría decirte que sería más duro, más experimentado, más sabio.  
+<br>
 Pero imagino que nada,  
 que acabaría diciendo los mismos te quiero.  
 Los mismos te odio.  
 Los mismos adiós.  
 Volvería a llorar por los mismos éxitos.  
 Y a reír por los mismos fracasos.  
-Porque son ellos los que me han traído hasta aquí …
-
-</div></div></div>Fragmento extraído de la [página web de Risto Mejide](https://ristomejide.com/2015/06/18/al-rincon-de-pensar-%C2%B7-temporada-1-%C2%B7-capitulo-v-%C2%B7-alberto-chicote-y-carlos-sainz/).
+Porque son ellos los que me han traído hasta aquí …  
+</em>
 
 ### Además de medicina
 
@@ -530,8 +537,14 @@ No me siento en una posición en la que merezca la pena ser seguido, en realidad
 > “… no soy un ejemplo, y hoy dudo si querer llegar lejos es ir por el camino correcto …,  
 > no sé si estoy haciendo bien”.
 > 
-> <cite>— Daniel Medina (DaniMedi)</cite>
+> — Daniel Medina (DaniMedi)
+
+<br>
+
+----
+
+<br>
 
 *Realicé una [playlist en mi canal de YouTube](https://www.youtube.com/playlist?list=PLiR4mMxzSHWgnZJYuwLz4vYfT4BB694Te) con los contenidos de este post.*
 
-<figure class="wp-embed-aspect-16-9 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="675" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/videoseries?list=PLiR4mMxzSHWgnZJYuwLz4vYfT4BB694Te" title="Guía para el estudiante de medicina" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ifFolhgbltpEeNxj&amp;list=PLiR4mMxzSHWgnZJYuwLz4vYfT4BB694Te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 id: 1526
-title: 'La niña del ojo de plata'
+title: 'Cuento: La niña del ojo de plata'
 date: '2024-02-04T13:27:27+00:00'
 author: DaniMedi
 layout: post

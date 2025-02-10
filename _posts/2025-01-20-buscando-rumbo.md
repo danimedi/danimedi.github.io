@@ -2,7 +2,7 @@
 id: 1672
 title: "Buscando rumbo\_"
 date: '2025-01-20T01:09:06+00:00'
-author: danielmedinaneira555
+author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1672'
 permalink: /blog/buscando-rumbo/
@@ -43,7 +43,9 @@ Si bien fue un primer paso desde mi niñez, tener algo en qué creer no se refle
 
 A pesar de tener alguna base de pensamiento que me podría motivar a la acción, en realidad mi vida continuó sin ningún cambio, aplazando cada mes y cada año las cosas que debería realizar de acuerdo a mi forma de entender mi vida. Por un lado, no he vivido cultivando mi apreciación artística, llegando incluso a colocar al arte como algo de menor importancia en mi vida. Por otro lado, no he considerado mi impacto social detenidamente cuando he tomado decisiones importantes en mi vida. Simplemente he seguido el camino “natural” sin cuestionamientos: terminar la universidad, escoger un plaza del internado en el hospital de mayor complejidad posible, escoger una plaza SERUMS con el mayor puntaje posible. Lo que en teoría es uno de los motivos de mi forma de vivir no ha sido ni considerado en cada paso que he dado.
 
-> *“No seas demasiado moral. Puedes engañarte a ti mismo de tanta vida así. Apunta por encima de la moralidad. No seas simplemente bueno, sé bueno para algo.”* — Henry David.
+> “No seas demasiado moral. Puedes engañarte a ti mismo de tanta vida así. Apunta por encima de la moralidad. No seas simplemente bueno, sé bueno para algo.”
+> 
+> — Henry David
 
 ## Validación externa
 
@@ -71,7 +73,9 @@ Realmente no podría decir con seguridad que sea algo que se pueda cambiar, pero
 
 Y la realidad es que no sé si logre cambiar, o actuar de acuerdo a mis ideales, o tampoco sé si actuando de acuerdo a ellos lograré el objetivo propuesto. Incluso tampoco tengo la certeza de que mis ideales son los correctos o que tenga sentido tenerlos. Pero puede que sea mejor así.
 
-> *“El hecho de que la vida no tenga ningún sentido es una razón para vivir, la única en realidad.”* — Emil Cioran.
+> “El hecho de que la vida no tenga ningún sentido es una razón para vivir, la única en realidad.”
+> 
+> — Emil Cioran
 
 ## Hacia dónde ir
 
@@ -85,6 +89,7 @@ Estoy “condenado a ser libre” (Sartre, 1957), por lo que me corresponde tene
 
 Se me viene a la mente el mito de Ícaro y Dédalo.
 
+<em>
 Me gustaría ser como Dédalo,  
 construyendo mi libertad con mi mente y con mis manos.  
 Aunque sé muy bien que perfectamente puedo terminar como Ícaro,  
@@ -93,9 +98,14 @@ pero no llegando a su destino por error y debilidad humana.
 Sin embargo,  
 prefiero ser Ícaro y morir libre  
 antes que nunca haber partido  
-de la isla del rey Minos.
-
+de la isla del rey Minos.  
+<br>
 Quiero ser  
-libre de ser.
+libre de ser.  
+</em>
 
-*“To will oneself moral and to will oneself free are one and the same decision.”* — Simone de Beauvoir.
+<br>
+
+> “To will oneself moral and to will oneself free are one and the same decision.”
+> 
+> — Simone de Beauvoir

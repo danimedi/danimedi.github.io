@@ -49,15 +49,9 @@ Hace ya casi un año fui de viaje a Colombia, un viaje que, sin ninguna duda, ma
 
 Gran parte de la pandemia me la pasé estudiando para un examen. En realidad, diría que el examen me salvó de muchos de los problemas asociados a la pandemia. Fue un factor clave para mantenerme motivado, activo, tener un objetivo.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Tener un objetivo  
-> me brinda un camino  
-> al cual seguir,  
-> me brinda una excusa  
-> para ser feliz.
-> 
-> — DaniMedi (@danimedi555) [August 27, 2022](https://twitter.com/danimedi555/status/1563514016693383168?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Tener un objetivo<br>me brinda un camino<br>al cual seguir,<br>me brinda una excusa<br>para ser feliz.</p>&mdash; DaniMedi (@danimedi555) <a href="https://twitter.com/danimedi555/status/1563514016693383168?ref_src=twsrc%5Etfw">August 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Diría incluso que el examen, en un inicio, parecía tan lejano que ni pensaba en cómo sería darlo. Pero el tiempo pasa y las fechas llegan. De pronto, ya me encontraba a meses de la fecha programada.
+Diría incluso que el examen, en un inicio, parecía tan lejano que ni pensaba en cómo sería darlo. Pero el tiempo pasa y las fechas llegan. De pronto, ya me encontraba a meses de la fecha programada.
 
 Yo estaba nervioso, pero emocionado. Sentía que tenía el potencial de poder hacerlo bien, de poder demostrarme a mí mismo que el esfuerzo había valido la pena. Tener un buen resultado era importante para mí, no solo por la nota y las utilidades prácticas de la misma y del examen en sí, sino por lo que representaba para mí.
 
@@ -103,7 +97,12 @@ Me subí a un carro para ir al lugar donde me iba a hospedar, el taxista sí con
 
 Durante el trayecto pude ir observando cómo algunas cosas se escribían diferente. Por ejemplo, “droguería” en lugar de “farmacia”, “parqueadero” en lugar de “estacionamiento”, “bomba” en lugar de “grifo”, entre otros. También ya se veían algunas cosas relacionadas a Halloween.
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2022/08/halloween-car-prank.jpg)<figcaption>Foto que tomé mientras estaba en el taxi desde Bogotá rumbo a Chía.</figcaption></figure>También me llamó la atención la cantidad de bicicletas que habían y todo lo relacionado a las mismas. Cosas como talleres de bicicletas estacionamientos para bicicletas, ciclovías, eventos de ciclismo. Me encantó esto, a mí que me gusta mucho transportarme en bicicleta.
+<figure>
+  <img src="/assets/images/halloween-car-prank.jpg" alt="" height="600">
+  <i>Foto que tomé mientras estaba en el taxi desde Bogotá rumbo a Chía.</i>
+</figure>
+
+También me llamó la atención la cantidad de bicicletas que habían y todo lo relacionado a las mismas. Cosas como talleres de bicicletas estacionamientos para bicicletas, ciclovías, eventos de ciclismo. Me encantó esto, a mí que me gusta mucho transportarme en bicicleta.
 
 ### Halloween
 
@@ -115,7 +114,10 @@ Entonces, descansando se hizo de noche y decidí salir a comer algo, tampoco hab
 
 Era un local donde preparaban sandwiches, me compré uno y mientras esperaba veía como algunos niños ingresaban de vez en cuando al local pidiendo dulces. Decían una frase como “Quiero paz, quiero amor, quiero dulces por favor”. Era la cosa más tierna que había visto en mucho tiempo. Al terminar, regresé al hospedaje para pasar la noche.
 
-<figure class="wp-block-video ticss-946a3c3e"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/08/colombia-sandwich-el-corral.mp4"></video><figcaption>Mini-vlog jamás publicado de lo que fue mi primera comida en Colombia.</figcaption></figure>### Día libre
+<iframe width="315" height="560" src="https://www.youtube.com/embed/M9Lkn_uIH9w?si=Y_Lv7UnKMN3k9wt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+*Mini-vlog jamás publicado de lo que fue mi primera comida en Colombia.*
+
+### Día libre
 
 El día siguiente lo tenía libre, no tenía nada que hacer. Me dediqué a visitar algunos lugares, conseguir provisiones para mi examen (comida y bebida), y aprenderme el camino más corto para llegar desde el lugar donde me hospedaba hasta el centro del examen para poder llegar rápido por si se me hacía tarde.
 
@@ -123,7 +125,12 @@ También, decidí almorzar en un centro comercial que estaba un poco lejos, pero
 
 Recordé que en algún punto de la conversación con el taxista este me mencionó que la bandeja paisa era un plato de comida muy recomendable. Así que fue eso lo que pedí.
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2022/08/bandeja-paisa.jpg)<figcaption>Foto que tomé de la bandeja paisa que comí en el centro comercial.</figcaption></figure>Se me pasó un poco, pero tenía miedo. Me daba miedo porque estaba solo, no tenía internet, nadie podría contactarme si me pasaba algo. Decidí escribir en un papel que tenía (la boleta electrónica de la bandeja paisa) las direcciones del local donde me estaba hospedando, con la esperanza de que si me desmayaba alguien podría llevarme a aquel lugar y no perderme el examen del día siguiente. Aún mi mayor miedo no era mi salud, era perderme el examen.
+<figure>
+  <img src="/assets/images/bandeja-paisa.jpg" alt="" height="600">
+  <i>Foto que tomé de la bandeja paisa que comí en el centro comercial.</i>
+</figure>
+
+Se me pasó un poco, pero tenía miedo. Me daba miedo porque estaba solo, no tenía internet, nadie podría contactarme si me pasaba algo. Decidí escribir en un papel que tenía (la boleta electrónica de la bandeja paisa) las direcciones del local donde me estaba hospedando, con la esperanza de que si me desmayaba alguien podría llevarme a aquel lugar y no perderme el examen del día siguiente. Aún mi mayor miedo no era mi salud, era perderme el examen.
 
 Salí del centro comercial, decidí regresar corriendo, ya no caminando. Funcionó, pude llegar al sitio y ya no me sentía mal, estaba tranquilo.
 
@@ -133,9 +140,18 @@ Salí del centro comercial, decidí regresar corriendo, ya no caminando. Funcion
 
 Esa noche pude descansar bien, dormí temprano, me sentía tranquilo, apenas tenía nervios. Al día siguiente me desperté temprano, pedí que no me dieran café en el desayuno, por si me causaba cierta ansiedad (cosa que ya me había sucedido antes al tomar grandes cantidades de café), era el día más importante del año, debía ser precavido. Tomé mis documentos para dar el examen y las provisiones que había comprado el día anterior, y partí caminando rumbo al centro del examen.
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2022/08/provisions-exam-step-1.jpg)<figcaption>Las provisiones que llevé al examen.</figcaption></figure>Fui el primero en llegar, apenas estaban abriendo el centro, me dijeron que esperara, eso hice. Tuve que esperar parado, porque había llovido y las bancas estaban mojadas. Esperé parado algo de una hora en compañía de un gato que me encontré ahí.
 
-<figure class="wp-block-video ticss-4e3c73f5"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/08/colombia-cat-prometric-center.mp4"></video><figcaption>Esperando con el gato a que se abriera el centro donde iba a dar el examen.</figcaption></figure>### Dando el examen
+<figure>
+  <img src="/assets/images/provisions-exam-step-1.jpg" alt="" height="600">
+  <i>Las provisiones que llevé al examen.</i>
+</figure>
+
+Fui el primero en llegar, apenas estaban abriendo el centro, me dijeron que esperara, eso hice. Tuve que esperar parado, porque había llovido y las bancas estaban mojadas. Esperé parado algo de una hora en compañía de un gato que me encontré ahí.
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/Vvsr5P2O00g?si=zn9msx7yraoHb2qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+*Esperando con el gato a que se abriera el centro donde iba a dar el examen.*
+
+### Dando el examen
 
 Se hizo la hora, abrieron el centro para dar el examen y en poco tiempo todo comenzó. Pronto estaba sentado frente a una computadora iniciando mi primer bloque de 1 hora, el primero de 7 bloques. Inició todo un poco después de las 8 AM y se tenía planificado terminar todo un poco después de las 4 PM.
 
@@ -153,7 +169,7 @@ Decidí dar el examen, no podía renunciar. Quería llorar y gritar con toda la 
 
 No era la fuerza lo que me impulsaba, sino mi debilidad. No lo hacía por mi determinación de continuar, lo hacía porque sabía que no podría soportar el fracaso. Que prefería cualquier consecuencia antes de estar en esa situación, cuestionándome mi valor. Porque si hay alguien a quien le temo es a mí mismo, porque soy el mejor que sabe lo injusto, lo duro que soy conmigo.
 
-> No lo logré por valiente, lo logré por cobarde.
+No lo logré por valiente, lo logré por cobarde.
 
 Así fue que tomé una decisión que cambió el rumbo de mi vida, estoy absolutamente seguro. Es más, diría incluso que no hay ninguna decisión individual que haya tomado que haya tenido un mayor impacto en mi vida. Decidí continuar dando el examen, decidí continuar la tortura de lidiar con todo esto hasta el final.
 
@@ -171,16 +187,16 @@ La caminata fue muy larga, solo tenía acceso a internet a través del WiFi del 
 
 Llegué, entré a mi cuarto, me conecté a internet, ningún mensaje. Me sentí solo, profundamente, pero por algún motivo prefería que fuera así. Puede que a nadie le importara lo que me había pasado, pero meditando llegué a la conclusión que era mejor así. Solo era una persona más con un problema más, las personas ya tenían suficientes problemas como para preocuparse por el mío, ¿acaso yo no hacía lo mismo? Cuando pensaba en eso me sentía cada vez más pequeño, minúsculo.
 
-> Conforme conseguía  
-> reducir el tamaño de mi existencia,  
-> se hacía más pequeño también  
-> el tamaño de mi problema.
+<em>
+Conforme conseguía  
+reducir el tamaño de mi existencia,  
+se hacía más pequeño también  
+el tamaño de mi problema.
+</em>
 
 Después de haber pasado un rato pensando en la soledad de mi habitación, quién sabe cuánto, me llegó un mensaje. Resulta que había comenzado una de mis clases virtuales, a la que no había entrado, y dejaron un trabajo grupal. Me pedían que mandara mi parte.
 
-Realmente, la vida seguía, realmente no importaba. De alguna manera se consolidó una idea que tenía de la vida.
-
-> Con el paso del tiempo, tanto el fracaso más desastroso, como la gloria más grande serán olvidados.
+Realmente, la vida seguía, realmente no importaba. De alguna manera se consolidó una idea que tenía de la vida. Con el paso del tiempo, tanto el fracaso más desastroso, como la gloria más grande serán olvidados.
 
 Quizá haya sido algo que me inclinara hacia una línea del pensamiento que se expandiera hacia otros terrenos, como la muerte. Encontrando cierto refugio en un pensamiento un tanto nihilista ([este video](https://youtu.be/MBRqu0YOH14) habla de algo relacionado).
 
@@ -196,7 +212,10 @@ Imaginaba que ese día iba a ser interesante, un día donde pueda hacer algo en 
 
 También, en algún punto decidí grabar algunos videos hablando sobre el tema, porque en parte sentía que era importante. Yo quería compartir mis resultados del examen, yo tenía un canal de YouTube donde subía contenido relacionado al estudio, quería también tener algo que validara aquellas cosas que mencionaba. Pero, dados los acontecimientos pensé “¿es correcto no compartir las cosas si no salen bien?”.
 
-<figure class="wp-block-video ticss-2b443d52"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/08/colombia-talking-after-exam.mp4"></video><figcaption>Reflexiones por calles de Chía, Colombia.</figcaption></figure>Esa idea cobró fuerza en ese momento y esa idea maduró posteriormente hasta convertirse, luego de varios meses, en un deseo de compartir cosas de mi historia, de mostrar más libremente mi vulnerabilidad, lis lados feos y malos. Sé que aún no lo he conseguido del todo, aún estoy en proceso, pero si tuviera que apuntar cuál fue el inicio de este proceso, ese podría ser.
+<iframe width="315" height="560" src="https://www.youtube.com/embed/3u0Pk8_kLng?si=aBz5VDC_wX3S2xu9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+*Reflexiones por calles de Chía, Colombia.*
+
+Esa idea cobró fuerza en ese momento y esa idea maduró posteriormente hasta convertirse, luego de varios meses, en un deseo de compartir cosas de mi historia, de mostrar más libremente mi vulnerabilidad, lis lados feos y malos. Sé que aún no lo he conseguido del todo, aún estoy en proceso, pero si tuviera que apuntar cuál fue el inicio de este proceso, ese podría ser.
 
 ### Nuevamente
 

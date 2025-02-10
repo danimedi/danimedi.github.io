@@ -69,7 +69,9 @@ Esta traducción lógicamente sería muy tediosa de hacerse manualmente y más c
 
 Resulta que el servicio de traducción de Google tiene una función que puede ser usada en [Google Sheets](https://www.google.com/sheets/about/). Esta función es `<a href="https://gsuitetips.com/tips/sheets/translate-languages-in-google-sheets/" rel="noreferrer noopener" target="_blank">GOOGLETRANSLATE()</a>`. Esto fue bastante conveniente para mí porque me permitió poder copiar mi base de datos a Google Sheets, realizar la traducción de las palabras a los distintos idiomas y volverla a pasar a mi computadora. Además, otras funciones me permitieron poder realizar traducciones más exactas; por ejemplo, si ya tengo la columna de palabras en inglés y palabras en español y quiero obtener la traducción al francés, puedo traducir ambas columnas al francés y la traducción debería coincidir, de lo contrario quizá haya algún error, lo mismo puede hacerse parar las demás columnas y usando más idiomas.
 
-<figure class="wp-block-image size-large">![](https://lh6.googleusercontent.com/jLzqvno1bNDOos4KmKidyBWtMC2kC8dc8E8M2ZR6H1I28b08d8DOqgmYxZQQdZct5aWoNdm61RNNrshwbDDsFt29CUa4FSy6YccoAwd1k3T4XXeJaT8mnNctlFjvoAk8ryb-pN-w)</figure>Con las palabras con conflictos o aquellas en las que no se pudo realizar la traducción me encargué de traducirlas manualmente mediante el uso de algunas páginas web como [WordReference](https://www.wordreference.com/) o [Linguee](https://www.linguee.com/). En realidad hubieron bastantes palabras en las que hubo conflictos en la traducción, especialmente en los verbos.
+![](https://lh6.googleusercontent.com/jLzqvno1bNDOos4KmKidyBWtMC2kC8dc8E8M2ZR6H1I28b08d8DOqgmYxZQQdZct5aWoNdm61RNNrshwbDDsFt29CUa4FSy6YccoAwd1k3T4XXeJaT8mnNctlFjvoAk8ryb-pN-w)
+
+Con las palabras con conflictos o aquellas en las que no se pudo realizar la traducción me encargué de traducirlas manualmente mediante el uso de algunas páginas web como [WordReference](https://www.wordreference.com/) o [Linguee](https://www.linguee.com/). En realidad hubieron bastantes palabras en las que hubo conflictos en la traducción, especialmente en los verbos.
 
 Al culminar, consideré importante que una persona que sepa hablar el idioma revisara la traducción. Esto lo hice yo mismo para el español y algunos conocidos para el portugués y el francés. Los otros idiomas no recibieron esta revisión adicional.
 
@@ -87,11 +89,15 @@ Primero intenté usar un [servicio gratuito](https://soundoftext.com/) que usa l
 
 Hasta este punto ya tenía bastantes cosas listas para poder crear mi deck en Anki, pero aún faltaba incluir algunas columnas poder crear un mazo/deck a partir de lo que tenía. En un [video de mi canal de YouTube](https://youtu.be/6BCdyIRW_m4) explico en detalle cómo es que se realiza la importación de bases de datos a Anki.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/6BCdyIRW_m4?feature=oembed" title="Ejemplo de cómo importar imágenes y audios a Anki a partir de un spreadsheet" width="1200"></iframe></div></div></figure>Lo que me faltaba era agregar una columna con los nombres de los archivos de las imágenes y también otra con los nombres de los archivos de los audios. Esto lo realicé también mediante programación y finalmente pude obtener bases de datos específicas para cada idioma según quisiera.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6BCdyIRW_m4?si=V7joJj6brjckCUfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Lo que me faltaba era agregar una columna con los nombres de los archivos de las imágenes y también otra con los nombres de los archivos de los audios. Esto lo realicé también mediante programación y finalmente pude obtener bases de datos específicas para cada idioma según quisiera.
 
 Luego de importar la base de datos, así como las imágenes y los audios, terminé con flashcards con el siguiente contenido:
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2022/04/example-anki-vocabulary.png)</figure>Cabe mencionar que para importar ya se debe contar con un tipo de nota para el contenido, esto lo mencionaré a continuación para que se entienda mejor.
+![](/assets/images/example-anki-vocabulary.png)
+
+Cabe mencionar que para importar ya se debe contar con un tipo de nota para el contenido, esto lo mencionaré a continuación para que se entienda mejor.
 
 ## Diseñando el tipo de nota
 
@@ -104,7 +110,9 @@ En realidad esto depende probablemente de cómo uno quiera aprender y del idioma
 
 Aquí están los ejemplos de ambas flashcards:
 
-<figure class="wp-block-image size-full is-resized">![](https://danimedi.com/wp-content/uploads/2022/04/example-anki-vocabulary-2.png)</figure>Lógicamente hay otras formas de hacerlo, como darle más prioridad a aprender la palabra escrita. Cada uno es libre de hacerlo a su manera.
+![](/assets/images/example-anki-vocabulary-2.png)
+
+Lógicamente hay otras formas de hacerlo, como darle más prioridad a aprender la palabra escrita. Cada uno es libre de hacerlo a su manera.
 
 ## Aprendizaje
 
@@ -148,4 +156,4 @@ En este post he mencionado bastantes cosas relacionadas a la obtención de infor
 
 Video en el canal de YouTube sobre esto:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/L-tq2LEdlZE?feature=oembed" title="Descripción del proyecto de creación de mazo de Anki de vocabulario" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-tq2LEdlZE?si=Ncf3Ct90jW_FP-2T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

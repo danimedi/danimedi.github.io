@@ -32,13 +32,9 @@ Decidir a qué dedicarme es algo en lo que nunca me he puesto a pensar realmente
 
 Entonces, ¿por qué decidí estudiar medicina? Si soy sincero, no lo recuerdo (si es que en algún momento tuve algún motivo claro). La verdad no lo pensé mucho, durante mi último año escolar aún no sabía qué quería ser, usualmente decía que quería ser ingeniero civil para salir del paso (dado que mis dos padres son ingenieros civiles). En realidad mi carrera cobró significado después de que me retirara de la natación, al término de mi segundo año universitario.
 
-Retirarme de la natación fue una decisión compleja y discutible. Probablemente haya sido la decisión que ha marcado más mi vida hasta la fecha. Parte del proceso mental que me llevó a decidir retirarme fue el hecho de que sentía que no era capaz de tener tanto impacto en las demás personas a través del deporte y que dedicar mi vida al mismo podría llevarme a seguir un camino que considerara “vacío”, carente de significado. Sé que todo esto es subjetivo y que usualmente no se trata del destino, sino del camino.
+Retirarme de la natación fue una decisión compleja y discutible. Probablemente haya sido la decisión que ha marcado más mi vida hasta la fecha. Parte del proceso mental que me llevó a decidir retirarme fue el hecho de que sentía que no era capaz de tener tanto impacto en las demás personas a través del deporte y que dedicar mi vida al mismo podría llevarme a seguir un camino que considerara “vacío”, carente de significado. Sé que todo esto es subjetivo y que usualmente no se trata del destino, sino del camino. Pero siento que es mejor seguir un camino cuando te gusta la dirección a la que apunta.
 
-> Pero siento que es mejor seguir un camino cuando te gusta la dirección a la que apunta.
-
-Durante mis primeros años de medicina tenía solamente un objetivo con mi carrera: terminarla (aunque no tenía un motivo específico). Sin embargo, después de retirarme de la natación, mi carrera se convirtió en algo central, ya no solo quería terminarla, sino quería hacer las cosas bien. Le di un motivo, quería tener impacto, quería hacer lo correcto, quería que sea un medio para ser feliz y compartir mi felicidad con otras personas.
-
-> Es posible que mi objetivo haya precedido a mi motivo. Es posible también que mi motivo sea una justificación y no la causa de mi objetivo.
+Durante mis primeros años de medicina tenía solamente un objetivo con mi carrera: terminarla (aunque no tenía un motivo específico). Sin embargo, después de retirarme de la natación, mi carrera se convirtió en algo central, ya no solo quería terminarla, sino quería hacer las cosas bien. Le di un motivo, quería tener impacto, quería hacer lo correcto, quería que sea un medio para ser feliz y compartir mi felicidad con otras personas. Es posible que mi objetivo haya precedido a mi motivo. Es posible también que mi motivo sea una justificación y no la causa de mi objetivo.
 
 ### ¿Fue la decisión correcta?
 
@@ -56,7 +52,9 @@ Algunos problemas con nuestras pasiones son los siguientes:
 
 Una charla que habla de este tema es la [charla de Benjamin Todd en TEDx](https://youtu.be/MKlx1DLa9EA).
 
-<figure class="wp-block-image size-large">![](https://80000hours.org/wp-content/uploads/2014/08/icecream-taster-v12.png)</figure>Entonces, no estoy en una mala posición, ¿verdad? Al fin y al cabo, estudio algo que me gusta (sin importar si es mi pasión absoluta o no) y que tiene el potencial de tener un gran impacto en el mundo y las vidas de otras personas, ¿correcto?
+![](https://80000hours.org/wp-content/uploads/2014/08/icecream-taster-v12.png)
+
+Entonces, no estoy en una mala posición, ¿verdad? Al fin y al cabo, estudio algo que me gusta (sin importar si es mi pasión absoluta o no) y que tiene el potencial de tener un gran impacto en el mundo y las vidas de otras personas, ¿correcto?
 
 ## ¿Futuro médico?
 
@@ -74,9 +72,7 @@ En realidad, me siento muy agradecido por la situación en la que me encuentro. 
 
 Ahora estoy en un punto de mi vida en el que tengo la opción nuevamente de poder decidir entre diferentes cosas y creo que es el momento adecuado de tomar decisiones. Estas decisiones que tome tendrán un efecto en el impacto que pueda llegar a tener en el futuro. Por ejemplo, decidir qué especialidad quiero seguir o qué quiero hacer luego de terminar la carrera es algo que creo que ya debo ir definiendo. Otras cosas a tener en cuenta es el tema de la investigación y el lugar en el cual quiero ejercer la profesión.
 
-Debo mencionar que tengo mucha incertidumbre y en muchas ocasiones tengo miedo de tomar decisiones incorrectas. Realmente no quiero hacer las cosas mal, no quiero terminar en un lugar que no quiero. Aunque también, debo decir que tampoco es necesario tomarme tan en serio, la verdad es que es posible que no consiga las cosas que me he propuesto y eso no significa que vaya a tener una vida miserable.
-
-> Simplemente quiero tener impacto porque es lo que quiero y sé que mi felicidad no depende de ello.
+Debo mencionar que tengo mucha incertidumbre y en muchas ocasiones tengo miedo de tomar decisiones incorrectas. Realmente no quiero hacer las cosas mal, no quiero terminar en un lugar que no quiero. Aunque también, debo decir que tampoco es necesario tomarme tan en serio, la verdad es que es posible que no consiga las cosas que me he propuesto y eso no significa que vaya a tener una vida miserable. Simplemente quiero tener impacto porque es lo que quiero y sé que mi felicidad no depende de ello.
 
 Tampoco debo olvidar que muchas cosas no dependen del todo de mí, sino de factores externos y de las oportunidades que se me vayan presentando en el camino.
 
@@ -121,7 +117,7 @@ Quizá en el fondo simplemente me da miedo hacer las cosas de forma diferente, c
 
 > *If an individual wants to be a leader and isn’t controversial, that means he never stood for anything*
 > 
-> <cite>Richard Nixon</cite>
+> — Richard Nixon
 
 Por el momento no tengo las cosas definidas y quizá tampoco sea del todo malo que sea así, aún me falta aprender mucho al respecto y a lo mejor aún no soy lo suficientemente maduro como para tomar una decisión consciente. Lamentablemente, el tiempo no va a detenerse para esperar a que tome mi decisión.
 
@@ -131,7 +127,7 @@ Estudiar medicina no lo es todo, hay un dicho que siempre suelen repetir los doc
 
 > Quien solo sabe de medicina, ni de medicina sabe.
 > 
-> <cite>José de Letamendi</cite>
+> — José de Letamendi
 
 ### Trabajando otras destrezas
 
@@ -145,7 +141,7 @@ Tiempo atrás, cuando escribí el [post sobre “Quien mucho abarca poco aprieta
 
 > *A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.*
 > 
-> <cite>Robert A. Heinlein</cite>
+> — Robert A. Heinlein
 
 Y en parte siento que, como ser humano, siento esa tendencia a explorar cosas nuevas, a aprender cosas que quizá “no me correspondan”, a dar mi opinión sobre diferentes temas en los que no soy experto, a equivocarme intentando asumir funciones que no me corresponden.
 
@@ -169,12 +165,10 @@ La vida es incierta y muchas cosas no dependen de uno, por ejemplo, tenía plane
 
 > *You may get to the very top of the ladder, and then find it has not been leaning against the right wall.*
 > 
-> <cite>Allen Raine</cite>
+> — Allen Raine
 
 Pero debo tomar decisiones y no tomar ninguna decisión suele ser la peor decisión. Así que es necesario correr el riesgo.
 
-Finalmente, la verdad no estoy seguro de poder lograr las cosas que quiero. A lo mejor no soy tan inteligente ni tan capaz de lograr el impacto que me gustaría. Intentando conseguir aquello que busco muchas veces me enfrento y choco contra grandes limitaciones que tengo. Aún así, me gusta pensar que sí puedo ayudar en algo, o al menos inspirar o contar mi historia para aquellos que sí lo logren.
-
-> No soy la gran cosa, pero soy todo lo que tengo y eso debería ser suficiente para dar lo mejor de mí, y debería ser más que suficiente para ser feliz.
+Finalmente, la verdad no estoy seguro de poder lograr las cosas que quiero. A lo mejor no soy tan inteligente ni tan capaz de lograr el impacto que me gustaría. Intentando conseguir aquello que busco muchas veces me enfrento y choco contra grandes limitaciones que tengo. Aún así, me gusta pensar que sí puedo ayudar en algo, o al menos inspirar o contar mi historia para aquellos que sí lo logren. No soy la gran cosa, pero soy todo lo que tengo y eso debería ser suficiente para dar lo mejor de mí, y debería ser más que suficiente para ser feliz.
 
 *NOTA: como siempre digo, es posible (incluso probable) que cambie mi forma de pensar en el futuro sobre muchos de los temas abordados en este post y también es probable que yo mismo esté en desacuerdo con muchas cosas mencionadas. Pero ya iré aprendiendo más conforme vaya viviendo.*

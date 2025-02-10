@@ -52,6 +52,7 @@ Me gustaría hacer otras cosas también, tengo pendiente ir a mi SERUMS en bicic
 
 Me gusta esa sensación de la biatlón, encontrarme con mis amigos para hacer algún deporte y sentirme conectado a pesar de la distancia, sentir que pertenezco a una insospechada historia en común que con el pasar del tiempo se torna más improbable y más valiosa.
 
-<div class=" wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-11e11d70"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class=" wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-4c5bdb21">*Esta es una foto del año 2014 (hace 10 años) en la que participé con Gonzalo en una maratón.*
+*Esta es una foto del año 2014 (hace 10 años) en la que participé con Gonzalo en una maratón:*
 
-<figure class="wp-block-image size-full">![](https://danimedi.com/wp-content/uploads/2024/12/gonzalo_y_yo_maraton.jpg)</figure></div></div></div>
+![](/assets/images/gonzalo_y_yo_maraton.jpg)
+

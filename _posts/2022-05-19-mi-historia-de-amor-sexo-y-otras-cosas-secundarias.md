@@ -261,7 +261,7 @@ Aún tengo miedo.
 
 > “Courage is not the absence of fear, rather the judgement that something else is more important than fear”.
 > 
-> <cite>Ambrose Redmoon</cite>
+> — Ambrose Redmoon
 
 Pero debo decir que realmente me emociona aprender y hablar sobre estos temas. A veces pienso que hubiera sido mejor que las cosas hubieran sido diferentes, pero quizá hubiese terminado siendo menos auténtico, siendo menos yo, menos Daniel Medina.
 

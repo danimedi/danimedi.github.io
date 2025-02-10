@@ -21,9 +21,7 @@ Durante estos dos meses he aprendido muchas cosas y aún siento que me quedan mu
 
 ### Bailando “bien”
 
-Nunca me gustaron las fiestas, recuerdo que mi mamá me obligaba a ir porque siempre sentía cierta preocupación de que no fuera alguien “normal” y realmente quería que pueda desarrollarme mejor socialmente. Recuerdo que se alegraba mucho cuando salía y no me dejaba regresar a casa temprano, aunque se lo pidiera. Es que realmente no me gustaba casi nada de las fiestas: sociabilizar (era muy tímido), tomar alcohol y bailar.
-
-> Las pocas cosas que me gustaban de las fiestas estaban bailando o besándose con alguien más.
+Nunca me gustaron las fiestas, recuerdo que mi mamá me obligaba a ir porque siempre sentía cierta preocupación de que no fuera alguien “normal” y realmente quería que pueda desarrollarme mejor socialmente. Recuerdo que se alegraba mucho cuando salía y no me dejaba regresar a casa temprano, aunque se lo pidiera. Es que realmente no me gustaba casi nada de las fiestas: sociabilizar (era muy tímido), tomar alcohol y bailar. Las pocas cosas que me gustaban de las fiestas estaban bailando o besándose con alguien más.
 
 Que no me gustara bailar en fiestas se me hacía raro a mí y a mi mamá también, al fin y al cabo, a mí sí me gustaba bailar fuera de fiestas. Practicaba marinera de niño, siempre participaba en los concursos de bailes entre promociones del colegio y era alguien bastante musical. Pero con las fiestas era diferente, no sabía las canciones, menos los pasos, menos las letras, y sentir que no podía bailar bien me frustraba y no me permitía pasarlo bien.
 
@@ -33,9 +31,7 @@ Y esto no solo se limitaba a fiestas con gente de mi edad, sino también a fiest
 
 Odiaba lo que hacía mi abuelita, lo hacía desde que era niño y lo seguía odiando incluso estando ya en secundaria. Simplemente odiaba bailar en cualquier fiesta y me gustaba menos cuando era obligado a hacerlo. Pero fue gracias a ella, mi abuelita, que descubrí otra perspectiva de lo que era el baile que lo cambió todo.
 
-Después de haber ido ya a algunas fiestas y bailar en varias ocasiones principalmente por compromiso, terminé en una fiesta con la familia y mi abuelita no tenía nadie con quién bailar. Sabía que sacarla a bailar iba a hacerla feliz, aunque yo no la pasara bien. Entonces, tomé aire, fingí una sonrisa, me acerqué caminando al ritmo de la música, estiré mi mano y le dije “Bailemos”.
-
-> Y al bailar, la sonrisa falsa se volvió sincera por empatía. Ver a mi abuelita feliz me alegró sinceramente y eso lo cambió todo.
+Después de haber ido ya a algunas fiestas y bailar en varias ocasiones principalmente por compromiso, terminé en una fiesta con la familia y mi abuelita no tenía nadie con quién bailar. Sabía que sacarla a bailar iba a hacerla feliz, aunque yo no la pasara bien. Entonces, tomé aire, fingí una sonrisa, me acerqué caminando al ritmo de la música, estiré mi mano y le dije “Bailemos”. Y al bailar, la sonrisa falsa se volvió sincera por empatía. Ver a mi abuelita feliz me alegró sinceramente y eso lo cambió todo.
 
 Antes, para mí, bailar se trataba de demostrar algo y hacerlo bien significaba realizar los pasos correctamente, hacer los movimientos de la mejor manera posible. Quizá por eso no funcionaba en fiestas. Bailar socialmente se trata más de actitud que de aptitudes físicas o artísticas.
 
@@ -43,9 +39,7 @@ Así que, finalmente, comencé a darle mi propio significado a bailar. Intentar 
 
 Bailar → alegría para los demás → alegría para mí.
 
-Yo no bailo por ellos, bailo por mí, pero su alegría es un paso necesario para alegrarme yo.
-
-> No es el acto de bailar lo que me hace feliz, sino ver a personas pasando un momento agradable.
+Yo no bailo por ellos, bailo por mí, pero su alegría es un paso necesario para alegrarme yo. No es el acto de bailar lo que me hace feliz, sino ver a personas pasando un momento agradable.
 
 Hoy en día me gusta bailar socialmente, me gusta ir a fiestas a bailar y me encanta la idea de pasar toda una noche haciendo pasos raros con una sonrisa en el rostro al ritmo de canciones que usualmente no conozco (aunque de tanto salir ya me sé una que otra).
 
@@ -53,9 +47,7 @@ Hoy en día me gusta bailar socialmente, me gusta ir a fiestas a bailar y me enc
 
 Aunque el baile no solo es eso, también puede ser una expresión de sexualidad en muchos aspectos. Bailar pegadito brinda cierta gratificación sexual. Además, de los bailes a los besos muchas veces no hay mucha distancia.
 
-Y hablando de sexualidad: ¿cuánto vale un beso o cuánto vale el sexo? Para algunos mucho, para otros poco. Pero aquel que les da más valor tiene más posibilidades de sufrir.
-
-> De alguna manera, el que no le da importancia impone que sea así.
+Y hablando de sexualidad: ¿cuánto vale un beso o cuánto vale el sexo? Para algunos mucho, para otros poco. Pero aquel que les da más valor tiene más posibilidades de sufrir. De alguna manera, el que no le da importancia impone que sea así.
 
 No digo que esté mal, pero es algo difícil para aquellos que sí les dan importancia. Besarte con tres personas en una fiesta puede que no represente nada para una persona y esa persona es libre de hacerlo y de pensar de ese modo. Entonces, aquel a quien sí le importa no puede hacer nada más que guardarse el dolor en el pecho y seguir adelante, a veces deseando que esas cosas le dejaran de importar en algún momento e incluso actuando para conseguir ese grado de insensibilidad respecto a esos actos relacionados a la sexualidad.
 
@@ -73,9 +65,7 @@ Quizá en el fondo uno siente miedo de que surja amor a partir de un beso, de un
 
 Se sabe que el alcohol y las fiestas van generalmente de la mano, el alcohol se ha convertido en una droga con gran aceptación social. A pesar de esto y de que haya salido ya muchas veces aún no termino de acostumbrarme. No termino de entender la necesidad de su consumo ni me acostumbro a observar algunas transformaciones luego de unos tragos.
 
-En gran medida no comprendo a las personas que están borrachas, tal vez porque nunca haya estado borracho yo. Tengo muchas dudas respecto a esto. ¿Cómo saber si lo que dicen o hacen es sincero?, ¿acaso no refleja una falta de sinceridad el hecho de que necesiten alcohol para decir o hacer algunas cosas? Si estando sobrio no lo harían, quizá sea porque realmente no son así. ¿Es correcto besar a alguien que está borracho?, se trata de una persona que no está en todas sus facultades y quizá tener algún tipo de acercamiento sea una forma de aprovecharse de esa situación. ¿Cuánto control tienen de sí mismos?
-
-> Me dan miedo las personas borrachas, no tanto por lo que puedan hacerme, sino por lo que pueden permitir que se les haga.
+En gran medida no comprendo a las personas que están borrachas, tal vez porque nunca haya estado borracho yo. Tengo muchas dudas respecto a esto. ¿Cómo saber si lo que dicen o hacen es sincero?, ¿acaso no refleja una falta de sinceridad el hecho de que necesiten alcohol para decir o hacer algunas cosas? Si estando sobrio no lo harían, quizá sea porque realmente no son así. ¿Es correcto besar a alguien que está borracho?, se trata de una persona que no está en todas sus facultades y quizá tener algún tipo de acercamiento sea una forma de aprovecharse de esa situación. ¿Cuánto control tienen de sí mismos? Me dan miedo las personas borrachas, no tanto por lo que puedan hacerme, sino por lo que pueden permitir que se les haga.
 
 ## Sentimientos y hacer lo correcto
 
@@ -89,17 +79,15 @@ Imaginen este escenario (y es posible que incluso lo hayan vivido):
 
 Hacer lo correcto no es fácil, no solo se trata de buenas intenciones. Hacer lo correcto a veces es lastimar o incomodar en el corto plazo: rechazar un trago, rechazar un beso, ser honesto. El tema es que los momentos incómodos y tristes son importantes también, son los que enseñan más, son aquellos que te hacen pensar, aquellos que te inspiran a escribir un post hablando sobre los pensamientos de uno. Sufrir a corto plazo puede aliviar sufrimientos mayores a largo plazo, pero es necesario pensar más allá para darse cuenta.
 
-Estoy seguro de que he hecho muchísimas cosas incorrectas ahora último saliendo a fiestas producto de mi incapacidad de distinguir lo correcto de lo incorrecto y de sostener aquello que creo que es correcto. Me gustaría tener un reloj con una brújula moral incorporada que haga un sonidito que me informe que voy a hacer algo incorrecto, para evitar hacerlo en ese momento.
-
-> Actualmente, mi brújula moral en situaciones sociales es simplemente ser honesto y ser empático.
+Estoy seguro de que he hecho muchísimas cosas incorrectas ahora último saliendo a fiestas producto de mi incapacidad de distinguir lo correcto de lo incorrecto y de sostener aquello que creo que es correcto. Me gustaría tener un reloj con una brújula moral incorporada que haga un sonidito que me informe que voy a hacer algo incorrecto, para evitar hacerlo en ese momento. Actualmente, mi brújula moral en situaciones sociales es simplemente ser honesto y ser empático.
 
 ## Inseguridades
 
 Pero reconozco que no soy completamente honesto y empático. Me da temor y cierta inseguridad no tener la capacidad suficiente de hacer lo correcto en la medida de mis posibilidades. Yo quiero actuar de acuerdo a lo que considero adecuado, pero también reconozco que soy bastante débil y frágil, y aún no soy capaz de sostener mis ideales en todas las ocasiones. Sé que buscar hacer lo correcto significa ganarse el aprecio de algunas personas, pero también el odio de otras.
 
-> *To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.*
+> To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.
 > 
-> <cite>Criss Jami, Killosophy</cite>
+> — Criss Jami, Killosophy
 
 He hecho cosas malas, pero sé que por ahí también he hecho cosas buenas. He tenido la oportunidad de no hacer lo incorrecto también y me he demostrado a mí mismo que puedo hacer cosas buenas. Recordando un frase que usé [en otro escrito](https://danimedi.com/blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/):
 
