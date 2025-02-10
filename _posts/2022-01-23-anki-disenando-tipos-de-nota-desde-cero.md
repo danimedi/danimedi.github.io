@@ -1,6 +1,6 @@
 ---
 id: 519
-title: 'Tutorial de Anki: diseñando tipos de nota desde cero (básico)'
+title: 'Tutorial de Anki: Diseñando tipos de nota desde cero (básico)'
 date: '2022-01-23T23:55:39+00:00'
 author: DaniMedi
 layout: post
@@ -35,17 +35,23 @@ Además, en el canal de YouTube se tiene la siguiente playlist con videos relaci
 
 Para comenzar vamos a crear un nuevo tipo de nota para iniciar desde cero. Para crear un tipo de nota podemos clonar uno previamente existente, en este caso crearemos un tipo de nota en base al tipo de nota “Cloze” (más información sobre este tipo de nota en el [tutorial de comenzando a usar Anki desde cero](https://danimedi.com/blog/tutorial-de-anki-desde-cero/) ). Podemos hacer esto del siguiente modo:
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/create_note_type.mp4"></video></figure>Podemos editar este tipo de nota y personalizarlo como queramos, el primer campo será aquel campo especial del tipo Cloze que será utilizado para crear las preguntas y respuestas, los otros campos tendrán contenido adicional según queramos.
+![](/assets/images/create_note_type.gif)
+
+Podemos editar este tipo de nota y personalizarlo como queramos, el primer campo será aquel campo especial del tipo Cloze que será utilizado para crear las preguntas y respuestas, los otros campos tendrán contenido adicional según queramos.
 
 Entonces, comenzamos a personalizar. La personalización se realiza desde la ventana “Cards…” que se accede del siguiente modo:
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/customize_cards_window.mp4"></video></figure>Esta ventana tiene dos partes marcadas, una mitad (la izquierdo) es el área donde realizaremos nuestra personalización y en la otra mitad (la derecha) podremos visualizar el resultado de los cambios que haremos.
+![](/assets/images/customize_cards_window.gif)
+
+Esta ventana tiene dos partes marcadas, una mitad (la izquierdo) es el área donde realizaremos nuestra personalización y en la otra mitad (la derecha) podremos visualizar el resultado de los cambios que haremos.
 
 ### Mitad izquierda
 
 La mitad izquierda tiene 3 partes que pueden accederse con los botones: “Front Template”, “Back Template” y “Styling”; versiones antiguas de Anki tienen también estas partes pero todas visibles en esta mitad. Es en el contenido de estas partes donde realizaremos la personalización de nuestro tipo de nota.
 
-<figure class="wp-block-image size-large">![](https://danimedi.com/wp-content/uploads/2022/01/note_type_customization-1024x634.jpg)</figure>Un poco de explicación sobre las partes:
+![](/assets/images/note_type_customization.jpg)
+
+Un poco de explicación sobre las partes:
 
 - Front Template: establece el contenido que irá en la pregunta de la flashcard en formato HTML.
 - Back Template: establece el contenido que irá en la respuesta de la flashcard en formato HTML.
@@ -57,7 +63,9 @@ Esta forma de incluir contenido y personalizarlo es similar en gran medida al us
 
 En la mitad derecha tenemos dos botones: “Front Preview” que nos muestra cómo luce la “pregunta” y “Back Preview” que nos muestra cómo luce la “respuesta”. Para poder visualizar esto tenemos que tener contenido agregado en los campos. También podemos visualizar cómo lucirían las otras preguntas y respuestas si tenemos varias, como se observa en el ejemplo:
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/visualize_cards.mp4"></video></figure>Los cambios realizados en la mitad izquierda se ven reflejados automáticamente en la mitad derecha, eso es bastante conveniente, incluso lo usé para practicar algunas cosas de HTML y CSS para páginas web.
+![](/assets/images/visualize_cards.gif)
+
+Los cambios realizados en la mitad izquierda se ven reflejados automáticamente en la mitad derecha, eso es bastante conveniente, incluso lo usé para practicar algunas cosas de HTML y CSS para páginas web.
 
 ## Comprendiendo cómo se generan las flashcards
 
@@ -65,21 +73,31 @@ Las flashcards son creadas utilizando el contenido que tenemos en los campos. Es
 
 Vamos a crear nuestro propio desde cero, para esto en nuestro tipo de nota creado vamos a borrar todo el contenido de Front Tamplate y Back Template, del siguiente modo:
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/erase_info_templates.mp4"></video></figure>Entonces, ahora crearemos nuestro tipo de nota desde cero. Recordemos que en Front Template tenemos lo que corresponderá a la pregunta, para esto tenemos que saber el nombre del campo que contendrá esta información, este sería el contenido de nuestro primer campo con el nombre de “Text”, para agregar esta información rodeamos el nombre del campo con dos llaves (si tiene otro nombre, en lugar de “Text”, utilizamos ese otro nombre), entonces tendríamos algo así: `{{Text}}`, podemos observar que se observa el contenido; sin embargo, tenemos que agregar antes un indicador de que este campo es un campo Cloze, que es especial, para esto agregamos “cloze:” de la siguiente manera: `{{cloze:Text}}`, entonces tenemos el primer campo de la forma que queremos. Para la parte de Back Template, que sería la respuesta, hacemos exactamente lo mismo. El proceso sería el siguiente:
+![](/assets/images/erase_info_templates.gif)
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/first_field_cloze_customization.mp4"></video></figure>Ahora, ya tenemos nuestra flashcard lista para usarla, si es que usamos solo el primer campo de contenido “Text”. Es una de las cosas que hace usar el tipo de nota Cloze algo bastante sencillo. Ahora, los demás campos pueden contener cosas adicionales, por ejemplo, podemos agregar el campo “Back Extra” que queremos que contenga contenido adicional, pero solo cuando se muestra la respuesta. También podemos cambiar el nombre del campo a “Extra” para demostrar cómo se hace desde “Fields…”.
+Entonces, ahora crearemos nuestro tipo de nota desde cero. Recordemos que en Front Template tenemos lo que corresponderá a la pregunta, para esto tenemos que saber el nombre del campo que contendrá esta información, este sería el contenido de nuestro primer campo con el nombre de “Text”, para agregar esta información rodeamos el nombre del campo con dos llaves (si tiene otro nombre, en lugar de “Text”, utilizamos ese otro nombre), entonces tendríamos algo así: `{{Text}}`, podemos observar que se observa el contenido; sin embargo, tenemos que agregar antes un indicador de que este campo es un campo Cloze, que es especial, para esto agregamos “cloze:” de la siguiente manera: `{{cloze:Text}}`, entonces tenemos el primer campo de la forma que queremos. Para la parte de Back Template, que sería la respuesta, hacemos exactamente lo mismo. El proceso sería el siguiente:
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/adding_extra_field.mp4"></video></figure>En el video se puede observar el uso de `<br>` que es usado en HTML para crear un salto de línea, si agregamos múltiples de esos podemos crear más separación. Otra forma de agregar separación es haciendo que aparezca una línea horizontal, esto lo hacemos con `<hr>`.
+![](/assets/images/first_field_cloze_customization.gif)
+
+Ahora, ya tenemos nuestra flashcard lista para usarla, si es que usamos solo el primer campo de contenido “Text”. Es una de las cosas que hace usar el tipo de nota Cloze algo bastante sencillo. Ahora, los demás campos pueden contener cosas adicionales, por ejemplo, podemos agregar el campo “Back Extra” que queremos que contenga contenido adicional, pero solo cuando se muestra la respuesta. También podemos cambiar el nombre del campo a “Extra” para demostrar cómo se hace desde “Fields…”.
+
+![](/assets/images/adding_extra_field.gif)
+
+En el video se puede observar el uso de `<br>` que es usado en HTML para crear un salto de línea, si agregamos múltiples de esos podemos crear más separación. Otra forma de agregar separación es haciendo que aparezca una línea horizontal, esto lo hacemos con `<hr>`.
 
 ## Agregando más contenido adicional
 
 Se puede agregar contenido especial o contenido con características especiales, en lo personal me gusta incluir un campo que contenga un poco de información más extensa sobre la información de alguna flashcard, pero no me gusta que me muestre la información de inmediato junto con la respuesta. Para esto se puede agregar `hint:`. En este ejemplo se muestra cómo creamos un campo adicional con el nombre de “Info” y lo incluimos como se menciona. También se puede notar otras cosas adicionales, por ejemplo, cómo agregar un campo adicional y la línea horizontal.
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/adding_info_field.mp4"></video></figure>Notar cómo solo se muestra el contenido cuando se presiona con el mouse en el nombre del campo.
+![](/assets/images/adding_info_field.gif)
+
+Notar cómo solo se muestra el contenido cuando se presiona con el mouse en el nombre del campo.
 
 Otra cosa que me gusta tener a la mano es la referencia o referencias de la información que estoy utilizando para crear flashcards, para esto hay diferentes alternativas. Una opción es utilizar dos campos adicionales, uno para el título de la referencia (“Ref titulo”) y otro con el link de la referencia (“Ref link”). Entonces, podemos combinarlos usando HTML para crear un link.
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/adding_link_field.mp4"></video></figure>Al hacer click nos abrirá una ventana del buscador donde nos mostrará ese link que hemos agregado en el campo “Ref link”.
+![](/assets/images/adding_link_field.gif)
+
+Al hacer click nos abrirá una ventana del buscador donde nos mostrará ese link que hemos agregado en el campo “Ref link”.
 
 Notar que se incluye la etiqueta `<a>` para agregar el link, observar como se coloca el link y el título en HTML, se puede copiar de la misma forma esto para usarlo en otros contextos.
 
@@ -105,7 +123,6 @@ Como algo muy básico, en Styling podemos copiar algo como esto:
   background-color: white;
 }
 /*General modo noche*/
-
 .card.nightMode {
   color: white;
 }
@@ -130,20 +147,28 @@ En lo personal lo dejo casi todo como está, de forma predeterminada, aunque úl
 
 Ahora, podemos nosotros decidir personalizar cosas individuales, como decidir cambiar el color o tamaño de letra solo para el campo “Extra”. Esto lo podemos hacer de diferentes maneras, la más sencilla podría ser creando clases, esto lo podemos hacer agregando `<div class="<em>nombre</em>">` y luego personalizar esta clase desde Styling. Atentos al siguiente video:
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/01/create_new_class.mp4"></video></figure>De esta manera podemos sobrescribir algunas cosas para elementos específicos. Además, podemos asignar una misma clase para diferentes elementos y realizar cambios en esos elementos de la misma manera, podemos crear el número de clases que queramos.
+![](/assets/images/create_new_class.gif)
+
+De esta manera podemos sobrescribir algunas cosas para elementos específicos. Además, podemos asignar una misma clase para diferentes elementos y realizar cambios en esos elementos de la misma manera, podemos crear el número de clases que queramos.
 
 ## Campos condicionales
 
 Lo explicado hasta ahora brinda una gran cantidad de posibilidades para poder personalizar nuestras flashcars, algo que nos da aún más posibilidades es usar los campos condicionales o el reemplazo condicional, esto significa poder mostrar u ocultar cosas de acuerdo a si un campo tiene contenido o no, esto se explica en la sección de [Reemplazo condicional del manual de Anki](https://apps.ankiweb.net/docs/manual.es.html#reemplazo-condicional) y en el siguiente [video del canal](https://youtu.be/HbVL-ovs1VU):
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/HbVL-ovs1VU?feature=oembed" title="Campos condicionales (condiciones) | Diseñando flashcards en Anki" width="1200"></iframe></div></div></figure>## Plantillas
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HbVL-ovs1VU?si=rYDmS7FcESHMcmMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Plantillas
 
 Ahora, con la información presentada tenemos bastantes posibilidades de diseño de nuestras flashcards. Aquí incluyo las plantillas usadas por el ejemplo y también agrego algunas cosas más, como los campos condicionales y otros detalles. Pueden copiarlo y usarlo como plantilla o modificarlo para crear su tipo de nota propio.
 
 ### Front Template
 
 ```
+
+{% raw %}
 {{cloze:Text}}
+{% endraw %}
+
 ```
 
 ### Back Template

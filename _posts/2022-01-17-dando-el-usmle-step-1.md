@@ -43,13 +43,13 @@ Durante la mayor parte del año 2020 estudiar para el examen (Step 1), mientras 
 
 Mi estrategia de preparación fue bastante simple y fue la siguiente:
 
-<figure class="wp-block-table">| Objetivo | Lo que hice |
+| Objetivo | Lo que hice |
 |---|---|
-| 1. Conocer mi nivel inicial | Dar el [free AMBOSS Self-Assessment](https://www.amboss.com/int/usmle/self-assessment/2022/step1)   Terminar [Medbullets question bank](https://step1.medbullets.com/) |
+| 1. Conocer mi nivel inicial | Dar el [free AMBOSS Self-Assessment](https://www.amboss.com/int/usmle/self-assessment/2022/step1) <br> Terminar [Medbullets question bank](https://step1.medbullets.com/) |
 | 2. Tener conocimiento de todos los temas del examen | Terminar de estudiar las flashcards de la deck [AnKing Overhaul](https://www.reddit.com/r/medicalschoolanki/comments/p7glp5/anking_overhaul_step_1step_2_version_10_update/) para el Step 1 en Anki |
-| 3. Practicar para el examen | Resolver preguntas creando flashcards para las preguntas en las que me equivocaba. Usé:   – [AMBOSS question bank](https://www.amboss.com/)   – [UWorld question bank](https://www.uworld.com/)   – [NBME Self-Assessments](https://www.nbme.org/examinees/self-assessments) |
+| 3. Practicar para el examen | Resolver preguntas creando flashcards para las preguntas en las que me equivocaba. Usé: <br> – [AMBOSS question bank](https://www.amboss.com/) <br> – [UWorld question bank](https://www.uworld.com/) <br> – [NBME Self-Assessments](https://www.nbme.org/examinees/self-assessments) |
 
-</figure>Además, el mes anterior al examen intenté simular situaciones similares al examen, como practicar hacer 7 bloques de 1 hora cada uno en 8 horas (como el examen real), usar mascarilla durante la resolución de los bloques y algunas otras cosas para irme acostumbrando.
+Además, el mes anterior al examen intenté simular situaciones similares al examen, como practicar hacer 7 bloques de 1 hora cada uno en 8 horas (como el examen real), usar mascarilla durante la resolución de los bloques y algunas otras cosas para irme acostumbrando.
 
 ## Acerca del trámite
 

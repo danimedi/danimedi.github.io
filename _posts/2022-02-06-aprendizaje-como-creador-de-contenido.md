@@ -30,4 +30,4 @@ Aprovecho para mencionar que tener contenido por compartir y tener personas que 
 
 Video de YouTube sobre esto:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/SGHIPQjYD00?feature=oembed" title="Encuesta sobre el contenido del canal" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SGHIPQjYD00?si=FySl3AasHR9irf0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

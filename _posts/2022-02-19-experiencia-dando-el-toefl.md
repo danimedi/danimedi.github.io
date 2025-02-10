@@ -74,7 +74,9 @@ Algunas de las clases que programé fueron canceladas o reprogramadas por los pr
 
 *Nota: en esa página web a veces hay problemas para ejecutar los ejercicios cuando se realiza la traducción de chino a otro idioma, es mejor dejarlo en chino. El proceso para comenzar a practicar sería el siguiente:*
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/02/toefl_chinese_website.mp4"></video></figure>*Hay muchas prácticas, cada una con cuatro preguntas, en el ejemplo se observa la primera práctica y se hace click en la opción de hacer las cuatro preguntas de corrido. Posteriormente hay una prueba del micrófono y ya se puede comenzar (como se muestra).*
+![](/assets/images/toefl_chinese_website.gif)
+
+*Hay muchas prácticas, cada una con cuatro preguntas, en el ejemplo se observa la primera práctica y se hace click en la opción de hacer las cuatro preguntas de corrido. Posteriormente hay una prueba del micrófono y ya se puede comenzar (como se muestra).*
 
 Ese mismo día estudié bastante con esta página, incluso ya conocía de memoria los tiempos y la estructura típica de cada una de las cuatro preguntas y ya contaba con mi estrategia para tomar apuntes y responder las preguntas de la mejor forma posible.
 
@@ -131,4 +133,4 @@ Además, este examen me ha permitido recuperar la confianza en mí mismo y poder
 
 Este es el video en el que cuento también esta experiencia:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="900" loading="lazy" src="https://www.youtube.com/embed/j1optrb64Eg?feature=oembed" title="Experiencia dando el TOEFL" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j1optrb64Eg?si=b9SECNVUjYmFlQih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

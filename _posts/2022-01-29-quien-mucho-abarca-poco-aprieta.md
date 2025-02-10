@@ -1,6 +1,6 @@
 ---
 id: 547
-title: '&#8220;Quien mucho abarca poco aprieta&#8221;'
+title: 'Quien mucho abarca poco aprieta'
 date: '2022-01-29T03:47:48+00:00'
 author: DaniMedi
 layout: post
@@ -11,9 +11,9 @@ categories:
     - Pensamientos
 ---
 
-<div class="wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-unset" id="wp-block-themeisle-blocks-advanced-columns-137de10a"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><div class="wp-block-themeisle-blocks-advanced-column" id="wp-block-themeisle-blocks-advanced-column-bde1b06b">NOTA: algunas ideas son usadas en otros posts, un post importante que toma algunas ideas de este y las desarrolla mucho más es el siguiente: [¿Qué quiero hacer con mi vida?](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/).
+NOTA: algunas ideas son usadas en otros posts, un post importante que toma algunas ideas de este y las desarrolla mucho más es el siguiente: [¿Qué quiero hacer con mi vida?](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/).
 
-</div></div></div>O uno similar en inglés: “Jack of all trades, master of none”. Realmente detesto estos refranes. Es frecuente para muchos, incluyéndome, encontrarse en una situación en la que tenemos muchas posibles cosas que hacer y tenemos que tomar la decisión si hacerlas todas o hacer algunas. En estos casos, decidir hacer alguna es renunciar a hacer otra. Aunque es posible hacer “bien” varias cosas, se podría decir también que se podrían hacer mejor si es que nos centráramos más en una o menos actividades.
+"Quién mucho abarca poco aprieta" o uno similar en inglés: “Jack of all trades, master of none”. Realmente detesto estos refranes. Es frecuente para muchos, incluyéndome, encontrarse en una situación en la que tenemos muchas posibles cosas que hacer y tenemos que tomar la decisión si hacerlas todas o hacer algunas. En estos casos, decidir hacer alguna es renunciar a hacer otra. Aunque es posible hacer “bien” varias cosas, se podría decir también que se podrían hacer mejor si es que nos centráramos más en una o menos actividades.
 
 Aquí se encuentra un video complementario en el que abordo este mismo tema: <https://youtu.be/CONy3kq6S50>
 
@@ -37,7 +37,7 @@ Para mí, la parte más difícil es esa, renunciar a cosas, renunciar a ideas, a
 
 > “Los buenos científicos se distinguen no tanto por tener las mejores ideas, sino por su destreza para desechar aquellas que no funcionan y pasar a otras mejores”.
 > 
-> <cite>Designing Clinical Research – Stephen B. Hulley</cite>
+> — Stephen B. Hulley in Designign Clinical Research
 
 En mi caso personal pude reconocer tres motivos importantes por los que me cuesta dejar/sacrificar cosas:
 
@@ -51,21 +51,23 @@ En mi caso personal pude reconocer tres motivos importantes por los que me cuest
 
 Ahora, asimilando mis dificultades, el siguiente paso sería reconocer qué es lo que quiero sacrificar, y aún no me respondo adecuadamente. Pienso que podría realizar un análisis para decidir qué cosas vale la pena dejar de hacer, a qué cosas renunciar. Para esto se podría usar un algoritmo presentado en el libro [“Happy Sexy Millionaire: Unexpected Truths about Fulfillment, Love, and Success”](https://www.goodreads.com/en/book/show/52255414-happy-sexy-millionaire). Este algoritmo va algo así:
 
-<figure class="wp-block-image size-large">![](https://danimedi.com/wp-content/uploads/2022/01/quitting_framework-spanish-1024x655.png)</figure>Otra cosa que se puede agregar a esto es indicar los motivos por los cuales he renunciado a algo, ya que en el futuro es casi seguro que lo olvide y nuevamente me den ganas de volver a hacer algunas cosas, entonces será importante poder saber si es que voy a tropezar con la misma piedra o si realmente he cambiado mi forma de pensar o mi situación y realmente vale la pena realizar aquello. Relacionado a esto me llamó la atención un consejo mencionado por [Greg Wilson](https://third-bit.com/), quien menciona que crear una lista de cosas que *no* hacer es una gran estrategia de productividad. Utilizando sus palabras: “Porque la vida es muy corta y hay demasiadas cosas por hacer”.
+![](/assets/images/quitting_framework-spanish.png)
+
+Otra cosa que se puede agregar a esto es indicar los motivos por los cuales he renunciado a algo, ya que en el futuro es casi seguro que lo olvide y nuevamente me den ganas de volver a hacer algunas cosas, entonces será importante poder saber si es que voy a tropezar con la misma piedra o si realmente he cambiado mi forma de pensar o mi situación y realmente vale la pena realizar aquello. Relacionado a esto me llamó la atención un consejo mencionado por [Greg Wilson](https://third-bit.com/), quien menciona que crear una lista de cosas que *no* hacer es una gran estrategia de productividad. Utilizando sus palabras: “Porque la vida es muy corta y hay demasiadas cosas por hacer”.
 
 ### Lista negra
 
 Esta es una lista negra de ideas y de proyectos, de cosas que no haría por diferentes motivos. Esta lista, con solo dos elementos, es solamente un ejemplo de algunas cosas que realmente me gustaría tener escritas en algún lado. Es posible que dedique alguna sección en la página web para tener una lista más completa, además, hay otras ideas relacionadas como tener una lista de “Cosas que haría si…”.
 
-<figure class="wp-block-table">| **Idea / actividad** | **Motivo por el que está en la lista negra** |
-|---|---|
+| **Idea / actividad** | **Motivo por el que está en la lista negra** |
+|----------------------|----------------------------------------------|
 | Volver a practicar un deporte con mentalidad competitiva | Requiere gran tiempo y esfuerzo y esto nunca acaba, cuando te va mejor dedicas más tiempo y esfuerzo y si te va peor, igual. |
 | Perfeccionar mis habilidades de programación | Actualmente ya tengo conocimientos sobre lenguajes como R y Python, con R puedo hacer estadística, manejo de datos y otras muchas cosas. Como estudiante de medicina es suficiente, puedo pedir ayuda para cosas más complejas. |
 
-</figure>## Palabras finales
+## Palabras finales
 
 Todo lo comentado es simplemente parte de las cosas por las que estoy viviendo actualmente y es seguro que mi forma de ver las cosas cambie en el futuro. Aún sigo aprendiendo a ser adulto y espero que lo narrado pueda servirme (o por ahí quizá a alguien más) en el futuro, para poder invertir mi tiempo y esfuerzo en las cosas que quiero más, no solo en las cosas que quiero ahora. Aún me siento un poco identificado por aquel refrán del título, pero creo que he mejorado, creo que estoy haciendo menos cosas haciendo uso de mi libertad, producto de una decisión consciente.
 
 Aquí está un video complementario en el que hablo de este mismo tema:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe abarca="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" aprieta="" frameborder="0" height="675" loading="lazy" mucho="" poco="" quien="" src="https://www.youtube.com/embed/CONy3kq6S50?feature=oembed" title=""Quien mucho abarca poco aprieta"" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CONy3kq6S50?si=YyHmTiWLxrOqs8-B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

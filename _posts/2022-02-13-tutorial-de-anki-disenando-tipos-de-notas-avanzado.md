@@ -1,6 +1,6 @@
 ---
 id: 715
-title: 'Tutorial de Anki: diseñando tipos de notas (avanzado)'
+title: 'Tutorial de Anki: Diseñando tipos de notas (avanzado)'
 date: '2022-02-13T23:57:32+00:00'
 author: DaniMedi
 layout: post
@@ -26,15 +26,21 @@ Cómo conectar los campos (*fields*) con la estructura (tipo de nota) es algo qu
 
 En este tutorial, como se mencionó anteriormente, se explicarán los temas a partir del tipo de nota básico. Un ejemplo nos permitirá poder recordar o entender nuevamente algunas cosas desarrolladas en el tutorial básico anterior. En el siguiente video se pueden observar los siguientes procesos: clonar tipo de nota → funcionamiento del tipo básico → realizar cambios → cambiar nombre de los campos.
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/02/customize_basic_note_type.mp4"></video></figure>Hasta aquí no hay diferencia significativa con el tipo de nota Cloze. Básicamente tenemos diferentes campos y podemos usarlos para formar preguntas y respuestas con información adicional de la forma que queramos, como nuestra imaginación lo decida.
+![](/assets/images/customize_basic_note_type.gif)
+
+Hasta aquí no hay diferencia significativa con el tipo de nota Cloze. Básicamente tenemos diferentes campos y podemos usarlos para formar preguntas y respuestas con información adicional de la forma que queramos, como nuestra imaginación lo decida.
 
 Aquí hay un [video en el canal](https://youtu.be/vA-O3hVKQrs) relacionado justamente a esto, en el que podemos observar cómo podemos diseñar un tipo de nota nuevo usando diferentes campos.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/vA-O3hVKQrs?feature=oembed" title="Personalización del tipo de nota | Tutorial intermedio de Anki" width="1200"></iframe></div></div></figure>## Más flashcards a partir de una nota (*card types*)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vA-O3hVKQrs?si=2jxhk7Q6FiVQLKW9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Más flashcards a partir de una nota (*card types*)
 
 Un siguiente paso en el diseño de nuestro tipo de nota es poder crear más de una flashcard a partir de la información que incluimos en los campos. Esto lo podemos hacer agregando tipos de tarjetas (*card types*) en la ventana de personalización del tipo de nota. En cada uno de estos *card types* podemos reformular nuevamente nuestras flashcards, pudiendo crear diferentes preguntas y respuestas a partir de la misma información, esto puede entenderse mejor con un ejemplo:
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/02/add_card_type.mp4"></video></figure>En el ejemplo mostrado se estarían creando dos flashcards por cada vez que se agregue la información (al presionar “Add” o agregar). En una la pregunta muestra el nombre común y se debe recordar y responder cuál es el nombre científico, mientras que la otra tiene como pregunta la imagen y se debe responder con el nombre del animal. Como se puede observar somos libres de incluir los campos que queramos de la forma que queramos y si deseamos podemos agregar otros *card types* con diferentes combinaciones y formas de preguntar las cosas.
+![](/assets/images/add_card_type.gif)
+
+En el ejemplo mostrado se estarían creando dos flashcards por cada vez que se agregue la información (al presionar “Add” o agregar). En una la pregunta muestra el nombre común y se debe recordar y responder cuál es el nombre científico, mientras que la otra tiene como pregunta la imagen y se debe responder con el nombre del animal. Como se puede observar somos libres de incluir los campos que queramos de la forma que queramos y si deseamos podemos agregar otros *card types* con diferentes combinaciones y formas de preguntar las cosas.
 
 ## Creando flashcards condicionalmente
 
@@ -42,13 +48,17 @@ Alguno puede darse cuenta de un problema que puede aparecer cuando se crean vari
 
 Este concepto es, en esencia, el mismo que el de los [campos condicionales](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/). Simplemente que esto tiene un efecto especial cuando se agrega en la parte de *Front Template*, pudiendo decidirse de esta manera si es que la flashcard se crea o no dependiendo del contenido de algún campo (o más de uno).
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/02/conditional_card_types.mp4"></video></figure>En el ejemplo podemos observar el uso de estos campos condicionales para decidir si crear o no flashcards. Además, esto se puede combinar con el uso tradicional de campos condicionales para tener tipos de notas dinámicos que no creen flashcards innecesarias y que se ajusten a lo que queremos. Además, podemos usar otros campos como condiciones (en base a si están llenos o no) para crear algunas flashcards o no. Podemos dejar volar nuestra creatividad para el diseño de nuestros tipos de notas.
+![](/assets/images/conditional_card_types.gif)
+
+En el ejemplo podemos observar el uso de estos campos condicionales para decidir si crear o no flashcards. Además, esto se puede combinar con el uso tradicional de campos condicionales para tener tipos de notas dinámicos que no creen flashcards innecesarias y que se ajusten a lo que queremos. Además, podemos usar otros campos como condiciones (en base a si están llenos o no) para crear algunas flashcards o no. Podemos dejar volar nuestra creatividad para el diseño de nuestros tipos de notas.
 
 ## Utilidad del “styling”
 
 Es aquí en realidad donde tiene más utilidad la parte de *Styling*, ya que si se tiene múltiples tarjetas/flashcards en nuestro tipo de nota, podría ser muy tedioso personalizar las cosas en cada una de estas flashcards que serán generadas. Una propiedad del *Styling* es que su contenido se aplica a todos los *card types*, muy útil si tenemos una gran cantidad de *card types* (imagina cambiar el color de la pregunta en más de 20).
 
-<figure class="wp-block-video"><video controls="" src="https://danimedi.com/wp-content/uploads/2022/02/note_type_styling.mp4"></video></figure>Como se puede observar en el ejemplo podemos ir agregando clases como `NombreComun` o `question` en las partes “Front Template” y “Back Template” de los diferentes *card types*, para luego personalizar todo desde un lugar único: “Styling”.
+![](/assets/images/note_type_styling.gif)
+
+Como se puede observar en el ejemplo podemos ir agregando clases como `NombreComun` o `question` en las partes “Front Template” y “Back Template” de los diferentes *card types*, para luego personalizar todo desde un lugar único: “Styling”.
 
 ## Posibles usos o estrategias
 
@@ -64,4 +74,4 @@ A pesar de todo eso, en lo personal, sigo considerando que el tipo de nota Cloze
 
 Aquí se encuentra el video complementario a este tutorial:
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/WwDLDdzTmhQ?feature=oembed" title="Tutorial de Anki: diseñando tipos de notas (avanzado)" width="1200"></iframe></div></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WwDLDdzTmhQ?si=7uqN90ZuJ27L8zGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
