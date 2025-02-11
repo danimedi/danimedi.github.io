@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1650'
 permalink: /blog/exdeportista/
-image: /wp-content/uploads/2024/12/gonzalo_y_yo_maraton.jpg
+image: /assets/images/gonzalo_y_yo_maraton.jpg
 categories:
     - Escritos
     - Pensamientos

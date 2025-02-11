@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1200'
 permalink: /blog/poema-latidos-de-una-mente-sencilla/
-image: /wp-content/uploads/2022/06/dog_on_bed.png
+image: /assets/images/dog_on_bed.png
 categories:
     - Escritos
 ---

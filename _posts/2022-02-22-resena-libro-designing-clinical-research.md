@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=673'
 permalink: /blog/resena-libro-designing-clinical-research/
-image: /wp-content/uploads/2022/02/image-research.jpg
+image: /assets/images/image-research.jpg
 categories:
     - Lecturas
 ---

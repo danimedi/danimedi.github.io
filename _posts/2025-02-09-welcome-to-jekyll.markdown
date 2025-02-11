@@ -2,7 +2,9 @@
 layout: post
 title:  "Posible mudanza digital"
 date:   2025-02-09 00:47:16 -0500
-categories: jekyll update
+categories:
+    - Programación
+image: https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/P5EKUJ22WBGYLM3E43OXYVLYN4.jpg?auth=2cf3f7ed591dff3311e1771772e6665f03d41e890a7eae8890e4c47fc772fc0f
 ---
 
 ## Un nuevo pequeño lugar digital

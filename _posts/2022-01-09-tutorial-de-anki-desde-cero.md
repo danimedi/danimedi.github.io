@@ -15,7 +15,7 @@ enclosure:
     - "https://danimedi.com/wp-content/uploads/2022/01/adjusting_options.mp4\n498707\nvideo/mp4\n"
     - "https://danimedi.com/wp-content/uploads/2022/01/browse_anki.mp4\n281290\nvideo/mp4\n"
     - "https://danimedi.com/wp-content/uploads/2022/01/browse_anki_options.mp4\n248339\nvideo/mp4\n"
-image: /wp-content/uploads/2022/01/thumbnail.png
+image: /assets/images/thumbnail_anki_desde_cero.png
 categories:
     - Anki
 ---

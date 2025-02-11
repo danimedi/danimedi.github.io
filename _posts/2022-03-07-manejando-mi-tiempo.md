@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=833'
 permalink: /blog/manejando-mi-tiempo/
-image: /wp-content/uploads/2022/03/clock-time-image.jpg
+image: /assets/images/clock-time-image.jpg
 categories:
     - Estudio
     - Pensamientos

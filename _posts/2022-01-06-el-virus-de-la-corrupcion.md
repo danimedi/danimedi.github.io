@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=514'
 permalink: /blog/el-virus-de-la-corrupcion/
-image: /wp-content/uploads/2022/01/thumbnail-virus-corrupcion.jpg
+image: /assets/images/thumbnail-virus-corrupcion.jpg
 categories:
     - Escritos
 ---

@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1535'
 permalink: /blog/manejo-de-tiempo-y-organizacion/
-image: /wp-content/uploads/2024/03/calendar_highlighter_image.jpg
+image: /assets/images/calendar_highlighter_image.jpg
 categories:
     - Estudio
     - Pensamientos
@@ -94,11 +94,11 @@ Yo lo veo del siguiente modo: usar un papel es conveniente dentro de un mismo d�
 
 Se puede usar de la misma manera que crear una lista de cosas por hacer en un papel, simplemente se agrega una nueva tarea que indique qué queremos hacer y la agregamos, automáticamente se programará para hoy.
 
-![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/wp-content/uploads/2018/12/Add-task.gif)
+![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/assets/images/Add-task.gif)
 
 Si queremos programar cosas para algún otro día simplemente colocamos alguna frase que indique cuándo queremos que se programe. El programa detecta lo que queremos decir, nos lo indica y lo programa automáticamente.
 
-![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/wp-content/uploads/2018/12/Natural-Language-Dates.gif)
+![](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https://tdinspiration.wpengine.com/assets/images/Natural-Language-Dates.gif)
 
 Podemos hacer lo mismo para poder programar actividades recurrentes, como tareas que queremos que estén programadas para cada viernes, o para el primer día de cada mes, o el mismo día de cada año, entre otras opciones.
 
@@ -179,7 +179,7 @@ Darle tiempo a la reflexión, a la vida social, al ejercicio, comer saludable, t
 
 > “Que lo urgente deje tiempo para lo importante”.
 
-![](https://www.luciamipediatra.com/wp-content/uploads/2020/09/mafalda.jpg)
+![](https://www.luciamipediatra.com/assets/images/mafalda.jpg)
 
 ## Conclusiones
 

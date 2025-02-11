@@ -32,7 +32,7 @@ neve_meta_disable_footer:
     - ''
 neve_meta_disable_title:
     - ''
-image: /wp-content/uploads/2022/07/fratres-in-finem-photo.jpg
+image: /assets/images/fratres-in-finem-photo.jpg
 categories:
     - Escritos
 ---

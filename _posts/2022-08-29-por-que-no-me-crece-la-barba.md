@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1413'
 permalink: /blog/por-que-no-me-crece-la-barba/
-image: /wp-content/uploads/2022/08/beard-scaled.jpg
+image: /assets/images/beard.jpg
 categories:
     - Historias
 ---

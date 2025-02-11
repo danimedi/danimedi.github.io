@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1568'
 permalink: /blog/guia-para-el-estudiante-de-medicina/
-image: /wp-content/uploads/2024/04/20191111_092713-scaled.jpg
+image: /assets/images/20191111_092713.jpg
 categories:
     - Escritos
     - Estudio

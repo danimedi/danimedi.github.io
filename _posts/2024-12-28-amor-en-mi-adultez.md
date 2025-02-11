@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1653'
 permalink: /blog/amor-en-mi-adultez/
-image: /wp-content/uploads/2024/12/1280px-Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg
+image: /assets/images/1280px-Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg
 categories:
     - Escritos
     - Pensamientos

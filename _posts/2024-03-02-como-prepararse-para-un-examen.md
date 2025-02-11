@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1531'
 permalink: /blog/como-prepararse-para-un-examen/
-image: /wp-content/uploads/2024/03/exam_bubbles_image.jpg
+image: /assets/images/exam_bubbles_image.jpg
 categories:
     - Estudio
 ---

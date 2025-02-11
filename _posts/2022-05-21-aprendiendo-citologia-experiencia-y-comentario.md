@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=938'
 permalink: /blog/aprendiendo-citologia-experiencia-y-comentario/
-image: /wp-content/uploads/2022/04/cell-image.jpg
+image: /assets/images/cell-image.jpg
 categories:
     - Estudio
     - Medicina

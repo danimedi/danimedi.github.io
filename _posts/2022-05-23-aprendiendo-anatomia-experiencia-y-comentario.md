@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1070'
 permalink: /blog/aprendiendo-anatomia-experiencia-y-comentario/
-image: /wp-content/uploads/2022/05/anatomy-image.jpg
+image: /assets/images/anatomy-image.jpg
 categories:
     - Estudio
     - Medicina

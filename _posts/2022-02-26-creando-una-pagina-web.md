@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=821'
 permalink: /blog/creando-una-pagina-web/
-image: /wp-content/uploads/2022/02/computer-website-image.jpg
+image: /assets/images/computer-website-image.jpg
 categories:
     - Programación
 ---

@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=773'
 permalink: /blog/aprendiendo-en-comunidad/
-image: /wp-content/uploads/2022/02/puzzle-pieces.jpg
+image: /assets/images/puzzle-pieces.jpg
 categories:
     - Comunidad
     - Pensamientos

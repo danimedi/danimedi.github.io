@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1505'
 permalink: /blog/estudiando-para-el-examen-del-internado-essalud/
-image: /wp-content/uploads/2024/01/essalud-logo.png
+image: /assets/images/essalud-logo.png
 categories:
     - Estudio
     - Medicina

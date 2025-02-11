@@ -16,7 +16,7 @@ enclosure:
     - "https://danimedi.com/wp-content/uploads/2022/01/adding_info_field.mp4\n791733\nvideo/mp4\n"
     - "https://danimedi.com/wp-content/uploads/2022/01/adding_link_field.mp4\n904734\nvideo/mp4\n"
     - "https://danimedi.com/wp-content/uploads/2022/01/create_new_class.mp4\n454418\nvideo/mp4\n"
-image: /wp-content/uploads/2022/01/thumbnail-1.png
+image: /assets/images/thumbnail-disenando-tipos-de-notas.png
 categories:
     - Anki
 ---

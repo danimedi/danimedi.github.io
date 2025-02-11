@@ -9,7 +9,7 @@ permalink: /blog/secret-hitler-app/
 enclosure:
     - "https://danimedi.com/wp-content/uploads/2022/05/secret-hitler-app-create-game.mp4\n59483\nvideo/mp4\n"
     - "https://danimedi.com/wp-content/uploads/2022/05/secret-hitler-app-get-roles.mp4\n245051\nvideo/mp4\n"
-image: /wp-content/uploads/2022/05/secret-hitler-long-image.jpg
+image: /assets/images/secret-hitler-long-image.jpg
 categories:
     - Programación
 ---

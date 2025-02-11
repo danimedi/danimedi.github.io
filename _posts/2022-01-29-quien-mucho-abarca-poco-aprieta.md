@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=547'
 permalink: /blog/quien-mucho-abarca-poco-aprieta/
-image: /wp-content/uploads/2022/01/thumbnail.jpg
+image: /assets/images/quien_mucho_abarca.jpg
 categories:
     - Pensamientos
 ---

@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1101'
 permalink: /blog/que-quiero-hacer-con-mi-vida/
-image: /wp-content/uploads/2022/06/man-starry-sky-image.jpg
+image: /assets/images/man-starry-sky-image.jpg
 categories:
     - Escritos
     - Pensamientos
@@ -52,7 +52,7 @@ Algunos problemas con nuestras pasiones son los siguientes:
 
 Una charla que habla de este tema es la [charla de Benjamin Todd en TEDx](https://youtu.be/MKlx1DLa9EA).
 
-![](https://80000hours.org/wp-content/uploads/2014/08/icecream-taster-v12.png)
+![](https://80000hours.org/assets/images/icecream-taster-v12.png)
 
 Entonces, no estoy en una mala posición, ¿verdad? Al fin y al cabo, estudio algo que me gusta (sin importar si es mi pasión absoluta o no) y que tiene el potencial de tener un gran impacto en el mundo y las vidas de otras personas, ¿correcto?
 

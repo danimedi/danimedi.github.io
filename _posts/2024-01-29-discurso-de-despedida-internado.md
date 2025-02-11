@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1519'
 permalink: /blog/discurso-de-despedida-internado/
-image: /wp-content/uploads/2024/01/photo-rebagliati-internado-internos-2023.jpg
+image: /assets/images/photo-rebagliati-internado-internos-2023.jpg
 categories:
     - Escritos
     - Medicina

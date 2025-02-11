@@ -8,7 +8,7 @@ guid: 'https://danimedi.com/?p=1381'
 permalink: /blog/tomando-notas-en-notion/
 enclosure:
     - "https://danimedi.com/wp-content/uploads/2022/08/my-life-plan-notion-tour.mp4\n948966\nvideo/mp4\n"
-image: /wp-content/uploads/2022/08/laptop-notion-scaled.jpg
+image: /assets/images/laptop-notion.jpg
 categories:
     - Estudio
     - Pensamientos

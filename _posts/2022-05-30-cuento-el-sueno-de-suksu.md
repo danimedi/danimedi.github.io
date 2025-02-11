@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=954'
 permalink: /blog/cuento-el-sueno-de-suksu/
-image: /wp-content/uploads/2022/04/peruvian-farmer-scaled.jpg
+image: /assets/images/peruvian-farmer.jpg
 categories:
     - Escritos
 ---

@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1147'
 permalink: /blog/compartiendo-cosas-cotidianas/
-image: /wp-content/uploads/2022/06/light-on-wall-image-scaled.jpg
+image: /assets/images/light-on-wall-image.jpg
 categories:
     - Comunidad
     - Pensamientos

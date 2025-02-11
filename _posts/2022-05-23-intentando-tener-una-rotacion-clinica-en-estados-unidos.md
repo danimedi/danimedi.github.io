@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=914'
 permalink: /blog/intentando-tener-una-rotacion-clinica-en-estados-unidos/
-image: /wp-content/uploads/2022/04/stethoscope-image.jpg
+image: /assets/images/stethoscope-image.jpg
 categories:
     - Medicina
     - USMLE

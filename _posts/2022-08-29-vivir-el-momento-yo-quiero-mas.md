@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1409'
 permalink: /blog/vivir-el-momento-yo-quiero-mas/
-image: /wp-content/uploads/2022/08/small-fireworks-scaled.jpg
+image: /assets/images/small-fireworks.jpg
 categories:
     - Pensamientos
 ---

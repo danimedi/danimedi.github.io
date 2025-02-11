@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1502'
 permalink: /blog/estudiando-para-el-usmle-step-2/
-image: /wp-content/uploads/2024/01/usmle-step-2-ck-image.jpg
+image: /assets/images/usmle-step-2-ck-image.jpg
 categories:
     - Estudio
     - Medicina

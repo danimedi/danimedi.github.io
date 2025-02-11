@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=702'
 permalink: /blog/aprendizaje-como-creador-de-contenido/
-image: /wp-content/uploads/2022/02/question_lights.jpg
+image: /assets/images/question_lights.jpg
 categories:
     - Comunidad
 ---

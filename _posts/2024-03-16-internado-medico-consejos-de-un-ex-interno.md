@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1543'
 permalink: /blog/internado-medico-consejos-de-un-ex-interno/
-image: /wp-content/uploads/2024/03/stethoscope_sphygmomanometer_image.jpg
+image: /assets/images/stethoscope_sphygmomanometer_image.jpg
 categories:
     - Medicina
     - Pensamientos

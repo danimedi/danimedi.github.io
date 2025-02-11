@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1118'
 permalink: /blog/haciendo-una-buena-presentacion-cientifica/
-image: /wp-content/uploads/2024/01/tell-compelling-story-scientific-presentations.jpg
+image: /assets/images/tell-compelling-story-scientific-presentations.jpg
 categories:
     - Lecturas
     - Medicina

@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1262'
 permalink: /blog/buscando-paz-y-no-felicidad/
-image: /wp-content/uploads/2022/07/pile-of-rocks.jpg
+image: /assets/images/pile-of-rocks.jpg
 categories:
     - Pensamientos
 ---

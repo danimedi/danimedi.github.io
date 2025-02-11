@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=388'
 permalink: /blog/my-first-post/
-image: /wp-content/uploads/2021/11/writing_computer.jpg
+image: /assets/images/writing_computer.jpg
 categories:
     - Comunidad
 ---

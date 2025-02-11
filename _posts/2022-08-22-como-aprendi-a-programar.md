@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1386'
 permalink: /blog/como-aprendi-a-programar/
-image: /wp-content/uploads/2022/08/laptop-programming-code.jpg
+image: /assets/images/laptop-programming-code.jpg
 categories:
     - Programación
 ---

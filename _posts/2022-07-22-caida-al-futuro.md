@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1259'
 permalink: /blog/caida-al-futuro/
-image: /wp-content/uploads/2022/07/man-silhouette-beach.jpg
+image: /assets/images/man-silhouette-beach.jpg
 categories:
     - Escritos
     - Pensamientos

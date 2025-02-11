@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1109'
 permalink: /blog/daniel-y-los-caminantes/
-image: /wp-content/uploads/2022/06/desert-image-scaled.jpg
+image: /assets/images/desert-image.jpg
 categories:
     - Escritos
     - Pensamientos

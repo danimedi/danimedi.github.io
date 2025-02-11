@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=967'
 permalink: /blog/creating-the-app-for-secret-hitler-set-up/
-image: /wp-content/uploads/2022/05/secret-hitler-long-image.jpg
+image: /assets/images/secret-hitler-long-image.jpg
 categories:
     - Programación
 ---

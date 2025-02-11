@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1526'
 permalink: /blog/la-nina-del-ojo-de-plata/
-image: /wp-content/uploads/2024/02/moon-red-image.jpg
+image: /assets/images/moon-red-image.jpg
 categories:
     - Escritos
 ---

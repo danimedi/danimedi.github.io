@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1225'
 permalink: /blog/preparacion-fisica-para-natacion/
-image: /wp-content/uploads/2022/06/gym-image.jpg
+image: /assets/images/gym-image.jpg
 categories:
     - 'Sin categoría'
 ---

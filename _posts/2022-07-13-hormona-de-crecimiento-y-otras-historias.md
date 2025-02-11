@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1272'
 permalink: /blog/hormona-de-crecimiento-y-otras-historias/
-image: /wp-content/uploads/2022/07/small-me-photo.jpg
+image: /assets/images/small-me-photo.jpg
 categories:
     - Escritos
     - Historias

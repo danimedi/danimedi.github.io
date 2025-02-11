@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=864'
 permalink: /blog/creando-mazo-de-anki-para-vocabulario-de-un-nuevo-idioma/
-image: /wp-content/uploads/2022/04/languages-poster.jpg
+image: /assets/images/languages-poster.jpg
 categories:
     - Anki
     - Estudio

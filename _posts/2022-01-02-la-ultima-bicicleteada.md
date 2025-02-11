@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=522'
 permalink: /blog/la-ultima-bicicleteada/
-image: /wp-content/uploads/2022/01/20220101_210245.jpg
+image: /assets/images/20220101_210245.jpg
 categories:
     - Historias
     - Pensamientos

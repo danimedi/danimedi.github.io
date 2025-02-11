@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=910'
 permalink: /blog/aprendiendo-bioquimica-experiencia-y-comentario/
-image: /wp-content/uploads/2022/04/image-chemistry.jpg
+image: /assets/images/image-chemistry.jpg
 categories:
     - Estudio
     - Medicina

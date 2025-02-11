@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=867'
 permalink: /blog/estrategia-personal-para-aprender-un-nuevo-idioma/
-image: /wp-content/uploads/2022/03/languages-image-scaled.jpg
+image: /assets/images/languages-image.jpg
 categories:
     - Estudio
 ---

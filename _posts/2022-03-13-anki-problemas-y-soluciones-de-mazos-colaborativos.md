@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=853'
 permalink: /blog/anki-problemas-y-soluciones-de-mazos-colaborativos/
-image: /wp-content/uploads/2022/03/collaborative-anki-image-1.png
+image: /assets/images/collaborative-anki-image.png
 categories:
     - Anki
 ---

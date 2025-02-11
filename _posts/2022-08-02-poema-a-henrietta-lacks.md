@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1317'
 permalink: /blog/poema-a-henrietta-lacks/
-image: /wp-content/uploads/2022/08/henrietta-lacks.jpg
+image: /assets/images/henrietta-lacks.jpg
 categories:
     - Escritos
 ---

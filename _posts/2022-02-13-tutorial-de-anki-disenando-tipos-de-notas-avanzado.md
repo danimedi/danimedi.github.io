@@ -11,7 +11,7 @@ enclosure:
     - "https://danimedi.com/wp-content/uploads/2022/02/add_card_type.mp4\n1301398\nvideo/mp4\n"
     - "https://danimedi.com/wp-content/uploads/2022/02/conditional_card_types.mp4\n2629276\nvideo/mp4\n"
     - "https://danimedi.com/wp-content/uploads/2022/02/note_type_styling.mp4\n1628007\nvideo/mp4\n"
-image: /wp-content/uploads/2022/02/thumbnail.png
+image: /assets/images/thumbnail-disenando-notas-avanzado.png
 categories:
     - Anki
 ---

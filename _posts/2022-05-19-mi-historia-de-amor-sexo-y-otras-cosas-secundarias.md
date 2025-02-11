@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=996'
 permalink: /blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/
-image: /wp-content/uploads/2022/05/heart-on-window-image-scaled.jpg
+image: /assets/images/heart-on-window-image.jpg
 categories:
     - Escritos
     - Historias

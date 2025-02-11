@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1158'
 permalink: /blog/mi-vida-de-fiestero/
-image: /wp-content/uploads/2022/06/party-image.jpg
+image: /assets/images/party-image.jpg
 categories:
     - Escritos
     - Historias

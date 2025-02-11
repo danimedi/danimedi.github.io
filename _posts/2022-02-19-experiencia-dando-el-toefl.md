@@ -8,7 +8,7 @@ guid: 'https://danimedi.com/?p=784'
 permalink: /blog/experiencia-dando-el-toefl/
 enclosure:
     - "https://danimedi.com/wp-content/uploads/2022/02/toefl_chinese_website.mp4\n626218\nvideo/mp4\n"
-image: /wp-content/uploads/2022/02/toefl-image.jpg
+image: /assets/images/toefl-image.jpg
 categories:
     - Estudio
     - Historias

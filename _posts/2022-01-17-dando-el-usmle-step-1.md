@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=624'
 permalink: /blog/dando-el-usmle-step-1/
-image: /wp-content/uploads/2022/01/usmle-step-1-image.jpg
+image: /assets/images/usmle-step-1-image.jpg
 categories:
     - Estudio
     - Historias

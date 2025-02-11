@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1268'
 permalink: /blog/amor-y-libertad/
-image: /wp-content/uploads/2022/07/balloons-love-sky.jpg
+image: /assets/images/balloons-love-sky.jpg
 categories:
     - Escritos
     - Pensamientos

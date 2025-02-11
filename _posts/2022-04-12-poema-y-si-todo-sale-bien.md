@@ -8,7 +8,7 @@ guid: 'https://danimedi.com/?p=892'
 permalink: /blog/poema-y-si-todo-sale-bien/
 enclosure:
     - "https://danimedi.com/wp-content/uploads/2022/04/poema-y-si-todo-sale-bien.mp3\n870352\naudio/mpeg\n"
-image: /wp-content/uploads/2022/04/Screenshot_20220412-052835_Instagram1.jpg
+image: /assets/images/Screenshot_20220412-052835_Instagram1.jpg
 categories:
     - Escritos
 ---

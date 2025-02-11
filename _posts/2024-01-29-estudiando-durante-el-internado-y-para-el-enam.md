@@ -6,7 +6,7 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1514'
 permalink: /blog/estudiando-durante-el-internado-y-para-el-enam/
-image: /wp-content/uploads/2024/01/me-sleeping-studying-meme.jpg
+image: /assets/images/me-sleeping-studying-meme.jpg
 categories:
     - Estudio
     - Medicina
