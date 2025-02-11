@@ -6,7 +6,11 @@ permalink: /sobre-mi/
 
 Versión en inglés: [About me]({{ "/about/" | relative_url }})
 
-![](/assets/images/20211224_002701.jpg){: height="350" }
+<br>
+
+<div style="text-align: center;">
+  <img src="/assets/images/20211224_002701.jpg" height="350">
+</div><br>
 
 Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. Practicar deportes fue mi prioridad durante la mayor parte de mi vida, sin embargo ahora mi prioridad son los estudios.
 

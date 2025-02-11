@@ -6,7 +6,11 @@ permalink: /about/
 
 Spanish version: [Sobre mí]({{ "/sobre-mi/" | relative_url }})
 
-![](/assets/images/20211224_002701.jpg){: height="350" }
+<br>
+
+<div style="text-align: center;">
+  <img src="/assets/images/20211224_002701.jpg" height="350">
+</div><br>
 
 I was born and raised in Arequipa, Peru. For most of my life, sports were my priority; however, my main focus now is my studies.
 
