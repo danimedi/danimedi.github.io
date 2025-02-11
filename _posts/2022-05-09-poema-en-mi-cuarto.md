@@ -6,8 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1016'
 permalink: /blog/poema-en-mi-cuarto/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2022/05/poema-en-mi-cuarto.mp3\n1654145\naudio/mpeg\n"
 image: /assets/images/roof-room-image.jpg
 categories:
     - Escritos

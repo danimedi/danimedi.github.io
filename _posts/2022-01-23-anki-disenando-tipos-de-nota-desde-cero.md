@@ -6,16 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=519'
 permalink: /blog/anki-disenando-tipos-de-nota-desde-cero/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2022/01/create_note_type.mp4\n480082\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/customize_cards_window.mp4\n422046\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/visualize_cards.mp4\n290942\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/erase_info_templates.mp4\n246415\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/first_field_cloze_customization.mp4\n330084\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/adding_extra_field.mp4\n840279\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/adding_info_field.mp4\n791733\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/adding_link_field.mp4\n904734\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/create_new_class.mp4\n454418\nvideo/mp4\n"
 image: /assets/images/thumbnail-disenando-tipos-de-notas.png
 categories:
     - Anki

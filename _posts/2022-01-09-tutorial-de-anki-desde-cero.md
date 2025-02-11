@@ -6,15 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=512'
 permalink: /blog/tutorial-de-anki-desde-cero/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2022/01/add_window.mp4\n306901\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/change_note_type.mp4\n209403\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/new_deck.mp4\n337192\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/reviewing_cards.mp4\n157984\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/options.mp4\n377093\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/adjusting_options.mp4\n498707\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/browse_anki.mp4\n281290\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/01/browse_anki_options.mp4\n248339\nvideo/mp4\n"
 image: /assets/images/thumbnail_anki_desde_cero.png
 categories:
     - Anki

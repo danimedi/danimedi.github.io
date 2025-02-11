@@ -6,8 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=497'
 permalink: /blog/hoy-tuve-un-sueno/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2021/12/poema_hoy_tuve_un_sueno.mp3\n1683144\naudio/mpeg\n"
 image: /assets/images/hot_air_balloon_and_moon.jpg
 categories:
     - Escritos

@@ -1,12 +1,16 @@
 ---
 title:  "Posible mudanza digital"
-date:   2025-02-09 00:47:16 -0500
-author: DaniMedi
-layout: post
+date:   2025-02-09
 permalink: /blog/posible-mudanza-digital/
+categories: [Programación]
+tags: []
+author: DaniMedi
+excerpt: "Creando una nueva página web usando a GitHub como Hosting, en lugar de continuar usando a empresas como Bluehost"
+layout: post
 image: https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/P5EKUJ22WBGYLM3E43OXYVLYN4.jpg?auth=2cf3f7ed591dff3311e1771772e6665f03d41e890a7eae8890e4c47fc772fc0f
-categories:
-    - Programación
+published: true
+last_modified_at: 2025-02-09
+redirect_from:
 ---
 
 ## Un nuevo pequeño lugar digital

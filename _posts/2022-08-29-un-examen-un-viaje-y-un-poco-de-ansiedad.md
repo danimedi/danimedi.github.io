@@ -6,10 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1416'
 permalink: /blog/un-examen-un-viaje-y-un-poco-de-ansiedad/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2022/08/colombia-sandwich-el-corral.mp4\n32560081\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/08/colombia-cat-prometric-center.mp4\n42249411\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/08/colombia-talking-after-exam.mp4\n68579780\nvideo/mp4\n"
 image: /assets/images/airplane-on-sky.jpg
 categories:
     - Escritos

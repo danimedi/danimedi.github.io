@@ -6,32 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1281'
 permalink: /blog/cancion-fratres-in-finem/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2022/07/fratres-in-finem-song-v01.mp3\n2572530\naudio/mpeg\n"
-    - "https://danimedi.com/wp-content/uploads/2022/07/fratres-in-finem-song-v02.mp3\n2837204\naudio/mpeg\n"
-    - "https://danimedi.com/wp-content/uploads/2022/07/historia-cancion-promocion.mp4\n19548481\nvideo/mp4\n"
-nf_dc_placeholders:
-    - ''
-neve_meta_sidebar:
-    - ''
-neve_meta_container:
-    - ''
-neve_meta_enable_content_width:
-    - ''
-neve_meta_content_width:
-    - '0'
-neve_meta_title_alignment:
-    - left
-neve_meta_author_avatar:
-    - ''
-neve_post_elements_order:
-    - '["content","tags","comments"]'
-neve_meta_disable_header:
-    - ''
-neve_meta_disable_footer:
-    - ''
-neve_meta_disable_title:
-    - ''
 image: /assets/images/fratres-in-finem-photo.jpg
 categories:
     - Escritos

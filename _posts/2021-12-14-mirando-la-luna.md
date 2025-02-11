@@ -6,8 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=493'
 permalink: /blog/mirando-la-luna/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2021/12/poema_mirar_la_luna_un_rato.mp3\n407429\naudio/mpeg\n"
 image: /assets/images/moon_over_city.jpg
 categories:
     - Escritos

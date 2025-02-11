@@ -6,8 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=1599'
 permalink: /blog/serums-semana-1/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2024/04/penal_final_interzonas.mp4\n2016892\nvideo/mp4\n"
 image: /assets/images/salinas_moche_plaza.jpg
 categories:
     - Escritos

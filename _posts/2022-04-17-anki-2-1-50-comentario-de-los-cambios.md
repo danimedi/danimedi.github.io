@@ -6,9 +6,6 @@ author: DaniMedi
 layout: post
 guid: 'https://danimedi.com/?p=896'
 permalink: /blog/anki-2-1-50-comentario-de-los-cambios/
-enclosure:
-    - "https://danimedi.com/wp-content/uploads/2022/04/anki-example-v3-scheduler.mp4\n464918\nvideo/mp4\n"
-    - "https://danimedi.com/wp-content/uploads/2022/04/anki-example-new-editor.mp4\n1002054\nvideo/mp4\n"
 image: /assets/images/anki-logo.png
 categories:
     - Anki
