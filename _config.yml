@@ -24,6 +24,8 @@ description: Página web personal con mi blog y otros proyectos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  danimedi
+orcid_id: 0000-0003-3086-9279
+author: "Daniel Medina-Neira"
 
 # Build settings
 theme: minima
