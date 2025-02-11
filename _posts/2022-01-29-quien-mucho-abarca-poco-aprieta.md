@@ -11,7 +11,7 @@ categories:
     - Pensamientos
 ---
 
-NOTA: algunas ideas son usadas en otros posts, un post importante que toma algunas ideas de este y las desarrolla mucho más es el siguiente: [¿Qué quiero hacer con mi vida?](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/).
+NOTA: algunas ideas son usadas en otros posts, un post importante que toma algunas ideas de este y las desarrolla mucho más es el siguiente: [¿Qué quiero hacer con mi vida?]({{ '/blog/que-quiero-hacer-con-mi-vida/' | relative_url }}).
 
 "Quién mucho abarca poco aprieta" o uno similar en inglés: “Jack of all trades, master of none”. Realmente detesto estos refranes. Es frecuente para muchos, incluyéndome, encontrarse en una situación en la que tenemos muchas posibles cosas que hacer y tenemos que tomar la decisión si hacerlas todas o hacer algunas. En estos casos, decidir hacer alguna es renunciar a hacer otra. Aunque es posible hacer “bien” varias cosas, se podría decir también que se podrían hacer mejor si es que nos centráramos más en una o menos actividades.
 

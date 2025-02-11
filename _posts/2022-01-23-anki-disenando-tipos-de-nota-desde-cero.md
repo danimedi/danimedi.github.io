@@ -21,19 +21,19 @@ categories:
     - Anki
 ---
 
-En este tutorial explicaré cómo crear un tipo de nota, que sería como la estructura que usaremos para crear flashcards (más información sobre esto y sobre cómo comenzar a usar Anki en el [tutorial de comenzando a usar Anki desde cero](https://danimedi.com/blog/tutorial-de-anki-desde-cero/)), utilizando un ejemplo. Para esto crearé un tipo de nota similar al que uso normalmente, esto servirá para explicar cómo podemos editar nuestro tipo de nota y cada uno es libre de personalizar el tipo de nota a su manera.
+En este tutorial explicaré cómo crear un tipo de nota, que sería como la estructura que usaremos para crear flashcards (más información sobre esto y sobre cómo comenzar a usar Anki en el [tutorial de comenzando a usar Anki desde cero]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }})), utilizando un ejemplo. Para esto crearé un tipo de nota similar al que uso normalmente, esto servirá para explicar cómo podemos editar nuestro tipo de nota y cada uno es libre de personalizar el tipo de nota a su manera.
 
 No es necesario tener conocimientos previos sobre HTML o CSS, se pueden simplemente copiar las partes y usarlas como plantilla.
 
 El video comentando este tutorial se encuentra en: <https://youtu.be/Ze3wq3Enlx0>
 
-También hay en la página web un [tutorial más avanzado](https://danimedi.com/blog/tutorial-de-anki-disenando-tipos-de-notas-avanzado/). Es un buen lugar para continuar, pues es la continuación directa de este post.
+También hay en la página web un [tutorial más avanzado]({{ '/blog/tutorial-de-anki-disenando-tipos-de-notas-avanzado/' | relative_url }}). Es un buen lugar para continuar, pues es la continuación directa de este post.
 
 Además, en el canal de YouTube se tiene la siguiente playlist con videos relacionados a este tema de personalización de tipos de notas: <https://youtube.com/playlist?list=PLiR4mMxzSHWiRa3V-Uf51nTf5EP3Gl78G>
 
 ## Entendiendo la ventana de personalización
 
-Para comenzar vamos a crear un nuevo tipo de nota para iniciar desde cero. Para crear un tipo de nota podemos clonar uno previamente existente, en este caso crearemos un tipo de nota en base al tipo de nota “Cloze” (más información sobre este tipo de nota en el [tutorial de comenzando a usar Anki desde cero](https://danimedi.com/blog/tutorial-de-anki-desde-cero/) ). Podemos hacer esto del siguiente modo:
+Para comenzar vamos a crear un nuevo tipo de nota para iniciar desde cero. Para crear un tipo de nota podemos clonar uno previamente existente, en este caso crearemos un tipo de nota en base al tipo de nota “Cloze” (más información sobre este tipo de nota en el [tutorial de comenzando a usar Anki desde cero]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }}) ). Podemos hacer esto del siguiente modo:
 
 ![](/assets/images/create_note_type.gif)
 
@@ -229,7 +229,7 @@ a[href="#"] {
 
 ## Más información
 
-Este post tiene una [siguiente parte que es más avanzada](https://danimedi.com/blog/tutorial-de-anki-disenando-tipos-de-notas-avanzado/). Es un buen lugar para continuar aprendiendo sobre este tema, pues es la continuación directa de este post.
+Este post tiene una [siguiente parte que es más avanzada]({{ '/blog/tutorial-de-anki-disenando-tipos-de-notas-avanzado/' | relative_url }}). Es un buen lugar para continuar aprendiendo sobre este tema, pues es la continuación directa de este post.
 
 Para más información se pueden revisar algunos videos del canal de YouTube que se encuentran subidos en la siguiente playlist: <https://youtube.com/playlist?list=PLiR4mMxzSHWiRa3V-Uf51nTf5EP3Gl78G>. Esta playlist contiene información adicional también, como más ejemplos y cómo agregar audio en base al texto que tenemos (Text to speech \[TTS\]).
 

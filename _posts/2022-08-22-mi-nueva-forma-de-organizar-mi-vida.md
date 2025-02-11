@@ -15,13 +15,13 @@ categories:
     - Pensamientos
 ---
 
-Hace un tiempo escribí un [post](https://danimedi.com/blog/manejando-mi-tiempo/) en el que menciono algunas cosas relacionadas a la forma en la que administro mi tiempo. Resulta en este tiempo transcurrido he cambiado en gran medida mi forma de realizar las cosas. En este post comparto cómo organizo mi tiempo actualmente.
+Hace un tiempo escribí un [post]({{ '/blog/manejando-mi-tiempo/' | relative_url }}) en el que menciono algunas cosas relacionadas a la forma en la que administro mi tiempo. Resulta en este tiempo transcurrido he cambiado en gran medida mi forma de realizar las cosas. En este post comparto cómo organizo mi tiempo actualmente.
 
 ## Motivos
 
 En lo personal, me gusta mucho tener claros los motivos por los cuales hago las cosas. Algunos consideran que esto es una pérdida de tiempo, que filosofar sobre la vida no lleva a nada, pero para mí es la base sobre la cual construyo mi vida y decido realizar todo lo que hago, es realmente mi motivación, mi significado.
 
-Para esto, escribí en [Notion](https://www.notion.so/) mis motivos, por qué hago lo que hago. Tiene una estructura y contenido similares a un [post](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/) que escribí sobre qué quiero hacer con mi vida. En realidad, escribí ese contenido en Notion primero y luego lo transformé en ese post.
+Para esto, escribí en [Notion](https://www.notion.so/) mis motivos, por qué hago lo que hago. Tiene una estructura y contenido similares a un [post]({{ '/blog/que-quiero-hacer-con-mi-vida/' | relative_url }}) que escribí sobre qué quiero hacer con mi vida. En realidad, escribí ese contenido en Notion primero y luego lo transformé en ese post.
 
 En este GIF muestro mi plan de vida a la fecha (2022-08-22) en Notion.
 
@@ -31,7 +31,7 @@ Tener este tipo de contenido disponible todo el tiempo y poder actualizarlo conf
 
 ### ¿Notion?
 
-En este [otro post](https://danimedi.com/blog/tomando-notas-en-notion/) hablo de cómo terminé usando Notion.
+En este [otro post]({{ '/blog/tomando-notas-en-notion/' | relative_url }}) hablo de cómo terminé usando Notion.
 
 ## Cosas por hacer
 

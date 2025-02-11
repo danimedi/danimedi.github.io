@@ -56,4 +56,4 @@ So, to fix the problem of cheating I changed some things of the app to have the 
 
 ## Final result
 
-So, that was the process of creating the app. The history of the changes can be found in the [GitHub repo of the app](https://github.com/danimedi/secret_hitler_game). And the app, with its instructions and examples of how to use it, is available on [this other post](https://danimedi.com/blog/secret-hitler-app/).
+So, that was the process of creating the app. The history of the changes can be found in the [GitHub repo of the app](https://github.com/danimedi/secret_hitler_game). And the app, with its instructions and examples of how to use it, is available on [this other post]({{ '/blog/secret-hitler-app/' | relative_url }}).

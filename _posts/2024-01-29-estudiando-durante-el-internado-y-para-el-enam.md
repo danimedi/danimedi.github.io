@@ -14,7 +14,7 @@ categories:
 
 En esta publicación compartiré algunas experiencias personales sobre cómo estudié durante mi internado médico el año pasado (2023).
 
-Yo inicié el año 2023 luego de haber dado algunos exámenes, el USMLE Step 2 a finales de noviembre y el examen del internado de EsSalud a finales de diciembre. Escribí anteriormente dos publicaciones sobre mi preparación para estos exámenes: una sobre [cómo me preparé para el examen del internado médico](https://danimedi.com/blog/estudiando-para-el-examen-del-internado-essalud/) y otra sobre [cómo estudié para el USMLE Step 2](https://danimedi.com/blog/estudiando-para-el-usmle-step-2/). Justamente con el examen del internado de EsSalud es que logré obtener una plaza en el Hospital Nacional Edgardo Rebagliati Martins, lugar donde hice mi internado durante el año 2023.
+Yo inicié el año 2023 luego de haber dado algunos exámenes, el USMLE Step 2 a finales de noviembre y el examen del internado de EsSalud a finales de diciembre. Escribí anteriormente dos publicaciones sobre mi preparación para estos exámenes: una sobre [cómo me preparé para el examen del internado médico]({{ '/blog/estudiando-para-el-examen-del-internado-essalud/' | relative_url }}) y otra sobre [cómo estudié para el USMLE Step 2]({{ '/blog/estudiando-para-el-usmle-step-2/' | relative_url }}). Justamente con el examen del internado de EsSalud es que logré obtener una plaza en el Hospital Nacional Edgardo Rebagliati Martins, lugar donde hice mi internado durante el año 2023.
 
 ## Primera etapa: no estudio, no Anki
 

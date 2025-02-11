@@ -16,13 +16,13 @@ categories:
     - Anki
 ---
 
-En un [anterior tutorial](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/) expliqué aspectos básicos de cómo diseñar tipos de notas. En ese tutorial se explicaron las cosas más importantes y se realizó la explicación utilizando el tipo de nota *Cloze*. En este tutorial se asumirá que ya se tienen estos conocimientos básicos y a partir de ahí se explicará algunas cosas adicionales. En este tutorial se utilizará como ejemplo la creación de tipos de notas a partir del tipo básico, en lugar del *Cloze*, y se podrá observar las diferencias en el uso de estos tipos de notas. En el canal de YouTube también se tienen [videos](https://youtube.com/playlist?list=PLiR4mMxzSHWiRa3V-Uf51nTf5EP3Gl78G) que explican algunos ejemplos de posibles usos de estos tipos de notas.
+En un [anterior tutorial]({{ '/blog/anki-disenando-tipos-de-nota-desde-cero/' | relative_url }}) expliqué aspectos básicos de cómo diseñar tipos de notas. En ese tutorial se explicaron las cosas más importantes y se realizó la explicación utilizando el tipo de nota *Cloze*. En este tutorial se asumirá que ya se tienen estos conocimientos básicos y a partir de ahí se explicará algunas cosas adicionales. En este tutorial se utilizará como ejemplo la creación de tipos de notas a partir del tipo básico, en lugar del *Cloze*, y se podrá observar las diferencias en el uso de estos tipos de notas. En el canal de YouTube también se tienen [videos](https://youtube.com/playlist?list=PLiR4mMxzSHWiRa3V-Uf51nTf5EP3Gl78G) que explican algunos ejemplos de posibles usos de estos tipos de notas.
 
 Este tutorial está acompañado de un [video en YouTube](https://youtu.be/WwDLDdzTmhQ).
 
 ## Incluyendo campos
 
-Cómo conectar los campos (*fields*) con la estructura (tipo de nota) es algo que ya se explicó en el [tutorial anterior](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/). En el caso del tipo de nota *Cloze* esto no es tan importante para formar las preguntas o las respuestas, pero en este tutorial sí habrá que tener un poco más de consideración con esto.
+Cómo conectar los campos (*fields*) con la estructura (tipo de nota) es algo que ya se explicó en el [tutorial anterior]({{ '/blog/anki-disenando-tipos-de-nota-desde-cero/' | relative_url }}). En el caso del tipo de nota *Cloze* esto no es tan importante para formar las preguntas o las respuestas, pero en este tutorial sí habrá que tener un poco más de consideración con esto.
 
 En este tutorial, como se mencionó anteriormente, se explicarán los temas a partir del tipo de nota básico. Un ejemplo nos permitirá poder recordar o entender nuevamente algunas cosas desarrolladas en el tutorial básico anterior. En el siguiente video se pueden observar los siguientes procesos: clonar tipo de nota → funcionamiento del tipo básico → realizar cambios → cambiar nombre de los campos.
 
@@ -46,7 +46,7 @@ En el ejemplo mostrado se estarían creando dos flashcards por cada vez que se a
 
 Alguno puede darse cuenta de un problema que puede aparecer cuando se crean varias flashcards es que, en caso se tenga algún campo vacío, flashcards con información faltante podrían ser creadas. Para esto se podría hacer uso de la creación de flashcards condicional, esta estrategia también podría usarse de otras formas para decidir el número o la forma de las flashcards por crear en el tipo de nota.
 
-Este concepto es, en esencia, el mismo que el de los [campos condicionales](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/). Simplemente que esto tiene un efecto especial cuando se agrega en la parte de *Front Template*, pudiendo decidirse de esta manera si es que la flashcard se crea o no dependiendo del contenido de algún campo (o más de uno).
+Este concepto es, en esencia, el mismo que el de los [campos condicionales]({{ '/blog/anki-disenando-tipos-de-nota-desde-cero/' | relative_url }}). Simplemente que esto tiene un efecto especial cuando se agrega en la parte de *Front Template*, pudiendo decidirse de esta manera si es que la flashcard se crea o no dependiendo del contenido de algún campo (o más de uno).
 
 ![](/assets/images/conditional_card_types.gif)
 
@@ -62,7 +62,7 @@ Como se puede observar en el ejemplo podemos ir agregando clases como `NombreCom
 
 ## Posibles usos o estrategias
 
-En lo personal uso con más frecuencia el tipo de nota Cloze con algunas modificaciones, como las presentadas en el [tutorial básico](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/) de diseño de tipos de notas. Sin embargo, en algunas situaciones sí puede ser muy útil el uso de estos tipos de notas más personalizadoss. En mi experiencia he identificado los siguientes:
+En lo personal uso con más frecuencia el tipo de nota Cloze con algunas modificaciones, como las presentadas en el [tutorial básico]({{ '/blog/anki-disenando-tipos-de-nota-desde-cero/' | relative_url }}) de diseño de tipos de notas. Sin embargo, en algunas situaciones sí puede ser muy útil el uso de estos tipos de notas más personalizadoss. En mi experiencia he identificado los siguientes:
 
 - Asociar cosas específicas, por ejemplo: vocabulario de otro idioma (asociar palabra, imagen, audio), geografía (país, mapa, capital, bandera), etc.
 - Crear flashcards a partir de otras fuentes, como una base de datos ([video mostrando un ejemplo](https://youtu.be/7suFVcB6HM4)).

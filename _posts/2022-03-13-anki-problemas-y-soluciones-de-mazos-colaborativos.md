@@ -11,7 +11,7 @@ categories:
     - Anki
 ---
 
-Anki es un gran programa para crear y estudiar flashcards, aprovechando la repetición espaciada y el recuerdo activo. Está de más decir que es mi programa de estudio favorito, considerando que gran parte del contenido de mi [canal de YouTube](https://www.youtube.com/c/DaniMedi555), así como varios [posts](https://danimedi.com/blog/tutorial-de-anki-desde-cero/) en la página web son relacionados a este programa. Sin embargo, lógicamente, hay algunas cosas en las que se puede mejorar.
+Anki es un gran programa para crear y estudiar flashcards, aprovechando la repetición espaciada y el recuerdo activo. Está de más decir que es mi programa de estudio favorito, considerando que gran parte del contenido de mi [canal de YouTube](https://www.youtube.com/c/DaniMedi555), así como varios [posts]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }}) en la página web son relacionados a este programa. Sin embargo, lógicamente, hay algunas cosas en las que se puede mejorar.
 
 Un aspecto del programa con el que se suele tener cierta dificultad y que tiene mucho margen de mejora y gran potencial es el de la creación de mazos/decks colaborativos. Actualmente, la creación de flashcards en grupo no es tan óptima como podría ser y existen numerosos problemas encontrados por aquellos que intentan crear flashcards en grupo, pero también hay algunas soluciones para algunos de estos problemas e incluso algunos proyectos que podrían solucionar más cosas en el futuro.
 
@@ -55,7 +55,7 @@ Un add-on que brinda una solución más completa, a través de algún sistema de
 En mi caso he intentado ya algunas veces realizar mazos en grupo. En muchos de estos casos me he encontrado con dificultades y considero que es importante tener en consideración algunas cosas:
 
 - Hacer las cosas lo más simples posibles, especialmente si los participantes no tienen mucha experiencia con Anki. Evitar complicar las cosas (ej. exigir cierta organización por etiquetas).
-- Tener las cosas claras, se puede crear un documento explicando las cosas necesarias para realizar el proyecto (ej. tipo de nota, forma de crear flashcards, referencias usadas) y algún tutorial de referencia para lidiar con problemas típicos, para evitar realizara la misma explicación varias veces. En esta página web se tiene un [tutorial básico](https://danimedi.com/blog/tutorial-de-anki-desde-cero/).
+- Tener las cosas claras, se puede crear un documento explicando las cosas necesarias para realizar el proyecto (ej. tipo de nota, forma de crear flashcards, referencias usadas) y algún tutorial de referencia para lidiar con problemas típicos, para evitar realizara la misma explicación varias veces. En esta página web se tiene un [tutorial básico]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }}).
 - Tener algún sistema sencillo de detección de errores y sugerencias. Esto podría realizarse de diferentes formas, como con un cuestionario/formulario de Google que incluya cosas como:
     - Tipo de error o cosa por cambiar.
     - Note ID (identificador de la nota).

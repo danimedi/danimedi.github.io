@@ -56,9 +56,9 @@ Al igual que para otros cursos, considero que hay más contenido y de mejor cali
 
 ### Memorizar detalles
 
-La forma más eficiente que conozco de memorizar detalles es el uso de flashcards (apoyadas por el recuerdo activo y la repetición espaciada). Mi programa favorito para esto es Anki y ya he realizado [muchos posts en esta página web](https://danimedi.com/blog/category/anki/) y muchos videos en mi [canal de YouTube](https://www.youtube.com/c/DaniMedi555) sobre este programa, podrías ver este contenido para comenzar a usar el programa.
+La forma más eficiente que conozco de memorizar detalles es el uso de flashcards (apoyadas por el recuerdo activo y la repetición espaciada). Mi programa favorito para esto es Anki y ya he realizado [muchos posts en esta página web]({{ '/blog/category/anki/' | relative_url }}) y muchos videos en mi [canal de YouTube](https://www.youtube.com/c/DaniMedi555) sobre este programa, podrías ver este contenido para comenzar a usar el programa.
 
-Estas flashcards podrían ser creadas por uno mismo, ya sea mediante texto (tipo de nota Cloze; [explicación](https://danimedi.com/blog/tutorial-de-anki-desde-cero/)) o usando el [add-on Image Occlusion](https://youtu.be/qS027thPKP4) para aprender algunos procesos bioquímicos. La otra opción es utilizar algún mazo/deck creada por otra persona. Por ejemplo, el contenido relacionado a bioquímica de alguna deck para el USMLE Step 1, como la [AnKing Step 1 deck](https://www.reddit.com/r/medicalschoolanki/comments/p7glp5/anking_overhaul_step_1step_2_version_10_update/) o encontrar alguna en [AnkiWeb](https://ankiweb.net/shared/decks/chemistry).
+Estas flashcards podrían ser creadas por uno mismo, ya sea mediante texto (tipo de nota Cloze; [explicación]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }})) o usando el [add-on Image Occlusion](https://youtu.be/qS027thPKP4) para aprender algunos procesos bioquímicos. La otra opción es utilizar algún mazo/deck creada por otra persona. Por ejemplo, el contenido relacionado a bioquímica de alguna deck para el USMLE Step 1, como la [AnKing Step 1 deck](https://www.reddit.com/r/medicalschoolanki/comments/p7glp5/anking_overhaul_step_1step_2_version_10_update/) o encontrar alguna en [AnkiWeb](https://ankiweb.net/shared/decks/chemistry).
 
 ## Comentarios adicionales
 

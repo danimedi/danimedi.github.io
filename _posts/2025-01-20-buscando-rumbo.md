@@ -1,6 +1,6 @@
 ---
 id: 1672
-title: "Buscando rumbo\_"
+title: "Buscando rumbo"
 date: '2025-01-20T01:09:06+00:00'
 author: DaniMedi
 layout: post

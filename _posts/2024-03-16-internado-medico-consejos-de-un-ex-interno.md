@@ -237,9 +237,9 @@ El internado suele ser pesado en algunos momentos y es una etapa que puede ser d
 
 Algunos posts que escribí relacionados son los siguientes:
 
-- [Organizando actividades y mi tiempo para tener mayor productividad](https://danimedi.com/blog/manejo-de-tiempo-y-organizacion/): hablo sobre algunas cosas que aprendí durante mi año de internado.
-- [Estudiando durante el internado y para el ENAM](https://danimedi.com/blog/estudiando-durante-el-internado-y-para-el-enam/): menciono algunas experiencias de estudio durante mi año de internado.
-- [Discurso de despedida del internado](https://danimedi.com/blog/discurso-de-despedida-internado/): me tocó dar las palabras de despedida de mi promoción del internado, compartí el discurso que hice.
+- [Organizando actividades y mi tiempo para tener mayor productividad]({{ '/blog/manejo-de-tiempo-y-organizacion/' | relative_url }}): hablo sobre algunas cosas que aprendí durante mi año de internado.
+- [Estudiando durante el internado y para el ENAM]({{ '/blog/estudiando-durante-el-internado-y-para-el-enam/' | relative_url }}): menciono algunas experiencias de estudio durante mi año de internado.
+- [Discurso de despedida del internado]({{ '/blog/discurso-de-despedida-internado/' | relative_url }}): me tocó dar las palabras de despedida de mi promoción del internado, compartí el discurso que hice.
 
 Realicé el siguiente video en YouTube abordando el contenido de este post:
 

@@ -41,7 +41,7 @@ El tema es que este tic, a diferencia de los otros, sí tuvo algunos efectos sec
 
 Por este motivo decidí controlar este tic y, por primera vez, me topé con lo difícil que es para mí controlarlo. Debo decir que me frustra no poder controlarlo simplemente, siento que no tengo la fortaleza mental que me gustaría para controlar las cosas que hago, pero probablemente esté siendo muy duro conmigo mismo.
 
-Recientemente (como cuento en [este otro post](https://danimedi.com/blog/semanario-2022-08-29/)), estoy intentando utilizar una mascarilla para poder corregir este tic. El tiempo dirá si me funciona.
+Recientemente (como cuento en [este otro post]({{ '/blog/semanario-2022-08-29/' | relative_url }})), estoy intentando utilizar una mascarilla para poder corregir este tic. El tiempo dirá si me funciona.
 
 Aún no he pensado en recibir algún tratamiento especializado, ya sea psicológico o psiquiátrico. A pesar de haberlo comentado a mi psicóloga o mi psiquiatra durante mi tratamiento de ansiedad, no me hicieron mucho caso. Me imagino que tenía cosas más importantes que corregir y curar.
 

@@ -38,7 +38,7 @@ Para comprender de forma general los temas se pueden utilizar distintos recursos
 - [“Cells” de Khan Academy](https://www.youtube.com/playlist?list=PL1O_shUH1zgX79aV-t8UiEfZyU6GE_Wvv) (bastante completa).
 - [“Cell Biology” de Ninja Nerd](https://www.youtube.com/playlist?list=PLTF9h-T1TcJi_1FdKlH4dbf_3uI4wuT99).
 
-En lo personal considero que para este curso esto suele ser suficiente, sin embargo, se podría estudiar para memorizar algunos detalles importantes y también ir desarrollando algunos temas de histología, para esto se podrían usar flashcards de Anki (ver [este post](https://danimedi.com/blog/tutorial-de-anki-desde-cero/) para una introducción a este programa). Una opción es crear flashcards propias y la otra es utilizar alguna ya creada. Una recomendación de mi hermano es la [deck Navicularis](https://www.reddit.com/r/medicalschoolanki/comments/beg21n/navis_histology/).
+En lo personal considero que para este curso esto suele ser suficiente, sin embargo, se podría estudiar para memorizar algunos detalles importantes y también ir desarrollando algunos temas de histología, para esto se podrían usar flashcards de Anki (ver [este post]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }}) para una introducción a este programa). Una opción es crear flashcards propias y la otra es utilizar alguna ya creada. Una recomendación de mi hermano es la [deck Navicularis](https://www.reddit.com/r/medicalschoolanki/comments/beg21n/navis_histology/).
 
 ### Prácticas
 
@@ -52,7 +52,7 @@ Al igual que en todos los cursos, la evaluación depende del docente. Cada docen
 
 En prácticas es posible que se evalúe la visualización de muestras en el microscopio. Para esto puede ser de utilidad tomar fotos de las diferentes muestras e incluso crear flashcards para poder memorizar el contenido de las mismas (estudiar simplemente a corto plazo) y así tener una nota adecuada. Aunque esto depende en gran medida de la forma de evaluación.
 
-Cuando llevé el curso había al final una especie de introducción a la genética. El tema de la genética es un tema que puede llegar a ser bastante amplio, por lo que generalmente se suele desarrollar en un curso por sí mismo. Este curso, genética, se desarrolla en [este otro post](https://danimedi.com/blog/aprendiendo-genetica-experiencia-y-comentario/).
+Cuando llevé el curso había al final una especie de introducción a la genética. El tema de la genética es un tema que puede llegar a ser bastante amplio, por lo que generalmente se suele desarrollar en un curso por sí mismo. Este curso, genética, se desarrolla en [este otro post]({{ '/blog/aprendiendo-genetica-experiencia-y-comentario/' | relative_url }}).
 
 Este video en el canal de YouTube aborda este tema:
 

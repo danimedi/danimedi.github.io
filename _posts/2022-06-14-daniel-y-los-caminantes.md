@@ -96,4 +96,4 @@ Y así, Daniel, Daniel y Alejandro pasaron la noche soñando ante el calor de un
 
 <br>
 
-Este cuento refleja algunos pensamiento de mí, Daniel Alejandro. En [este otro post](https://danimedi.com/blog/que-quiero-hacer-con-mi-vida/) abordo algunos de estos temas, especialmente la parte de tener un impacto, con menos literatura.
+Este cuento refleja algunos pensamiento de mí, Daniel Alejandro. En [este otro post]({{ '/blog/que-quiero-hacer-con-mi-vida/' | relative_url }}) abordo algunos de estos temas, especialmente la parte de tener un impacto, con menos literatura.

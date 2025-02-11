@@ -13,7 +13,7 @@ categories:
     - USMLE
 ---
 
-Hace un tiempo escribí [un post](https://danimedi.com/blog/dando-el-usmle-step-1/) sobre mi experiencia dando el USMLE Step 1. Ha pasado mucho desde entonces. La verdad quería escribir sobre mi experiencia dando el USMLE Step 2, pero pasaron muchas cosas desde entonces que hicieron que no pudiera escribir ni compartir mucho al respecto.
+Hace un tiempo escribí [un post]({{ '/blog/dando-el-usmle-step-1/' | relative_url }}) sobre mi experiencia dando el USMLE Step 1. Ha pasado mucho desde entonces. La verdad quería escribir sobre mi experiencia dando el USMLE Step 2, pero pasaron muchas cosas desde entonces que hicieron que no pudiera escribir ni compartir mucho al respecto.
 
 Di el USMLE Step 2 hace más de un año, a finales de noviembre de 2022. Debo admitir que hay varias cosas que no recuerdo, debido a la distancia de tiempo, pero mencionaré algunas cosas que considero importantes y otras que simplemente quiero compartir.
 

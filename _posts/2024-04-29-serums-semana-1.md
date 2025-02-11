@@ -64,7 +64,7 @@ Finalmente adjudiqué, y la verdad es una sensación extraña la que uno siente 
 
 La plaza a la que adjudiqué es una plaza en Salinas Moche. Es curioso que haya terminado ahí, no es un lugar del todo extraño para mí. La primera vez que fui por ahí fue en bicicleta, así que demasiado lejos no es (o mi físico en aquel entonces era impresionante), más aún si consideramos que se trata de un lugar con bono de zona alejada y fronteriza (y posible bono de zona de emergencia si el volcán Ubinas, el más activo del Perú, se pone travieso. Aunque no creo ser tan queso). El tema es que no pertenece a Arequipa, sino a Moquegua, y está bastante lejos de Moquegua. Supongo que ese es el motivo del bono (y también que está a 4300 metros sobre el nivel del mar).
 
-[**La última bicicleteada (post)**](https://danimedi.com/blog/la-ultima-bicicleteada/)
+[**La última bicicleteada (post)**]({{ '/blog/la-ultima-bicicleteada/' | relative_url }})
 
 La segunda vez que fui al sitio fue este mes, el 6 de abril (tres días antes de mi cumpleaños). Fui con mis papás a modo de paseo y para ver el lugar. Mi mamá desde que le mostré las plazas del SERUMS el año pasado por noviembre o diciembre ya le había echado ojo a ese lugar. Así que fuimos y pudimos ver que es en realidad un sitio pequeño que no tiene muchas cosas, pero que tiene algunas ventajas como la relativa cercanía y el establecimiento de salud que es nuevo. También me llamó la atención el tema que es categoría I-1, lo que significa que tendré que atender a menos pacientes y más tiempo disponible para estudiar y realizar otros proyectos. Mi visita en ese momento me dejó una sensación agradable del sitio.
 

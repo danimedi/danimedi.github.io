@@ -57,7 +57,7 @@ He intentado poder lidiar con estos problemas mencionados, aunque aún me falta 
 
 ### Vocabulario
 
-Considero que el tema del vocabulario es el que mejor he podido superar. Incluso diría que es la parte que más me gusta de aprender un nuevo idioma. Para aprender vocabulario actualmente hago uso de flashcards en Anki, incluyendo las palabras, imágenes, audios y otras cosas. Realmente creo que todo el proceso de aprender vocabulario es especialmente interesante y divertido. Abordo este tema de crear un mazo de flashcards en Anki en [este otro post](https://danimedi.com/blog/creando-mazo-de-anki-para-vocabulario-de-un-nuevo-idioma/).
+Considero que el tema del vocabulario es el que mejor he podido superar. Incluso diría que es la parte que más me gusta de aprender un nuevo idioma. Para aprender vocabulario actualmente hago uso de flashcards en Anki, incluyendo las palabras, imágenes, audios y otras cosas. Realmente creo que todo el proceso de aprender vocabulario es especialmente interesante y divertido. Abordo este tema de crear un mazo de flashcards en Anki en [este otro post]({{ '/blog/creando-mazo-de-anki-para-vocabulario-de-un-nuevo-idioma/' | relative_url }}).
 
 La forma en la que aprendo el vocabulario ahora es aprendiendo las palabras con significado concreto más comúnmente usadas y de ahí ir aprendiendo las demás palabras poco a poco, de acuerdo al contexto y mediante la práctica.
 

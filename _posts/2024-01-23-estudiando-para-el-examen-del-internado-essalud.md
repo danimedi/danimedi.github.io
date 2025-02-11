@@ -32,11 +32,11 @@ A inicios del 2022 habían rumores de que ese año se iba a abrir nuevamente la 
 
 En cuanto a mi situación personal, yo iniciaba el año 2022 luego de haber dado el USMLE Step 1 (un examen de ciencias básicas de medicina) y tenía pensado dar el Step 2, para lo cual tenía un plan de estudio en mente.
 
-En [esta otra publicación](https://danimedi.com/blog/estudiando-para-el-usmle-step-2/) comparto algunos detalles dobre mi experiencia en cuanto a la preparación y dando el examen USMLE Step 2.
+En [esta otra publicación]({{ '/blog/estudiando-para-el-usmle-step-2/' | relative_url }}) comparto algunos detalles dobre mi experiencia en cuanto a la preparación y dando el examen USMLE Step 2.
 
 ## USMLE Step 2
 
-Los detalles de mi preparación para el USMLE Step 2 ya los compartí en [otra publicación](https://danimedi.com/blog/estudiando-para-el-usmle-step-2/). Ahora cabe mencionar que durante el 2022, el Step 2 fue mi prioridad.
+Los detalles de mi preparación para el USMLE Step 2 ya los compartí en [otra publicación]({{ '/blog/estudiando-para-el-usmle-step-2/' | relative_url }}). Ahora cabe mencionar que durante el 2022, el Step 2 fue mi prioridad.
 
 ## Examen inesperado
 

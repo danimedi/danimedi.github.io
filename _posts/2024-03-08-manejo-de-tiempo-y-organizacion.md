@@ -14,7 +14,7 @@ categories:
 
 El año pasado estuve viviendo solo, fue divertido la verdad y puedo decir que aprendía bastantes cosas. En el presente post mencionaré algunas cosas que aprendí y algunas cosas que me sirven para manejar y organizar mi tiempo, así como cumplir con mis responsabilidades.
 
-Hace un tiempo hice un [post: “Mi nueva forma de organizar mi vida”](https://danimedi.com/blog/mi-nueva-forma-de-organizar-mi-vida/) en el que mencionaba algunas cosas que usaba para organizar mi tiempo, entre otras cosas. Desde aquella vez he podido aprender más cosas y son las que comparto en este post.
+Hace un tiempo hice un [post: “Mi nueva forma de organizar mi vida”]({{ '/blog/mi-nueva-forma-de-organizar-mi-vida/' | relative_url }}) en el que mencionaba algunas cosas que usaba para organizar mi tiempo, entre otras cosas. Desde aquella vez he podido aprender más cosas y son las que comparto en este post.
 
 Realicé también un [video en YouTube](https://youtu.be/DDwiqxEpwPs) hablando sobre el tema desarrollado en el presente post.
 
@@ -116,7 +116,7 @@ Esta herramienta es tan simple como la anterior, o probablemente incluso más si
 
 Si bien Todoist permite programar cosas a futuro y también permite visualizar nuestras tareas en una vista como calendario, tener un calendario como tal puede servir de una forma algo diferente y complementaria, o al menos es así como lo uso yo.
 
-Debo decir que antes usaba el calendario mucho más, incluso realicé [un post](https://danimedi.com/blog/mi-nueva-forma-de-organizar-mi-vida/) anteriormente en el que mencionaba cómo es que lo usaba para planificar mi tiempo. Ahora lo uso menos, pero me es útil para programar reuniones, actividades sociales, exámenes, eventos. El calendario permite visualizar las cosas más rápidamente y también reprogramarlas con gran facilidad en caso la fecha cambie. También, dependiendo del calendario que usemos, puede tener otras ventajas como la posibilidad de incluir a personas en las actividades programadas, colocar ubicaciones, entre otras cosas.
+Debo decir que antes usaba el calendario mucho más, incluso realicé [un post]({{ '/blog/mi-nueva-forma-de-organizar-mi-vida/' | relative_url }}) anteriormente en el que mencionaba cómo es que lo usaba para planificar mi tiempo. Ahora lo uso menos, pero me es útil para programar reuniones, actividades sociales, exámenes, eventos. El calendario permite visualizar las cosas más rápidamente y también reprogramarlas con gran facilidad en caso la fecha cambie. También, dependiendo del calendario que usemos, puede tener otras ventajas como la posibilidad de incluir a personas en las actividades programadas, colocar ubicaciones, entre otras cosas.
 
 Yo uso [Google Calendar](https://calendar.google.com/calendar/u/0/r) porque es el que viene por default en los celulares que he usado (aunque en Samsung hay un [calendario de Samsung](https://play.google.com/store/apps/details?id=com.samsung.android.calendar&hl=en&gl=US) que en mi opinión funciona un poco mejor y que se sincroniza con el Google Calendar), pero me imagino que otros calendarios tienen características similares.
 

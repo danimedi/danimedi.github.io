@@ -24,7 +24,7 @@ Entonces, hacía estas cosas de forma un tanto improvisada. Utilizaba aplicacion
 
 ## Algunos problemas
 
-Las cosas cambiaron cuando me preocupé más en escribir cosas. Algo que no hago de forma estructurada desde hace relativamente poco tiempo, recién este año o quizá finales del año pasado. Al tener una página web y otros lugares en donde podría escribir cosas comencé a darle más valor a los apuntes que tomara, ya que pensé que las notas que tomara podrían ser contenido en mi página web o algún otro lado. Es así que comencé a tomar más apuntes y me preocupé porque estos apuntes sean mejores (si iban a ser públicos al menos que fueran comprensibles). Es así que comencé a tomar apuntes y luego transformarlos en cosas para mi página web (cosa de la que hablo en algún punto de mi [entrevista con Victólogo](https://youtu.be/HCAg0EEZhk8)). Resultados de esto son varios post en mi página web, como [este post](https://danimedi.com/blog/resena-libro-designing-clinical-research/) que básicamente son los apuntes que creaba mientras iba leyendo un libro de investigación.
+Las cosas cambiaron cuando me preocupé más en escribir cosas. Algo que no hago de forma estructurada desde hace relativamente poco tiempo, recién este año o quizá finales del año pasado. Al tener una página web y otros lugares en donde podría escribir cosas comencé a darle más valor a los apuntes que tomara, ya que pensé que las notas que tomara podrían ser contenido en mi página web o algún otro lado. Es así que comencé a tomar más apuntes y me preocupé porque estos apuntes sean mejores (si iban a ser públicos al menos que fueran comprensibles). Es así que comencé a tomar apuntes y luego transformarlos en cosas para mi página web (cosa de la que hablo en algún punto de mi [entrevista con Victólogo](https://youtu.be/HCAg0EEZhk8)). Resultados de esto son varios post en mi página web, como [este post]({{ '/blog/resena-libro-designing-clinical-research/' | relative_url }}) que básicamente son los apuntes que creaba mientras iba leyendo un libro de investigación.
 
 También, el hecho de comenzar a compartir poemas por internet me forzó a ser más ordenado con las cosas que escribía, ya que sabía que podía usar mis escritos en alguna plataforma (o más de una) y tener guardados mis poemas aliviaría en gran medida el trabajo de estar buscando cosas, tener que recordar dónde había guardado el borrador de algún poema inconcluso, entre otros problemas.
 
@@ -52,7 +52,7 @@ Así fue que comencé a usar Notion y rápidamente le agarré el gusto. Diría q
 
 ### Cosas que hago en Notion
 
-En este GIF muestro cómo organizo algunas cosas de mi vida en Notion (cosa de la que hablo en este [otro post](https://danimedi.com/blog/mi-nueva-forma-de-organizar-mi-vida/)).
+En este GIF muestro cómo organizo algunas cosas de mi vida en Notion (cosa de la que hablo en este [otro post]({{ '/blog/mi-nueva-forma-de-organizar-mi-vida/' | relative_url }})).
 
 ![](/assets/images/my-life-plan-notion-tour.gif)
 

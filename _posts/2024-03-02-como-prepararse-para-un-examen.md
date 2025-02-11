@@ -126,11 +126,11 @@ Hay exámenes importantes y es probable que nos topemos con más de uno. Tener l
 
 En esta página web escribí anteriormente publicaciones con mi experiencia preparándome para algunos exámenes en específico, puedes darle un vistazo a estas publicaciones luego si te interesa:
 
-- [Dando el TOEFL](https://danimedi.com/blog/experiencia-dando-el-toefl/)
-- [Dando el USMLE Step 1](https://danimedi.com/blog/dando-el-usmle-step-1/)
-- [Dando el USMLE Step 2](https://danimedi.com/blog/estudiando-para-el-usmle-step-2/)
-- [Dando el examen del internado (EsSalud)](https://danimedi.com/blog/estudiando-para-el-examen-del-internado-essalud/)
-- [Dando el ENAM](https://danimedi.com/blog/estudiando-durante-el-internado-y-para-el-enam/)
+- [Dando el TOEFL]({{ '/blog/experiencia-dando-el-toefl/' | relative_url }})
+- [Dando el USMLE Step 1]({{ '/blog/dando-el-usmle-step-1/' | relative_url }})
+- [Dando el USMLE Step 2]({{ '/blog/estudiando-para-el-usmle-step-2/' | relative_url }})
+- [Dando el examen del internado (EsSalud)]({{ '/blog/estudiando-para-el-examen-del-internado-essalud/' | relative_url }})
+- [Dando el ENAM]({{ '/blog/estudiando-durante-el-internado-y-para-el-enam/' | relative_url }})
 
 Realicé un video de YouTube con el contenido de este post:
 

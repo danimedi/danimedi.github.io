@@ -13,7 +13,7 @@ categories:
     - Pensamientos
 ---
 
-Ya se cumplen más de dos meses desde que comencé a salir con bastante frecuencia. Desde el día de mi cumpleaños (9 de abril) hasta el día de ayer (11 de junio) he salido a un ritmo de dos veces por semana. Creo que con decir que falté a bastantes clases virtuales y que salí de fiesta un miércoles en semana de exámenes antes del examen de medicina legal es suficiente para que se entienda que realmente salía mucho. Y algo curioso es que durante mi vida nunca he salido mucho a fiestas, por lo que todo esto fue algo completamente nuevo para mí. ¿El motivo de este cambio? Pues llegó un punto en mi vida en el que tuve la idea de cuestionarme y reformular algunas cosas que constituían mi identidad. Este pensamiento y la historia detrás pueden encontrarse en [este otro post](https://danimedi.com/blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/) que escribí hace no mucho tiempo.
+Ya se cumplen más de dos meses desde que comencé a salir con bastante frecuencia. Desde el día de mi cumpleaños (9 de abril) hasta el día de ayer (11 de junio) he salido a un ritmo de dos veces por semana. Creo que con decir que falté a bastantes clases virtuales y que salí de fiesta un miércoles en semana de exámenes antes del examen de medicina legal es suficiente para que se entienda que realmente salía mucho. Y algo curioso es que durante mi vida nunca he salido mucho a fiestas, por lo que todo esto fue algo completamente nuevo para mí. ¿El motivo de este cambio? Pues llegó un punto en mi vida en el que tuve la idea de cuestionarme y reformular algunas cosas que constituían mi identidad. Este pensamiento y la historia detrás pueden encontrarse en [este otro post]({{ '/blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/' | relative_url }}) que escribí hace no mucho tiempo.
 
 Durante estos dos meses he aprendido muchas cosas y aún siento que me quedan muchas cosas más por aprender; sin embargo, hoy tengo ganas de contar mi historia, mi perspectiva sobre algunas cosas y sobre el aprendizaje que tuve hasta el momento. Por fines narrativos, utilizaré distintas categorías de lo que para mí constituye mi experiencia con las fiestas.
 
@@ -89,7 +89,7 @@ Pero reconozco que no soy completamente honesto y empático. Me da temor y ciert
 > 
 > — Criss Jami, Killosophy
 
-He hecho cosas malas, pero sé que por ahí también he hecho cosas buenas. He tenido la oportunidad de no hacer lo incorrecto también y me he demostrado a mí mismo que puedo hacer cosas buenas. Recordando un frase que usé [en otro escrito](https://danimedi.com/blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/):
+He hecho cosas malas, pero sé que por ahí también he hecho cosas buenas. He tenido la oportunidad de no hacer lo incorrecto también y me he demostrado a mí mismo que puedo hacer cosas buenas. Recordando un frase que usé [en otro escrito]({{ '/blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/' | relative_url }}):
 
 > Una persona no es realmente buena por ser incapaz de hacer el mal, sino por decidir no hacerlo.
 

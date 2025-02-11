@@ -48,7 +48,7 @@ For recognizing their team-mates (for those who have access to that information)
 
 Personally, I think using the envelopes and cards has something special, and it is an important part of the game, especially for those playing the game for the first time. However, after a few games this process can be somewhat slow, so this is when this app could be handy.
 
-If your are interested in the code and the process of the creation of this app you can check [this other post](https://danimedi.com/blog/creating-the-app-for-secret-hitler-set-up/) and the [GitHub repo of the app](https://github.com/danimedi/secret_hitler_game).
+If your are interested in the code and the process of the creation of this app you can check [this other post]({{ '/blog/creating-the-app-for-secret-hitler-set-up/' | relative_url }}) and the [GitHub repo of the app](https://github.com/danimedi/secret_hitler_game).
 
 I recorded a video about this on my YouTube channel.
 

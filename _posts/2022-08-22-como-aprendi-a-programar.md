@@ -21,9 +21,9 @@ HTML y CSS no son lenguajes de programación en sí, por lo que tal vez no deber
 
 ### ¿Flashcards?
 
-¿Flashcards? Se estarán preguntando. Resulta que los inicios de mi aprendizaje de HTML y CSS fueron en el programa [Anki](https://apps.ankiweb.net/), un programa de flashcards (programa al que le dedico bastante contenido, ver este [post introductorio](https://danimedi.com/blog/tutorial-de-anki-desde-cero/)).
+¿Flashcards? Se estarán preguntando. Resulta que los inicios de mi aprendizaje de HTML y CSS fueron en el programa [Anki](https://apps.ankiweb.net/), un programa de flashcards (programa al que le dedico bastante contenido, ver este [post introductorio]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }})).
 
-Lo que sucede es que en Anki se pueden diseñar las flashcards mediante la utilización de HTML y CSS. Es decir, poder usar HTML tags y CSS selectos para manipular las características de mis flashcards (ej. tamaño de letra, alineación, colores) era algo que me resultaba interesante, divertido y algo a lo que le dediqué tiempo para aprender. Incluso realicé varios tutoriales al respecto (aquí tengo un [post sobre el tema](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/)).
+Lo que sucede es que en Anki se pueden diseñar las flashcards mediante la utilización de HTML y CSS. Es decir, poder usar HTML tags y CSS selectos para manipular las características de mis flashcards (ej. tamaño de letra, alineación, colores) era algo que me resultaba interesante, divertido y algo a lo que le dediqué tiempo para aprender. Incluso realicé varios tutoriales al respecto (aquí tengo un [post sobre el tema]({{ '/blog/anki-disenando-tipos-de-nota-desde-cero/' | relative_url }})).
 
 Además, Anki tiene algunas cosas propias adicionales, como el uso de condicionales. Todo esto hizo que me llamara la atención diseñar cosas con la computadora. Sentía como si hablara con la computadora. Yo le daba indicaciones y ella me obedecía. Nunca se equivocaba, si ocurría algo que no esperaba era mi error, no el suyo.
 

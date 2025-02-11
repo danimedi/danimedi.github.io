@@ -71,7 +71,7 @@ Por lo mencionado anteriormente, privarte de cosas y hacer sacrificios es parte 
 
 Como último punto, creo que parte de no vivir el momento es en parte tener una actitud optimista, es confiar en que el futuro depara algo valioso.
 
-Qué bien suena la frase “¿Y si te mueres mañana?”, encima hay un [temazo con esta frase](https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor?si=75d15469a16840c8). Es una frase liberadora, aparentemente. ¿Pero no creen también que es un poco oscura, un tanto pesimista? ¿No es una forma un tanto triste de pensar? ¿No creen que se parece un poco al pesimismo que tienen algunos con que el mundo se va a acabar, pero aplicado a la vida de uno (como lo abordo [aquí](https://danimedi.com/blog/semanario-2022-08-29/#htoc-pesimismo))?.
+Qué bien suena la frase “¿Y si te mueres mañana?”, encima hay un [temazo con esta frase](https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor?si=75d15469a16840c8). Es una frase liberadora, aparentemente. ¿Pero no creen también que es un poco oscura, un tanto pesimista? ¿No es una forma un tanto triste de pensar? ¿No creen que se parece un poco al pesimismo que tienen algunos con que el mundo se va a acabar, pero aplicado a la vida de uno (como lo abordo [aquí]({{ '/blog/semanario-2022-08-29/#htoc-pesimismo' | relative_url }}))?.
 
 ¿Acaso no te da mayor libertad poder planear cosas, proyectarte, poder crear caminos de vida que se expanden hacia el futuro, que van más allá del día de hoy?
 

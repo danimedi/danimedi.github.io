@@ -13,7 +13,7 @@ categories:
     - Programación
 ---
 
-Como mencioné en un [post anterior sobre mi estrategia para aprender nuevos idiomas](https://danimedi.com/blog/estrategia-personal-para-aprender-un-nuevo-idioma/), el vocabulario es algo sumamente importante en etapas tempranas del aprendizaje de un nuevo idioma.
+Como mencioné en un [post anterior sobre mi estrategia para aprender nuevos idiomas]({{ '/blog/estrategia-personal-para-aprender-un-nuevo-idioma/' | relative_url }}), el vocabulario es algo sumamente importante en etapas tempranas del aprendizaje de un nuevo idioma.
 
 La forma que más me sirvió (y me gustó) para aprender vocabulario es usando el programa Anki (programa al que le dedico varios [posts](<http://La forma que más me sirvió (y me gustó) para aprender vocabulario es usando el programa Anki (programa al que le dedico varios posts y videos).>) y [videos](https://youtu.be/O0DHrkgPhNA)).
 
@@ -101,7 +101,7 @@ Cabe mencionar que para importar ya se debe contar con un tipo de nota para el c
 
 ## Diseñando el tipo de nota
 
-Algo genial de Anki es que le da a uno la libertad de poder aprender de la forma que uno quiere, mediante el diseño libre de las flashcards. Esto se hace mediante el diseño de tipos de nota y ya realicé un [post hablando de esto](https://danimedi.com/blog/anki-disenando-tipos-de-nota-desde-cero/) con mayor profundidad.
+Algo genial de Anki es que le da a uno la libertad de poder aprender de la forma que uno quiere, mediante el diseño libre de las flashcards. Esto se hace mediante el diseño de tipos de nota y ya realicé un [post hablando de esto]({{ '/blog/anki-disenando-tipos-de-nota-desde-cero/' | relative_url }}) con mayor profundidad.
 
 En realidad esto depende probablemente de cómo uno quiera aprender y del idioma que uno quiera aprender, pero en mi caso yo realicé dos flashcards por cada conjunto de información (“nota”). Las flashcards que incluí fueron las siguientes:
 
@@ -146,7 +146,7 @@ Por último, considero que ganar dinero es una forma de mejorar las cosas, si ha
 
 Hay cosas que se pueden mejorar en comunidad y más aún en los idiomas y me di cuenta de inmediato cuando trabajé en la creación de este proyecto. Considero que poder mejorar el proyecto (ej. corregir traducciones, conseguir mejores imágenes y audios) se presta mucho a la colaboración.
 
-En una situación un tanto utópica se podría tener una comunidad con hablantes de distintos idiomas colaborando con las traducciones, creando imágenes que sean específicas para cada idioma (un perro en Perú quizá no se vea igual que un perro en Finlandia), agregando ejemplos del uso de las palabras en oraciones, agregar información sobre el género de la palabra, entre otros. Incluso podría darse la situación en la que las personas ya no trabajen en una base de datos fuera de Anki, sino directamente desde Anki. Quizá esto vaya de la mano con el tema de mazos colaborativos (tema al que ya le dediqué un [post](https://danimedi.com/blog/anki-problemas-y-soluciones-de-mazos-colaborativos/)).
+En una situación un tanto utópica se podría tener una comunidad con hablantes de distintos idiomas colaborando con las traducciones, creando imágenes que sean específicas para cada idioma (un perro en Perú quizá no se vea igual que un perro en Finlandia), agregando ejemplos del uso de las palabras en oraciones, agregar información sobre el género de la palabra, entre otros. Incluso podría darse la situación en la que las personas ya no trabajen en una base de datos fuera de Anki, sino directamente desde Anki. Quizá esto vaya de la mano con el tema de mazos colaborativos (tema al que ya le dediqué un [post]({{ '/blog/anki-problemas-y-soluciones-de-mazos-colaborativos/' | relative_url }})).
 
 Entiendo que para esto se requieren algunos problemas similares a los de conseguir dinero, como lidiar con los temas de copyright. También se tendría que elegir alguna plataforma y encontrar incluso una forma de manejar dinero para poder impulsar el desarrollo de herramientas más complejas en beneficio de la comunidad.
 

@@ -16,7 +16,7 @@ Me encuentro en una situación en la que me gustaría tener las cosas más clara
 
 ## ¿Por qué hago las cosas?
 
-Muchas veces hago las cosas sin pensar mucho al respecto y aún tengo algunas dudas sobre la forma en la que quiero llevar mi vida. Algunos conflictos que tengo conmigo mismo respecto a esto pueden reflejarse en el cuento “[Daniel y los caminantes](https://danimedi.com/blog/daniel-y-los-caminantes/)” que escribí. Casi no tengo respuestas, solo preguntas sobre la filosofía de vida que tengo. Me gustaría poder describir mi filosofía de vida usando premisas filosóficas y llegar a una conclusión, o seguir conscientemente una teoría moral específica, me gustaría tener una brújula que guíe mi vida y todas mis acciones, pero no he sido capaz de conseguir algo así. Aún así, sé que puedo ser feliz aún sin tener esas respuestas, aún sin tener algún motivo específico para vivir.
+Muchas veces hago las cosas sin pensar mucho al respecto y aún tengo algunas dudas sobre la forma en la que quiero llevar mi vida. Algunos conflictos que tengo conmigo mismo respecto a esto pueden reflejarse en el cuento “[Daniel y los caminantes]({{ '/blog/daniel-y-los-caminantes/' | relative_url }})” que escribí. Casi no tengo respuestas, solo preguntas sobre la filosofía de vida que tengo. Me gustaría poder describir mi filosofía de vida usando premisas filosóficas y llegar a una conclusión, o seguir conscientemente una teoría moral específica, me gustaría tener una brújula que guíe mi vida y todas mis acciones, pero no he sido capaz de conseguir algo así. Aún así, sé que puedo ser feliz aún sin tener esas respuestas, aún sin tener algún motivo específico para vivir.
 
 Pero hay algo que considero importante y esto es tener impacto. Con esto me refiero a hacer del mundo algo mejor (en [este artículo](https://80000hours.org/articles/what-is-social-impact-definition/) se menciona con más detalles lo que es el impacto social, algo de lo que hablaré a lo largo de este post). Durante mi vida he cambiado mi forma de pensar sobre esto muchas veces, de pequeño buscaba el bien para los demás por motivos religiosos, más adelante lo hacía por obligación moral, y ahora simplemente lo hago porque quiero. A pesar de todos estos cambios, consistentemente he llegado a la conclusión de que ayudar a más personas es mejor que ayudar a menos personas y es algo que quiero continuar haciendo, independientemente de mis fundamentos.
 
@@ -24,7 +24,7 @@ Para tener un impacto social positivo no solo bastan buenas intenciones, es nece
 
 ## Mi carrera universitaria
 
-Un paso importante para adquirir mayor capacidad es la especialización. Habiendo tantas preguntas sin contestar, tanta información, tantas carreras, es necesario centrar la atención de uno en algo, si realmente se quiere tener algún impacto mediante nuestro trabajo. En un [post anterior](https://danimedi.com/blog/quien-mucho-abarca-poco-aprieta/) hablo un poco sobre este tema (aunque ahora esté en desacuerdo con muchas cosas que menciono por aquel entonces).
+Un paso importante para adquirir mayor capacidad es la especialización. Habiendo tantas preguntas sin contestar, tanta información, tantas carreras, es necesario centrar la atención de uno en algo, si realmente se quiere tener algún impacto mediante nuestro trabajo. En un [post anterior]({{ '/blog/quien-mucho-abarca-poco-aprieta/' | relative_url }}) hablo un poco sobre este tema (aunque ahora esté en desacuerdo con muchas cosas que menciono por aquel entonces).
 
 ### Decisión de estudiar medicina
 
@@ -137,7 +137,7 @@ Además, algunas cosas que hago ahora podrían adquirir mayor importancia en el 
 
 ### ¿Estudiando “de más”?
 
-Tiempo atrás, cuando escribí el [post sobre “Quien mucho abarca poco aprieta”](https://danimedi.com/blog/quien-mucho-abarca-poco-aprieta/) recibí la siguiente cita/comentario por parte de alguien que leyó el post:
+Tiempo atrás, cuando escribí el [post sobre “Quien mucho abarca poco aprieta”]({{ '/blog/quien-mucho-abarca-poco-aprieta/' | relative_url }}) recibí la siguiente cita/comentario por parte de alguien que leyó el post:
 
 > *A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.*
 > 
@@ -157,11 +157,11 @@ Pero, por otro lado, tener algo absoluto que no me haga cuestionarme a mí mismo
 
 Y la verdad, me pasaba lo mismo cuando entrenaba natación, simplemente entrenaba todo el tiempo sin preguntarme por qué. Encontraba cierto refugio, cierta sensación de infinidad tranquilizadora en aquella rutina. A veces me pregunto si estoy haciendo lo mismo.
 
-*Nota: pueden intentar leer ahora el cuento “[Daniel y los caminantes](https://danimedi.com/blog/daniel-y-los-caminantes/)” nuevamente, o por primera vez si no lo han hecho aún, ya que es posible que ahora adquiera un significado diferente (spoiler: el niño representa la etapa de mi vida cuando practicaba natación).*
+*Nota: pueden intentar leer ahora el cuento “[Daniel y los caminantes]({{ '/blog/daniel-y-los-caminantes/' | relative_url }})” nuevamente, o por primera vez si no lo han hecho aún, ya que es posible que ahora adquiera un significado diferente (spoiler: el niño representa la etapa de mi vida cuando practicaba natación).*
 
 ## Mi futuro
 
-La vida es incierta y muchas cosas no dependen de uno, por ejemplo, tenía planeado ir a Estados Unidos, pero ahora tengo dificultades (hablo un poco de esto en [este post](https://danimedi.com/blog/intentando-tener-una-rotacion-clinica-en-estados-unidos/)). Además, uno no sabe qué es lo que va a querer en el futuro y es posible que en el futuro mire hacia el pasado y vea con cierto resentimiento este post y las decisiones que tomé a esta edad.
+La vida es incierta y muchas cosas no dependen de uno, por ejemplo, tenía planeado ir a Estados Unidos, pero ahora tengo dificultades (hablo un poco de esto en [este post]({{ '/blog/intentando-tener-una-rotacion-clinica-en-estados-unidos/' | relative_url }})). Además, uno no sabe qué es lo que va a querer en el futuro y es posible que en el futuro mire hacia el pasado y vea con cierto resentimiento este post y las decisiones que tomé a esta edad.
 
 > *You may get to the very top of the ladder, and then find it has not been leaning against the right wall.*
 > 
