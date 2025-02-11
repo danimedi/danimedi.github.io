@@ -32,7 +32,7 @@ minima:
 plugins:
   - jekyll-feed
 header_pages:
-  - about.markdown
+  - sobre-mi.markdown
   - blog.html
   - contact.markdown
 

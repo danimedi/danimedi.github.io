@@ -1,28 +1,37 @@
 ---
 layout: default
 ---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<head>
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-</head>
-
-<article class="post">
   <!-- Display Featured Image if Available -->
   {%- if page.image -%}
     <div class="post-featured-image">
       <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}">
     </div>
+	<br>
   {%- endif -%}
 
   <!-- Title and Date -->
   <header class="post-header">
-    <br>
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
   </header>
 
   <!-- Post Content -->
-  <div class="post-content">
+  <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+  
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
