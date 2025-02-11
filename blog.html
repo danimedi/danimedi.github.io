@@ -9,7 +9,47 @@ title: Blog
   {%- if site.posts.size > 0 -%}
   
 	<p class="rss-subscribe">Suscríbete al Blog <a href="{{ "/feed.xml" | relative_url }}">vía RSS</a></p>
-	
+ 
+  <div class="blog-container">
+    <div class="blog-content">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li class="post-item">
+          <div class="post-thumbnail-container">
+            {%- if post.image -%}
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-thumbnail">
+            </a>
+            {%- endif -%}
+          </div>
+
+          <div class="post-info">
+            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+            <p>{{ post.excerpt }}</p>
+            {%- endif -%}
+          </div>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+
+    <!-- Sidebar for Categories -->
+    <aside class="sidebar">
+      <h2>Categorías</h2>
+      <ul>
+        {%- for category in site.categories -%}
+        <li><a href="{{ "/categories/" | relative_url }}#{{ category[0] | downcase | replace: ' ', '-' }}">{{ category[0] }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </aside>
+  </div>
+
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li class="post-item">

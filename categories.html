@@ -1,0 +1,32 @@
+---
+layout: default
+title: "Categorías"
+permalink: /categories/
+---
+
+<h1>Categorías</h1>
+
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <a href="#{{ category[0] | downcase | replace: ' ', '-' }}">{{ category[0] }}</a> ({{ category[1] | size }})
+    </li>
+  {% endfor %}
+</ul>
+
+<br>
+
+<hr>
+
+<br>
+
+{% for category in site.categories %}
+  <h2 id="{{ category[0] | downcase | replace: ' ', '-' }}">{{ category[0] }}</h2>
+  <ul>
+    {% for post in category[1] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
