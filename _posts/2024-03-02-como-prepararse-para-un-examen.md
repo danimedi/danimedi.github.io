@@ -1,14 +1,14 @@
 ---
 id: 1531
-title: 'Cómo prepararse para un examen'
+title: Cómo prepararse para un examen
 date: '2024-03-02T01:25:06+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1531'
+guid: https://danimedi.com/?p=1531
 permalink: /blog/como-prepararse-para-un-examen/
 image: /assets/images/exam_bubbles_image.jpg
 categories:
-    - Estudio
+- Estudio y Anki
 ---
 
 Intentando retomar un poco la rutina de publicar en mi blog de mi página web en esta ocasión escribo un poco sobre el tema de la preparación para los exámenes.

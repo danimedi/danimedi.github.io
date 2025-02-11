@@ -1,17 +1,29 @@
 ---
 id: 969
-title: 'Secret Hitler app (for the set up)'
+title: Secret Hitler app (for the set up)
 date: '2022-05-10T13:07:58+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=969'
+guid: https://danimedi.com/?p=969
 permalink: /blog/secret-hitler-app/
 enclosure:
-    - "https://danimedi.com/assets/videos/secret-hitler-app-create-game.mp4\n59483\nvideo/mp4\n"
-    - "https://danimedi.com/assets/videos/secret-hitler-app-get-roles.mp4\n245051\nvideo/mp4\n"
+- 'https://danimedi.com/assets/videos/secret-hitler-app-create-game.mp4
+
+  59483
+
+  video/mp4
+
+  '
+- 'https://danimedi.com/assets/videos/secret-hitler-app-get-roles.mp4
+
+  245051
+
+  video/mp4
+
+  '
 image: /assets/images/secret-hitler-long-image.jpg
 categories:
-    - Programación
+- Programación
 ---
 
 I created this web app to automatize the set up of the game Secret Hitler. The main objective of this app is accelerating the set up process of the game. The main idea is that the players enter to this website from their cell phones to get the information about their roles and their team-mates (according to the rules of the game).

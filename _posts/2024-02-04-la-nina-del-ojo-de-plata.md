@@ -4,11 +4,11 @@ title: 'Cuento: La niña del ojo de plata'
 date: '2024-02-04T13:27:27+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1526'
+guid: https://danimedi.com/?p=1526
 permalink: /blog/la-nina-del-ojo-de-plata/
 image: /assets/images/moon-red-image.jpg
 categories:
-    - Escritos
+- Escritos
 ---
 
 Había una vez una niña con el ojo derecho negro como la noche y el ojo izquierdo plateado como la luna. Pero por el ojo oscuro veía el mundo brillante y por el ojo brillante, no veía más que oscuro. Tenía un padre bondadoso de ojos negros y una madre que vivía en el cielo, o eso le decían. La niña nunca había visto sus ojos, pero los imaginaba blancos y brillantes como el suyo, A veces creía ver los ojos de su madre por la noche, indistinguibles de dos estrellas, mirándola desde lejos.

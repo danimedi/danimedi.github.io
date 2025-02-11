@@ -1,15 +1,15 @@
 ---
 id: 833
-title: 'Manejando mi tiempo'
+title: Manejando mi tiempo
 date: '2022-03-07T02:50:59+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=833'
+guid: https://danimedi.com/?p=833
 permalink: /blog/manejando-mi-tiempo/
 image: /assets/images/clock-time-image.jpg
 categories:
-    - Estudio
-    - Pensamientos
+- Estudio y Anki
+- Pensamientos
 ---
 
 Manejar el tiempo que tenemos de forma adecuada es algo de gran utilidad para realizar las cosas que queremos. En este post brindaré mi forma de organizar el tiempo y algunos consejos que he ido aprendiendo a lo largo de mi vida.

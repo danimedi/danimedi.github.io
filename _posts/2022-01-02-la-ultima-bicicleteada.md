@@ -1,15 +1,15 @@
 ---
 id: 522
-title: 'La última bicicleteada'
+title: La última bicicleteada
 date: '2022-01-02T02:11:34+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=522'
+guid: https://danimedi.com/?p=522
 permalink: /blog/la-ultima-bicicleteada/
 image: /assets/images/20220101_210245.jpg
 categories:
-    - Historias
-    - Pensamientos
+- Escritos
+- Pensamientos
 ---
 
 El 31 de diciembre, último día del año, tuve mi última aventura del año 2021. Fui a montar bicicleta con un amigo, Gonzalo, con el objetivo de llegar a una laguna, la laguna Salinas, en la Reserva Nacional Salinas y Aguada Blanca.

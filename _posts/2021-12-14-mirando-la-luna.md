@@ -4,11 +4,11 @@ title: 'Poema: Mirando la luna'
 date: '2021-12-14T00:27:39+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=493'
+guid: https://danimedi.com/?p=493
 permalink: /blog/mirando-la-luna/
 image: /assets/images/moon_over_city.jpg
 categories:
-    - Escritos
+- Escritos
 ---
 
 Escribí este poema el 22 de octubre de 2021.

@@ -4,11 +4,11 @@ title: 'Anki: problemas y soluciones de mazos colaborativos'
 date: '2022-03-13T20:26:10+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=853'
+guid: https://danimedi.com/?p=853
 permalink: /blog/anki-problemas-y-soluciones-de-mazos-colaborativos/
 image: /assets/images/collaborative-anki-image.png
 categories:
-    - Anki
+- Estudio y Anki
 ---
 
 Anki es un gran programa para crear y estudiar flashcards, aprovechando la repetición espaciada y el recuerdo activo. Está de más decir que es mi programa de estudio favorito, considerando que gran parte del contenido de mi [canal de YouTube](https://www.youtube.com/c/DaniMedi555), así como varios [posts]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }}) en la página web son relacionados a este programa. Sin embargo, lógicamente, hay algunas cosas en las que se puede mejorar.

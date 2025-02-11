@@ -1,15 +1,15 @@
 ---
 id: 1672
-title: "Buscando rumbo"
+title: Buscando rumbo
 date: '2025-01-20T01:09:06+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1672'
+guid: https://danimedi.com/?p=1672
 permalink: /blog/buscando-rumbo/
 image: /assets/images/Gowy-icaro-prado.jpg
 categories:
-    - Escritos
-    - Pensamientos
+- Escritos
+- Pensamientos
 ---
 
 Se va terminando el SERUMS y el panorama de mi vida futura es más incierto que nunca. Escuché que es común que las personas tengan esos pensamientos cuando llegan a un punto en su vida parecido al mío, encontrándose en la transición de pasar de ser estudiantes a trabajadores, de pasar de ser jóvenes con potencial a sentir que ya es momento de ser adultos capaces de dar resultados.

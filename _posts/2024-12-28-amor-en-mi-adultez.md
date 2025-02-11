@@ -1,15 +1,15 @@
 ---
 id: 1653
-title: 'Amor en mi adultez'
+title: Amor en mi adultez
 date: '2024-12-28T22:26:00+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1653'
+guid: https://danimedi.com/?p=1653
 permalink: /blog/amor-en-mi-adultez/
 image: /assets/images/1280px-Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg
 categories:
-    - Escritos
-    - Pensamientos
+- Escritos
+- Pensamientos
 ---
 
 Soy irremediablemente adulto y este último año lo he sentido profundamente. No lo digo con tristeza, pero tampoco con alegría, es solamente una observación evidente de la condición en la que me encuentro. Lo menciono porque uno de los aspectos en los que esta revelación me ha resultado más evidente es en el aspecto del amor de pareja.

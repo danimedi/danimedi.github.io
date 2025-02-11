@@ -1,14 +1,14 @@
 ---
 id: 967
-title: 'Creating the app for Secret Hitler set up'
+title: Creating the app for Secret Hitler set up
 date: '2022-05-10T13:07:38+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=967'
+guid: https://danimedi.com/?p=967
 permalink: /blog/creating-the-app-for-secret-hitler-set-up/
 image: /assets/images/secret-hitler-long-image.jpg
 categories:
-    - Programación
+- Programación
 ---
 
 Secret Hitler is probably my favorite board game ever. I think that one of the coolest parts is the set up, everyone receives the secret role in an envelope and then, then, once everyone knows their roles, everybody close their eyes and only the fascists recognize each other. I found that part somewhat mystic and funny, however it can be slow, especially after the first games (yeah, sometimes I play a lot of games).

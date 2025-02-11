@@ -1,15 +1,15 @@
 ---
 id: 1268
-title: 'Amor y libertad'
+title: Amor y libertad
 date: '2022-07-22T15:52:48+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1268'
+guid: https://danimedi.com/?p=1268
 permalink: /blog/amor-y-libertad/
 image: /assets/images/balloons-love-sky.jpg
 categories:
-    - Escritos
-    - Pensamientos
+- Escritos
+- Pensamientos
 ---
 
 Este post contiene tres partes independientes, pero relacionadas, que de alguna manera giran alrededor del tema del **amor** y la **libertad**.

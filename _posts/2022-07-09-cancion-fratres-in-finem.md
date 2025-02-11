@@ -4,11 +4,11 @@ title: 'Canción: Fratres in Finem'
 date: '2022-07-09T19:41:28+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1281'
+guid: https://danimedi.com/?p=1281
 permalink: /blog/cancion-fratres-in-finem/
 image: /assets/images/fratres-in-finem-photo.jpg
 categories:
-    - Escritos
+- Escritos
 ---
 
 El año 2016 fue mi último año en el colegio y en algún punto del año escribí una canción para mi promoción (promoción llamada “Fratres in Finem”).

@@ -1,15 +1,15 @@
 ---
 id: 1147
-title: 'Compartiendo cosas cotidianas'
+title: Compartiendo cosas cotidianas
 date: '2022-06-10T21:21:34+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1147'
+guid: https://danimedi.com/?p=1147
 permalink: /blog/compartiendo-cosas-cotidianas/
 image: /assets/images/light-on-wall-image.jpg
 categories:
-    - Comunidad
-    - Pensamientos
+- Comunidad
+- Pensamientos
 ---
 
 ## Trabajando en la oscuridad

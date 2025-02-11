@@ -1,14 +1,14 @@
 ---
 id: 1386
-title: '¿Cómo aprendí a programar?'
+title: ¿Cómo aprendí a programar?
 date: '2022-08-22T21:00:55+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1386'
+guid: https://danimedi.com/?p=1386
 permalink: /blog/como-aprendi-a-programar/
 image: /assets/images/laptop-programming-code.jpg
 categories:
-    - Programación
+- Programación
 ---
 
 En este post describiré algunos detalles un tanto específicos sobre cómo aprendí a programar.

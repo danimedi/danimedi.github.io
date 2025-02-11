@@ -4,11 +4,11 @@ title: 'Tutorial de Anki: Diseñando tipos de nota desde cero (básico)'
 date: '2022-01-23T23:55:39+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=519'
+guid: https://danimedi.com/?p=519
 permalink: /blog/anki-disenando-tipos-de-nota-desde-cero/
 image: /assets/images/thumbnail-disenando-tipos-de-notas.png
 categories:
-    - Anki
+- Estudio y Anki
 ---
 
 En este tutorial explicaré cómo crear un tipo de nota, que sería como la estructura que usaremos para crear flashcards (más información sobre esto y sobre cómo comenzar a usar Anki en el [tutorial de comenzando a usar Anki desde cero]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }})), utilizando un ejemplo. Para esto crearé un tipo de nota similar al que uso normalmente, esto servirá para explicar cómo podemos editar nuestro tipo de nota y cada uno es libre de personalizar el tipo de nota a su manera.

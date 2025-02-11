@@ -1,15 +1,15 @@
 ---
 id: 914
-title: 'Intentando tener una rotación clínica en Estados Unidos'
+title: Intentando tener una rotación clínica en Estados Unidos
 date: '2022-05-23T01:09:37+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=914'
+guid: https://danimedi.com/?p=914
 permalink: /blog/intentando-tener-una-rotacion-clinica-en-estados-unidos/
 image: /assets/images/stethoscope-image.jpg
 categories:
-    - Medicina
-    - USMLE
+- Medicina
+- Medicina
 ---
 
 Uno de mis objetivos a largo plazo es realizar una especialidad médica en Estados Unidos. Tener esta meta me ha impulsado a trabajar en distintas áreas de mi formación médica en los últimos años, como estudio de algunos temas, investigación, experiencia clínica. Todo esto con la intención de aumentar mis posibilidades de poder cumplir esta meta en el futuro.

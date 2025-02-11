@@ -1,15 +1,15 @@
 ---
 id: 1259
-title: 'Caída al futuro'
+title: Caída al futuro
 date: '2022-07-22T15:53:09+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1259'
+guid: https://danimedi.com/?p=1259
 permalink: /blog/caida-al-futuro/
 image: /assets/images/man-silhouette-beach.jpg
 categories:
-    - Escritos
-    - Pensamientos
+- Escritos
+- Pensamientos
 ---
 
 *Escribí esto el 14 de mayo de 2020.*

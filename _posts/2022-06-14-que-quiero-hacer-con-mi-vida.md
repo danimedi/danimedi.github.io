@@ -1,15 +1,15 @@
 ---
 id: 1101
-title: '¿Qué quiero hacer con mi vida?'
+title: ¿Qué quiero hacer con mi vida?
 date: '2022-06-14T21:50:12+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1101'
+guid: https://danimedi.com/?p=1101
 permalink: /blog/que-quiero-hacer-con-mi-vida/
 image: /assets/images/man-starry-sky-image.jpg
 categories:
-    - Escritos
-    - Pensamientos
+- Escritos
+- Pensamientos
 ---
 
 Me encuentro en una situación en la que me gustaría tener las cosas más claras. A pesar de ser ya un estudiante de medicina de sexto año aún siento que hay muchas cosas que necesito aprender y siento que me falta madurar mucho más para poder tomar decisiones importantes sobre qué hacer con mi vida. En este escrito narro algunas experiencias mías y también menciono algunas ideas que recientemente han estado presentes en mis pensamientos.

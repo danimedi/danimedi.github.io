@@ -4,11 +4,11 @@ title: 'Obra de teatro: El virus de la corrupción'
 date: '2022-01-06T01:07:07+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=514'
+guid: https://danimedi.com/?p=514
 permalink: /blog/el-virus-de-la-corrupcion/
 image: /assets/images/thumbnail-virus-corrupcion.jpg
 categories:
-    - Escritos
+- Escritos
 ---
 
 Mi abuelo, Froilán, fue director de teatro del colegio la [Gran Unidad Escolar Mariano Melgar](https://www.guemm.edu.pe/) de Arequipa. A mi abuelo le gusta crear obras de teatro y algunas veces usa a su familia como actores en estas obras (incluyéndome). Lamentablemente la mayoría de las obras no han sido grabadas, como una de mis favoritas que fue una adaptación de la obra “Farsa y justicia del corregidor”.

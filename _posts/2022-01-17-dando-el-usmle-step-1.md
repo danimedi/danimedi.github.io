@@ -1,17 +1,17 @@
 ---
 id: 624
-title: 'Dando el USMLE Step 1'
+title: Dando el USMLE Step 1
 date: '2022-01-17T03:19:22+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=624'
+guid: https://danimedi.com/?p=624
 permalink: /blog/dando-el-usmle-step-1/
 image: /assets/images/usmle-step-1-image.jpg
 categories:
-    - Estudio
-    - Historias
-    - Medicina
-    - USMLE
+- Estudio y Anki
+- Escritos
+- Medicina
+- Medicina
 ---
 
 Hace ya un tiempo, específicamente el 02 de noviembre de 2021, di un examen, el [USMLE Step 1](https://en.wikipedia.org/wiki/USMLE_Step_1). Este es un examen de medicina bastante extenso en contenido. La verdad que esta fue una nueva experiencia para mí y creo que el camino para dar este examen ha sido muy transformador para mí. En este blog narro mi experiencia dando este examen como estudiante de medicina peruano (y arequipeño).

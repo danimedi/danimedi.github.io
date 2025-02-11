@@ -4,11 +4,11 @@ title: 'Poema: Hoy tuve un sueño'
 date: '2021-12-14T00:47:54+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=497'
+guid: https://danimedi.com/?p=497
 permalink: /blog/hoy-tuve-un-sueno/
 image: /assets/images/hot_air_balloon_and_moon.jpg
 categories:
-    - Escritos
+- Escritos
 ---
 
 Escribí este poema el 13 de noviembre de 2021.

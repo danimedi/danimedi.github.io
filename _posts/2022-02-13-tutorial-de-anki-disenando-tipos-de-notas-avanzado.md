@@ -4,11 +4,11 @@ title: 'Tutorial de Anki: Diseñando tipos de notas (avanzado)'
 date: '2022-02-13T23:57:32+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=715'
+guid: https://danimedi.com/?p=715
 permalink: /blog/tutorial-de-anki-disenando-tipos-de-notas-avanzado/
 image: /assets/images/thumbnail-disenando-notas-avanzado.png
 categories:
-    - Anki
+- Estudio y Anki
 ---
 
 En un [anterior tutorial]({{ '/blog/anki-disenando-tipos-de-nota-desde-cero/' | relative_url }}) expliqué aspectos básicos de cómo diseñar tipos de notas. En ese tutorial se explicaron las cosas más importantes y se realizó la explicación utilizando el tipo de nota *Cloze*. En este tutorial se asumirá que ya se tienen estos conocimientos básicos y a partir de ahí se explicará algunas cosas adicionales. En este tutorial se utilizará como ejemplo la creación de tipos de notas a partir del tipo básico, en lugar del *Cloze*, y se podrá observar las diferencias en el uso de estos tipos de notas. En el canal de YouTube también se tienen [videos](https://youtube.com/playlist?list=PLiR4mMxzSHWiRa3V-Uf51nTf5EP3Gl78G) que explican algunos ejemplos de posibles usos de estos tipos de notas.

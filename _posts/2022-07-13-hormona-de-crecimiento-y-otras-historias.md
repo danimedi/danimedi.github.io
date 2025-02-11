@@ -1,16 +1,16 @@
 ---
 id: 1272
-title: 'Hormona de crecimiento y otras historias'
+title: Hormona de crecimiento y otras historias
 date: '2022-07-13T20:55:24+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1272'
+guid: https://danimedi.com/?p=1272
 permalink: /blog/hormona-de-crecimiento-y-otras-historias/
 image: /assets/images/small-me-photo.jpg
 categories:
-    - Escritos
-    - Historias
-    - Pensamientos
+- Escritos
+- Escritos
+- Pensamientos
 ---
 
 En este post quiero contar una historia bastante personal y que, durante la mayor parte de mi vida, es algo que prefería ocultar o simplemente no mencionar.

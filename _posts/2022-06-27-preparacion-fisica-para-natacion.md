@@ -1,14 +1,14 @@
 ---
 id: 1225
-title: 'Preparación física para natación'
+title: Preparación física para natación
 date: '2022-06-27T14:41:48+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1225'
+guid: https://danimedi.com/?p=1225
 permalink: /blog/preparacion-fisica-para-natacion/
 image: /assets/images/gym-image.jpg
 categories:
-    - 'Sin categoría'
+- Medicina
 ---
 
 Hoy en día el entrenamiento fuera del agua es realizado por la mayoría de nadadores, existiendo muchos posibles ejercicios y formas de entrenar fuera del agua[^1] [^2]

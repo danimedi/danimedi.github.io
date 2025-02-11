@@ -4,11 +4,11 @@ title: 'Tutorial de Anki: Comenzando a usar Anki desde cero'
 date: '2022-01-09T15:20:04+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=512'
+guid: https://danimedi.com/?p=512
 permalink: /blog/tutorial-de-anki-desde-cero/
 image: /assets/images/thumbnail_anki_desde_cero.png
 categories:
-    - Anki
+- Estudio y Anki
 ---
 
 En el canal de YouTube DaniMedi hay videos que explican diferentes partes del programa, sin embargo, muchos detalles del programa no son del todo necesarios para comenzar a usar el programa inicialmente, así que en el canal aún hace falta de contenido que explique cómo comenzar a utilizar Anki de forma rápida desde cero. Este este post y el video que acompaña buscan precisamente solucionar esto.

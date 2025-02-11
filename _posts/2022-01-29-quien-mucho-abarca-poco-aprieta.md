@@ -1,14 +1,14 @@
 ---
 id: 547
-title: 'Quien mucho abarca poco aprieta'
+title: Quien mucho abarca poco aprieta
 date: '2022-01-29T03:47:48+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=547'
+guid: https://danimedi.com/?p=547
 permalink: /blog/quien-mucho-abarca-poco-aprieta/
 image: /assets/images/quien_mucho_abarca.jpg
 categories:
-    - Pensamientos
+- Pensamientos
 ---
 
 NOTA: algunas ideas son usadas en otros posts, un post importante que toma algunas ideas de este y las desarrolla mucho más es el siguiente: [¿Qué quiero hacer con mi vida?]({{ '/blog/que-quiero-hacer-con-mi-vida/' | relative_url }}).

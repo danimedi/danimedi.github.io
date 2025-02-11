@@ -4,11 +4,11 @@ title: 'Anki 2.1.50: comentario de los cambios'
 date: '2022-04-17T21:10:13+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=896'
+guid: https://danimedi.com/?p=896
 permalink: /blog/anki-2-1-50-comentario-de-los-cambios/
 image: /assets/images/anki-logo.png
 categories:
-    - Anki
+- Estudio y Anki
 ---
 
 Hace poco tiempo se ha lanzado una nueva versión de Anki, la versión 2.1.50. Esta versión incorpora cambios y adiciones importantes. El objetivo de este post es presentar mi perspectiva respecto a esta versión para poder informar de algunos cambios que considero importantes.

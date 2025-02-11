@@ -4,13 +4,13 @@ title: 'Internado médico: Consejos de un ex-interno'
 date: '2024-03-16T22:43:44+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1543'
+guid: https://danimedi.com/?p=1543
 permalink: /blog/internado-medico-consejos-de-un-ex-interno/
 image: /assets/images/stethoscope_sphygmomanometer_image.jpg
 categories:
-    - Medicina
-    - Pensamientos
-    - Semanario
+- Medicina
+- Pensamientos
+- Escritos
 ---
 
 El internado médico es un año que forma parte de la formación de pregrado de los estudiantes de medicina humana en varios lugares, en el Perú forma parte del último año antes de terminar el pregrado. El año pasado hice mi internado y hay algunas cosas que me gustaría compartir sobre este tema y algunos consejos personales que me daría a mí mismo si tuviera que repetir esta etapa.

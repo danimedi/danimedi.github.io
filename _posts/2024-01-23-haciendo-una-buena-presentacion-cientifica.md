@@ -1,15 +1,15 @@
 ---
 id: 1118
-title: 'Haciendo una buena presentación científica'
+title: Haciendo una buena presentación científica
 date: '2024-01-23T04:46:39+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1118'
+guid: https://danimedi.com/?p=1118
 permalink: /blog/haciendo-una-buena-presentacion-cientifica/
 image: /assets/images/tell-compelling-story-scientific-presentations.jpg
 categories:
-    - Lecturas
-    - Medicina
+- Lecturas
+- Medicina
 ---
 
 En esta publicación quiero compartir algunas cosas aprendidas en [este artículo](https://www.nature.com/articles/d41586-021-03603-2) publicado en Nature. Esto es sobre cómo narrar una historia en presentaciones científicas. La verdad encontré esto bastante útil.

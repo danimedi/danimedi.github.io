@@ -1,16 +1,16 @@
 ---
 id: 1416
-title: 'Un examen, un viaje y un poco de ansiedad'
+title: Un examen, un viaje y un poco de ansiedad
 date: '2022-08-29T23:53:21+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1416'
+guid: https://danimedi.com/?p=1416
 permalink: /blog/un-examen-un-viaje-y-un-poco-de-ansiedad/
 image: /assets/images/airplane-on-sky.jpg
 categories:
-    - Escritos
-    - Historias
-    - Pensamientos
+- Escritos
+- Escritos
+- Pensamientos
 ---
 
 Hace ya casi un año fui de viaje a Colombia, un viaje que, sin ninguna duda, marcó un antes y un después en mi vida. Hoy quiero escribir sobre esto porque es una forma de soltar algunas cosas y porque quiero contar algunas cosas que antes no podía, debido a que ahora he mejorado mi capacidad de escribir, por lo que tengo mayor capacidad narrativa y puedo expresar más cosas.

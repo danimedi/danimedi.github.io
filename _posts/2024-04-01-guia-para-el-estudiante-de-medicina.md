@@ -1,17 +1,17 @@
 ---
 id: 1568
-title: 'Guía para el estudiante de medicina'
+title: Guía para el estudiante de medicina
 date: '2024-04-01T19:21:43+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1568'
+guid: https://danimedi.com/?p=1568
 permalink: /blog/guia-para-el-estudiante-de-medicina/
 image: /assets/images/20191111_092713.jpg
 categories:
-    - Escritos
-    - Estudio
-    - Medicina
-    - Pensamientos
+- Escritos
+- Estudio y Anki
+- Medicina
+- Pensamientos
 ---
 
 Resulta que ya terminé la carrera de medicina humana, fue una etapa bonita en mi vida y quiero compartir algunas cosas sobre este camino. Mi intención es reflexionar un poco sobre lo vivido y comentar algunas experiencias y consejos que me daría si tuviera que realizar esta carrera nuevamente. Es posible también que algunas ideas puedan ser útiles para alguien más.

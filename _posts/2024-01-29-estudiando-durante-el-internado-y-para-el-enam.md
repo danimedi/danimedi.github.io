@@ -1,15 +1,15 @@
 ---
 id: 1514
-title: 'Estudiando durante el internado (y para el ENAM)'
+title: Estudiando durante el internado (y para el ENAM)
 date: '2024-01-29T04:59:32+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1514'
+guid: https://danimedi.com/?p=1514
 permalink: /blog/estudiando-durante-el-internado-y-para-el-enam/
 image: /assets/images/me-sleeping-studying-meme.jpg
 categories:
-    - Estudio
-    - Medicina
+- Estudio y Anki
+- Medicina
 ---
 
 En esta publicación compartiré algunas experiencias personales sobre cómo estudié durante mi internado médico el año pasado (2023).

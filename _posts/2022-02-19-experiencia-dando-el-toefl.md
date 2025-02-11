@@ -1,16 +1,16 @@
 ---
 id: 784
-title: 'Experiencia dando el TOEFL'
+title: Experiencia dando el TOEFL
 date: '2022-02-19T22:36:31+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=784'
+guid: https://danimedi.com/?p=784
 permalink: /blog/experiencia-dando-el-toefl/
 image: /assets/images/toefl-image.jpg
 categories:
-    - Estudio
-    - Historias
-    - USMLE
+- Estudio y Anki
+- Escritos
+- Medicina
 ---
 
 Hace una semana, el sábado pasado, di el examen TOEFL de inglés. Quiero compartir esta experiencia a través de este post.

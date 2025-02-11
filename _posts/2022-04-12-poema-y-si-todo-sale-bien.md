@@ -1,14 +1,14 @@
 ---
 id: 892
-title: 'Poema ¿Y si todo sale bien?'
+title: Poema ¿Y si todo sale bien?
 date: '2022-04-12T16:21:51+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=892'
+guid: https://danimedi.com/?p=892
 permalink: /blog/poema-y-si-todo-sale-bien/
 image: /assets/images/Screenshot_20220412-052835_Instagram1.jpg
 categories:
-    - Escritos
+- Escritos
 ---
 
 Escribí este poema el 12 de abril de 2022, inspirado por la imagen de una story de Instagram de una amiga.

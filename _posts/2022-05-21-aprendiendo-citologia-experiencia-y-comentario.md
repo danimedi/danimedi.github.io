@@ -4,12 +4,12 @@ title: 'Aprendiendo citología: experiencia y comentario'
 date: '2022-05-21T16:23:55+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=938'
+guid: https://danimedi.com/?p=938
 permalink: /blog/aprendiendo-citologia-experiencia-y-comentario/
 image: /assets/images/cell-image.jpg
 categories:
-    - Estudio
-    - Medicina
+- Estudio y Anki
+- Medicina
 ---
 
 *Nota: el contenido de este post va de acuerdo a mi perspectiva personal como estudiante universitario de medicina humana.*

@@ -1,15 +1,15 @@
 ---
 id: 1535
-title: 'Manejo de tiempo y organización'
+title: Manejo de tiempo y organización
 date: '2024-03-08T17:05:54+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1535'
+guid: https://danimedi.com/?p=1535
 permalink: /blog/manejo-de-tiempo-y-organizacion/
 image: /assets/images/calendar_highlighter_image.jpg
 categories:
-    - Estudio
-    - Pensamientos
+- Estudio y Anki
+- Pensamientos
 ---
 
 El año pasado estuve viviendo solo, fue divertido la verdad y puedo decir que aprendía bastantes cosas. En el presente post mencionaré algunas cosas que aprendí y algunas cosas que me sirven para manejar y organizar mi tiempo, así como cumplir con mis responsabilidades.

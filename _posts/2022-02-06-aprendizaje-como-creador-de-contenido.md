@@ -1,14 +1,14 @@
 ---
 id: 702
-title: 'Aprendizaje como creador de contenido'
+title: Aprendizaje como creador de contenido
 date: '2022-02-06T02:24:38+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=702'
+guid: https://danimedi.com/?p=702
 permalink: /blog/aprendizaje-como-creador-de-contenido/
 image: /assets/images/question_lights.jpg
 categories:
-    - Comunidad
+- Comunidad
 ---
 
 Hace relativamente poco que comencé a subir contenido a internet, comenzó con mi canal de YouTube por mayo de 2020. Desde mis primeros videos hasta ahora han habido varios cambios en mí que han influenciado en mi forma de subir contenido y el enfoque que tengo respecto a esto. En este momento, y en realidad desde el comienzo, me encuentro en un proceso de cambio en el cual aún estoy descubriendo mejores formas de subir contenido a internet y con qué cosas me siento más cómodo y se sienten cómodas aquellas personas que me siguen.

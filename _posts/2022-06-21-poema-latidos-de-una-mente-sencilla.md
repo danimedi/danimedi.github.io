@@ -4,11 +4,11 @@ title: 'Poema: Latidos de una mente sencilla'
 date: '2022-06-21T15:27:57+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1200'
+guid: https://danimedi.com/?p=1200
 permalink: /blog/poema-latidos-de-una-mente-sencilla/
 image: /assets/images/dog_on_bed.png
 categories:
-    - Escritos
+- Escritos
 ---
 
 Terminé de escribir este poema el día 21 de junio de 2022.

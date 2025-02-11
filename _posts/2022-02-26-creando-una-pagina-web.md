@@ -1,14 +1,14 @@
 ---
 id: 821
-title: 'Creando una página web'
+title: Creando una página web
 date: '2022-02-26T01:01:08+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=821'
+guid: https://danimedi.com/?p=821
 permalink: /blog/creando-una-pagina-web/
 image: /assets/images/computer-website-image.jpg
 categories:
-    - Programación
+- Programación
 ---
 
 Creé esta página web hace poco tiempo y en realidad hay algunas cosas que aún estoy descubriendo, pero quiero compartir mi experiencia hasta ahora y quizá animar a alguno o brindar un punto de partida para aquellos que quieren crear su propia página web.

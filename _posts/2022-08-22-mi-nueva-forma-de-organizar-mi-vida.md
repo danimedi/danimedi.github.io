@@ -1,16 +1,16 @@
 ---
 id: 1377
-title: 'Mi nueva forma de organizar mi vida'
+title: Mi nueva forma de organizar mi vida
 date: '2022-08-22T21:14:48+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1377'
+guid: https://danimedi.com/?p=1377
 permalink: /blog/mi-nueva-forma-de-organizar-mi-vida/
 image: /assets/images/old-pocket-watch.jpg
 categories:
-    - Escritos
-    - Estudio
-    - Pensamientos
+- Escritos
+- Estudio y Anki
+- Pensamientos
 ---
 
 Hace un tiempo escribí un [post]({{ '/blog/manejando-mi-tiempo/' | relative_url }}) en el que menciono algunas cosas relacionadas a la forma en la que administro mi tiempo. Resulta en este tiempo transcurrido he cambiado en gran medida mi forma de realizar las cosas. En este post comparto cómo organizo mi tiempo actualmente.

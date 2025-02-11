@@ -1,15 +1,15 @@
 ---
 id: 1519
-title: 'Discurso de despedida internado'
+title: Discurso de despedida internado
 date: '2024-01-29T05:06:36+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1519'
+guid: https://danimedi.com/?p=1519
 permalink: /blog/discurso-de-despedida-internado/
 image: /assets/images/photo-rebagliati-internado-internos-2023.jpg
 categories:
-    - Escritos
-    - Medicina
+- Escritos
+- Medicina
 ---
 
 Este discurso fue presentado por mí el 2023-12-29 en la ceremonia de culminación del internado médico en el HNERM el 2023. Fueron las palabras de agradecimiento a nombre de nuestra promoción de internos.

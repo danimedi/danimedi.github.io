@@ -4,12 +4,12 @@ title: 'Aprendiendo anatomía: experiencia y comentario'
 date: '2022-05-23T00:14:33+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1070'
+guid: https://danimedi.com/?p=1070
 permalink: /blog/aprendiendo-anatomia-experiencia-y-comentario/
 image: /assets/images/anatomy-image.jpg
 categories:
-    - Estudio
-    - Medicina
+- Estudio y Anki
+- Medicina
 ---
 
 *Nota: el contenido de este post es desde mi perspectiva personal como estudiante universitario de medicina humana.*

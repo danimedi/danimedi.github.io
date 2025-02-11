@@ -4,11 +4,11 @@ title: 'Poema: En mi cuarto'
 date: '2022-05-09T23:15:18+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1016'
+guid: https://danimedi.com/?p=1016
 permalink: /blog/poema-en-mi-cuarto/
 image: /assets/images/roof-room-image.jpg
 categories:
-    - Escritos
+- Escritos
 ---
 
 Este poema lo escribí el día 9 de mayo de 2022.

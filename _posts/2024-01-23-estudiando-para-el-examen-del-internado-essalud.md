@@ -1,15 +1,15 @@
 ---
 id: 1505
-title: 'Estudiando para el examen del internado (EsSalud)'
+title: Estudiando para el examen del internado (EsSalud)
 date: '2024-01-23T04:12:59+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1505'
+guid: https://danimedi.com/?p=1505
 permalink: /blog/estudiando-para-el-examen-del-internado-essalud/
 image: /assets/images/essalud-logo.png
 categories:
-    - Estudio
-    - Medicina
+- Estudio y Anki
+- Medicina
 ---
 
 En Perú el internado médico es una etapa importante en la formación médica. Consiste en un año en el que se realizan actividades exclusivamente en el hospital. Es el último paso en la etapa como estudiante de medicina humana.

@@ -1,15 +1,15 @@
 ---
 id: 1381
-title: 'Tomando notas en Notion'
+title: Tomando notas en Notion
 date: '2022-08-22T21:19:39+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1381'
+guid: https://danimedi.com/?p=1381
 permalink: /blog/tomando-notas-en-notion/
 image: /assets/images/laptop-notion.jpg
 categories:
-    - Estudio
-    - Pensamientos
+- Estudio y Anki
+- Pensamientos
 ---
 
 ## ¿Apuntes? ¿Para qué?

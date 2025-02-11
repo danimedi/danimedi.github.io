@@ -4,12 +4,12 @@ title: 'Aprendiendo bioquímica: Experiencia y comentario'
 date: '2022-05-01T15:40:37+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=910'
+guid: https://danimedi.com/?p=910
 permalink: /blog/aprendiendo-bioquimica-experiencia-y-comentario/
 image: /assets/images/image-chemistry.jpg
 categories:
-    - Estudio
-    - Medicina
+- Estudio y Anki
+- Medicina
 ---
 
 *Nota: el contenido de este post va de acuerdo a mi perspectiva personal como estudiante universitario de medicina humana.*

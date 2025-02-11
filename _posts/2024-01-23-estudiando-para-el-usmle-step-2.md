@@ -1,16 +1,16 @@
 ---
 id: 1502
-title: 'Estudiando para el USMLE Step 2'
+title: Estudiando para el USMLE Step 2
 date: '2024-01-23T04:06:51+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1502'
+guid: https://danimedi.com/?p=1502
 permalink: /blog/estudiando-para-el-usmle-step-2/
 image: /assets/images/usmle-step-2-ck-image.jpg
 categories:
-    - Estudio
-    - Medicina
-    - USMLE
+- Estudio y Anki
+- Medicina
+- Medicina
 ---
 
 Hace un tiempo escribí [un post]({{ '/blog/dando-el-usmle-step-1/' | relative_url }}) sobre mi experiencia dando el USMLE Step 1. Ha pasado mucho desde entonces. La verdad quería escribir sobre mi experiencia dando el USMLE Step 2, pero pasaron muchas cosas desde entonces que hicieron que no pudiera escribir ni compartir mucho al respecto.

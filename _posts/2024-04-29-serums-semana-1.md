@@ -4,15 +4,15 @@ title: 'SERUMS: Semana -1'
 date: '2024-04-29T00:40:28+00:00'
 author: DaniMedi
 layout: post
-guid: 'https://danimedi.com/?p=1599'
+guid: https://danimedi.com/?p=1599
 permalink: /blog/serums-semana-1/
 image: /assets/images/salinas_moche_plaza.jpg
 categories:
-    - Escritos
-    - Historias
-    - Medicina
-    - Pensamientos
-    - Semanario
+- Escritos
+- Escritos
+- Medicina
+- Pensamientos
+- Escritos
 ---
 
 Este es el primer post de mi experiencia haciendo el SERUMS este año 2024. Espero poder realizar estas publicaciones de forma semanal.
