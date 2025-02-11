@@ -9,7 +9,6 @@ permalink: /blog/tomando-notas-en-notion/
 image: /assets/images/laptop-notion.jpg
 categories:
 - Estudio y Anki
-- Pensamientos
 ---
 
 ## ¿Apuntes? ¿Para qué?

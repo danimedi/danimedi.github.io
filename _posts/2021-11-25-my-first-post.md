@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=388
 permalink: /blog/my-first-post/
 image: /assets/images/writing_computer.jpg
 categories:
-- Comunidad
+- Programación
 ---
 
 This is my first post of the website, so this is a big deal for me, because this is the first time I do a lot of things, the first time I have a website, the first time I write a blog, the first time I publicly present myself, the first time I write something in English publicly. A big step indeed.

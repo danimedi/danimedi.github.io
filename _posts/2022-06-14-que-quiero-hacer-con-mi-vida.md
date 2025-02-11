@@ -8,7 +8,6 @@ guid: https://danimedi.com/?p=1101
 permalink: /blog/que-quiero-hacer-con-mi-vida/
 image: /assets/images/man-starry-sky-image.jpg
 categories:
-- Escritos
 - Pensamientos
 ---
 

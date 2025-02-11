@@ -9,7 +9,6 @@ permalink: /blog/manejo-de-tiempo-y-organizacion/
 image: /assets/images/calendar_highlighter_image.jpg
 categories:
 - Estudio y Anki
-- Pensamientos
 ---
 
 El año pasado estuve viviendo solo, fue divertido la verdad y puedo decir que aprendía bastantes cosas. En el presente post mencionaré algunas cosas que aprendí y algunas cosas que me sirven para manejar y organizar mi tiempo, así como cumplir con mis responsabilidades.

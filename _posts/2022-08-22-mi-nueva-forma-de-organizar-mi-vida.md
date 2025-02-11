@@ -8,7 +8,6 @@ guid: https://danimedi.com/?p=1377
 permalink: /blog/mi-nueva-forma-de-organizar-mi-vida/
 image: /assets/images/old-pocket-watch.jpg
 categories:
-- Escritos
 - Estudio y Anki
 - Pensamientos
 ---

@@ -8,7 +8,6 @@ guid: https://danimedi.com/?p=910
 permalink: /blog/aprendiendo-bioquimica-experiencia-y-comentario/
 image: /assets/images/image-chemistry.jpg
 categories:
-- Estudio y Anki
 - Medicina
 ---
 

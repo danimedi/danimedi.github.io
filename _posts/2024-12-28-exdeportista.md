@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1650
 permalink: /blog/exdeportista/
 image: /assets/images/gonzalo_y_yo_maraton.jpg
 categories:
-- Escritos
+- Anécdotas
 - Pensamientos
 ---
 

@@ -8,7 +8,8 @@ guid: https://danimedi.com/?p=673
 permalink: /blog/resena-libro-designing-clinical-research/
 image: /assets/images/image-research.jpg
 categories:
-- Lecturas
+- Medicina
+- Estudio y Anki
 ---
 
 Para mí siempre la investigación siempre ha sido algo que me ha causado gran interés, pero que ha sido especialmente difícil (quizá por eso me interesa tanto). Después de intentar varias veces y de aprender algunas cosas llegué a escuchar a un investigador que era estudiante de medicina mencionar que el primer paso para aprender a hacer investigación es aprender metodología de investigación, saber diseñar estudios de investigación. Es así que, por recomendaciones, llegué al libro “[Designing Clinical Research](https://www.amazon.com/Designing-Clinical-Research-Stephen-Hulley/dp/1608318044)” (Hulley 2013). Este es un libro de diseño de investigación clínica, orientada al área médica.

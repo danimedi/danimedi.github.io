@@ -8,8 +8,8 @@ guid: https://danimedi.com/?p=1514
 permalink: /blog/estudiando-durante-el-internado-y-para-el-enam/
 image: /assets/images/me-sleeping-studying-meme.jpg
 categories:
-- Estudio y Anki
 - Medicina
+- Estudio y Anki
 ---
 
 En esta publicación compartiré algunas experiencias personales sobre cómo estudié durante mi internado médico el año pasado (2023).

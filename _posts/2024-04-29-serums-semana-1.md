@@ -8,11 +8,8 @@ guid: https://danimedi.com/?p=1599
 permalink: /blog/serums-semana-1/
 image: /assets/images/salinas_moche_plaza.jpg
 categories:
-- Escritos
-- Escritos
 - Medicina
-- Pensamientos
-- Escritos
+- Anécdotas
 ---
 
 Este es el primer post de mi experiencia haciendo el SERUMS este año 2024. Espero poder realizar estas publicaciones de forma semanal.

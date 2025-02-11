@@ -8,7 +8,8 @@ guid: https://danimedi.com/?p=1413
 permalink: /blog/por-que-no-me-crece-la-barba/
 image: /assets/images/beard.jpg
 categories:
-- Escritos
+- Anécdotas
+- Pensamientos
 ---
 
 Es raro que una de mis características es ser bastante tranquilo, bastante equilibrado emocionalmente. O al menos esa es la percepción que muchas otras personas tienen de mí. Y, aún así, durante mi vida he tenido muchos tics nerviosos.

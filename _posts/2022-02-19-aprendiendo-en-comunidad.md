@@ -8,7 +8,6 @@ guid: https://danimedi.com/?p=773
 permalink: /blog/aprendiendo-en-comunidad/
 image: /assets/images/puzzle-pieces.jpg
 categories:
-- Comunidad
 - Pensamientos
 ---
 

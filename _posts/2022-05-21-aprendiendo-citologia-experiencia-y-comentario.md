@@ -8,7 +8,6 @@ guid: https://danimedi.com/?p=938
 permalink: /blog/aprendiendo-citologia-experiencia-y-comentario/
 image: /assets/images/cell-image.jpg
 categories:
-- Estudio y Anki
 - Medicina
 ---
 

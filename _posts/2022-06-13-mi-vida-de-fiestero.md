@@ -8,9 +8,8 @@ guid: https://danimedi.com/?p=1158
 permalink: /blog/mi-vida-de-fiestero/
 image: /assets/images/party-image.jpg
 categories:
-- Escritos
-- Escritos
 - Pensamientos
+- Anécdotas
 ---
 
 Ya se cumplen más de dos meses desde que comencé a salir con bastante frecuencia. Desde el día de mi cumpleaños (9 de abril) hasta el día de ayer (11 de junio) he salido a un ritmo de dos veces por semana. Creo que con decir que falté a bastantes clases virtuales y que salí de fiesta un miércoles en semana de exámenes antes del examen de medicina legal es suficiente para que se entienda que realmente salía mucho. Y algo curioso es que durante mi vida nunca he salido mucho a fiestas, por lo que todo esto fue algo completamente nuevo para mí. ¿El motivo de este cambio? Pues llegó un punto en mi vida en el que tuve la idea de cuestionarme y reformular algunas cosas que constituían mi identidad. Este pensamiento y la historia detrás pueden encontrarse en [este otro post]({{ '/blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/' | relative_url }}) que escribí hace no mucho tiempo.

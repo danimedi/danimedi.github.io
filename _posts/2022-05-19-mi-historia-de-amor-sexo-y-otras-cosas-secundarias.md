@@ -8,9 +8,8 @@ guid: https://danimedi.com/?p=996
 permalink: /blog/mi-historia-de-amor-sexo-y-otras-cosas-secundarias/
 image: /assets/images/heart-on-window-image.jpg
 categories:
-- Escritos
-- Escritos
 - Pensamientos
+- Anécdotas
 ---
 
 Durante mucho tiempo, especialmente estas últimas semanas, he estado pensando sobre mi vida amorosa y sexual. Además, he tenido algunas conversaciones por ahí con algunas personas que aumentaron mis deseos de escribir sobre esto. Así que en este post contaré mi historia.

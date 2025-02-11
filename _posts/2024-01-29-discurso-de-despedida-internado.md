@@ -1,6 +1,6 @@
 ---
 id: 1519
-title: Discurso de despedida internado
+title: Discurso de despedida del internado
 date: '2024-01-29T05:06:36+00:00'
 author: DaniMedi
 layout: post

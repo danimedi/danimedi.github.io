@@ -48,7 +48,7 @@
 
 .sidebar {
   width: 22%;
-  max-height: 500px; /* Limit the height */
+  max-height: 400px; /* Limit the height */
   overflow-y: auto;  /* Enable scrolling if needed */
   padding: 15px;
   background-color: #f8f8f8;

@@ -8,7 +8,6 @@ guid: https://danimedi.com/?p=1672
 permalink: /blog/buscando-rumbo/
 image: /assets/images/Gowy-icaro-prado.jpg
 categories:
-- Escritos
 - Pensamientos
 ---
 

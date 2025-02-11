@@ -8,9 +8,7 @@ guid: https://danimedi.com/?p=1416
 permalink: /blog/un-examen-un-viaje-y-un-poco-de-ansiedad/
 image: /assets/images/airplane-on-sky.jpg
 categories:
-- Escritos
-- Escritos
-- Pensamientos
+- Anécdotas
 ---
 
 Hace ya casi un año fui de viaje a Colombia, un viaje que, sin ninguna duda, marcó un antes y un después en mi vida. Hoy quiero escribir sobre esto porque es una forma de soltar algunas cosas y porque quiero contar algunas cosas que antes no podía, debido a que ahora he mejorado mi capacidad de escribir, por lo que tengo mayor capacidad narrativa y puedo expresar más cosas.

@@ -8,10 +8,8 @@ guid: https://danimedi.com/?p=1568
 permalink: /blog/guia-para-el-estudiante-de-medicina/
 image: /assets/images/20191111_092713.jpg
 categories:
-- Escritos
 - Estudio y Anki
 - Medicina
-- Pensamientos
 ---
 
 Resulta que ya terminé la carrera de medicina humana, fue una etapa bonita en mi vida y quiero compartir algunas cosas sobre este camino. Mi intención es reflexionar un poco sobre lo vivido y comentar algunas experiencias y consejos que me daría si tuviera que realizar esta carrera nuevamente. Es posible también que algunas ideas puedan ser útiles para alguien más.

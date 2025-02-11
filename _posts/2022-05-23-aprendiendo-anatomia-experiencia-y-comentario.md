@@ -8,7 +8,6 @@ guid: https://danimedi.com/?p=1070
 permalink: /blog/aprendiendo-anatomia-experiencia-y-comentario/
 image: /assets/images/anatomy-image.jpg
 categories:
-- Estudio y Anki
 - Medicina
 ---
 
