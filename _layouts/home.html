@@ -15,32 +15,33 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+	
+	<p class="rss-subscribe">Suscríbete al Blog <a href="{{ "/feed.xml" | relative_url }}">vía RSS</a></p>
+	
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li class="post-item">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        
-        <!-- Check if the post has an image and display it -->
-        {%- if post.image -%}
-          <a href="{{ post.url | relative_url }}">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-thumbnail">
-          </a>
-        {%- endif -%}
+	    <div class="post-thumbnail-container">
+		  {%- if post.image -%}
+		    <a href="{{ post.url | relative_url }}">
+			  <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-thumbnail">
+			</a>
+		  {%- endif -%}
+		</div>
 
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-
-        {%- if site.show_excerpts -%}
-          <p>{{ post.excerpt }}</p>
-        {%- endif -%}
-      </li>
+		<div class="post-info">
+		  <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+		  <h3>
+		    <a class="post-link" href="{{ post.url | relative_url }}">
+			  {{ post.title | escape }}
+			</a>
+		  </h3>
+		  {%- if site.show_excerpts -%}
+		    <p>{{ post.excerpt }}</p>
+		  {%- endif -%}
+	    </div>
+	  </li>
       {%- endfor -%}
     </ul>
-
-    <p class="rss-subscribe">Suscríbete al Blog <a href="{{ "/feed.xml" | relative_url }}">vía RSS</a></p>
   {%- endif -%}
 </div>
