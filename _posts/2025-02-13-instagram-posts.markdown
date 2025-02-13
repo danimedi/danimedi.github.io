@@ -7,7 +7,7 @@ tags: []
 author: DaniMedi
 excerpt: "Colección de poemas que escribí en mi cuenta de Instagram"
 layout: post
-image: 
+image: poetry.jpg
 published: true
 last_modified_at: 2025-02-13
 redirect_from:
