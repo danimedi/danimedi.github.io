@@ -13,7 +13,7 @@ Bienvenido a mi página web.
 
 Te invito a leer mi [blog <i class="fa-solid fa-blog"></i>]({{ "/blog.html" | relative_url }}), ver o escuchar los episodios de mi [podcast sobre el SERUMS <i class="fa-solid fa-podcast"></i>](https://open.spotify.com/show/5zKn2IuA8PAWdPmB3RcqJn?si=cf0d5d737a0b4028), y visitar mi [canal de YouTube <i class="fab fa-youtube"></i>](https://www.youtube.com/@danimedi555).
 
-Puedes suscribirte a mi [feed RSS <i class="fa-solid fa-rss"></i>]({{ "/feed.xml" | relative_url }}) para saber cuándo publico un nuevo blog.
+Puedes suscribirte a mi [feed RSS <i class="fa-solid fa-rss"></i>]({{ "/feed.xml" | relative_url }}) para saber cuándo publico un nuevo blog ([*¿Cómo suscribirse?*]({{ "/blog/como-usar-feed-rss/" | relative_url }}))
 
 <br>
 
