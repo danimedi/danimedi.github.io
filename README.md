@@ -4,8 +4,6 @@ Hi, this repository contains the code for my personal web page, built using **Je
 
 I am a beginner at web development, but I have learned a lot during the three days I spent building this site.
 
-!![Myself](/assets/images/photo_me_2_edited.jpeg){: height="350" }
-
 ## File Structure
 
 I am using the `minima` Jekyll theme. One interesting feature of Jekyll themes is that you don't need to include the full file structure in your project, as the necessary files are already present within the installed `minima` theme. To access those files, you can run the following command in the terminal:
