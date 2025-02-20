@@ -4,7 +4,7 @@ Hi, this repository contains the code for my personal web page, built using **Je
 
 I am a beginner at web development, but I have learned a lot during the three days I spent building this site.
 
-![Myself](assets/images/20240416_153409.jpg)
+!![Myself](/assets/images/photo_me_2_edited.jpeg){: height="350" }
 
 ## File Structure
 
