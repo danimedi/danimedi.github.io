@@ -7,7 +7,7 @@ tags: []
 author: DaniMedi
 excerpt: "Catarsis de mi experiencia hasta pocos meses antes de terminar el SERUMS"
 layout: post
-image: /assets/images/salinas_moche_fog.jpg
+image: /assets/images/salinas_moche_fog.jpeg
 published: true
 last_modified_at: 2025-02-19
 redirect_from:
