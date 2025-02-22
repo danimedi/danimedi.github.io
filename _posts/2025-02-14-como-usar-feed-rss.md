@@ -15,9 +15,9 @@ redirect_from:
 
 El objetivo de este post es brindar una breve explicación de cómo usar el feed RSS (disponible en esta página web) para poder recibir notificaciones de nuevas publicaciones en mi blog o en cualquier otro blog que cuente con feed RSS.
 
-## Primer paso: Encontrar enlace del feed RSS
+## Primer paso: Encontrar el enlace del feed RSS
 
-Encontrar el enlace del feed RSS. En la mayoría de lugares se debe buscar el símbolo de RSS (<i class="fa-solid fa-rss"></i>), que puede ser un ícono naranja con tres ondas. Otra opción es encontrar alguna mención explícita de "RSS" en el blog.
+En la mayoría de lugares se debe buscar el símbolo de RSS (<i class="fa-solid fa-rss"></i>), que puede ser un ícono naranja con tres ondas. Otra opción es encontrar alguna mención explícita de "RSS" en el blog.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/192px-Feed-icon.svg.png){: height="25" }
 
@@ -25,7 +25,7 @@ Los enlaces del feed RSS habitualmente son `tublog.com/feed`, `tublog.com/rss`, 
 
 ## Segundo paso: Usar un lector de RSS
 
-Existen herramientas gratuitas que permiten poder realizar la lectura de los feeds en RSS. Algunas opciones conocidas son [Feedly](https://feedly.com/), [Inoreader](https://www.inoreader.com/), [Vivaldi](https://vivaldi.com/features/feed-reader/), [Feeder](https://feeder.co/), [NewsBlur](https://newsblur.com/), [Blogtrottr](https://blogtrottr.com/), entre otros. Personalmente, uso [Blogtrottr](https://blogtrottr.com/) actualmente. Tiene algunos anuncios, pero no llega a incomodarme mucho, aunque estoy experimentando con otras herramientas, es totalmente gratis y simple de usar.
+Existen herramientas gratuitas que permiten realizar la lectura de los feeds en RSS. Algunas opciones conocidas son [Feedly](https://feedly.com/), [Inoreader](https://www.inoreader.com/), [Vivaldi](https://vivaldi.com/features/feed-reader/), [Feeder](https://feeder.co/), [NewsBlur](https://newsblur.com/), [Blogtrottr](https://blogtrottr.com/), entre otros. Personalmente, uso [Blogtrottr](https://blogtrottr.com/) actualmente. Tiene algunos anuncios, pero no llega a incomodarme mucho, aunque estoy experimentando con otras herramientas. Es gratis y simple de usar.
 
 ## Tercer paso: Agregar el feed al lector
 
