@@ -166,10 +166,12 @@ Ahora, con la información presentada tenemos bastantes posibilidades de diseño
 Notar que se agrega ‘text:’ en los campos destinados a las referencias, esto es una recomendación de Anki para lidiar con posibles errores en los links cuando se agrega cierto formato al texto (ej. negritas, cursiva, subrayado).
 
 ```
+{% raw %}
 {{cloze:Text}}<hr>
 {{#Extra}}<div class="extra">{{Extra}}</div><br>{{/Extra}}
 {{#Info}}{{hint:Info}}<br><br>{{/Info}}
 {{#Ref titulo}}Link: <a href="{{text:Ref link}}">{{text:Ref titulo}}</a>{{/Ref titulo}}
+{% endraw %}
 ```
 
 ### Styling

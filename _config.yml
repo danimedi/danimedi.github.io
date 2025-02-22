@@ -34,10 +34,10 @@ minima:
 plugins:
   - jekyll-feed
 header_pages:
-  - index.markdown
+  - index.md
   - blog.html
-  - sobre-mi.markdown
-  - contact.markdown
+  - sobre-mi.md
+  - contact.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
