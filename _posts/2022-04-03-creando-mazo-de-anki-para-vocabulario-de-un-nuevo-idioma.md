@@ -15,7 +15,7 @@ categories:
 
 Como mencioné en un [post anterior sobre mi estrategia para aprender nuevos idiomas]({{ '/blog/estrategia-personal-para-aprender-un-nuevo-idioma/' | relative_url }}), el vocabulario es algo sumamente importante en etapas tempranas del aprendizaje de un nuevo idioma.
 
-La forma que más me sirvió (y me gustó) para aprender vocabulario es usando el programa Anki (programa al que le dedico varios [posts](<http://La forma que más me sirvió (y me gustó) para aprender vocabulario es usando el programa Anki (programa al que le dedico varios posts y videos).>) y [videos](https://youtu.be/O0DHrkgPhNA)).
+La forma que más me sirvió (y me gustó) para aprender vocabulario es usando el programa Anki (programa al que le dedico varios posts y [videos](https://youtu.be/O0DHrkgPhNA)).
 
 Hay un video en el canal de YouTube sobre esto: <https://youtu.be/L-tq2LEdlZE>
 
@@ -84,6 +84,8 @@ Para conseguir esto decidí optar por otra estrategia, el uso de APIs. Esto perm
 Algunos lenguajes de programación (ej. python) ya cuentan con libraries para usar la API de Forvo. En mi caso usé R y tuve que crear mis propias herramientas “desde cero” para trabajar con esta API.
 
 Primero intenté usar un [servicio gratuito](https://soundoftext.com/) que usa la voz de la traducción de Google. Sin embargo, el audio no era del todo natural y encontraba algunos problemas para traducir algunas palabras. Por este motivo decidí optar por una opción de pago. Entonces, usé la API de [Forvo](https://forvo.com/), que es una plataforma con audios de hablantes nativos muy popular. Con esta API y programando mi propio sistema de descarga de audios pude descargar los audios para las palabras de todos los idiomas incluidos en mi base de datos. Estos audios fueron guardados en carpetas específicas con nombres apropiados.
+
+Este programa que creé se encuentra en mi repositorio: <https://github.com/danimedi/vocabulaRy>
 
 ## Completando la base de datos
 
