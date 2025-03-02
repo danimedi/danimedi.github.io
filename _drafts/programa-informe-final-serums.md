@@ -8,7 +8,7 @@ author: DaniMedi
 excerpt: "Programa en Python para realizar de forma automatizada el informe final del SERUMS a partir de archivos planos del HIS MINSA"
 layout: post
 image: /assets/images/logo-ministerio-de-salud.jpg
-published: false
+published: true
 last_modified_at: 2025-02-28
 redirect_from:
 ---
