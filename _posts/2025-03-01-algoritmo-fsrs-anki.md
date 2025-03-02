@@ -14,7 +14,7 @@ redirect_from:
 ---
 Pensé que había tocado este tema hace tiempo. Hace unos días recibí un correo de un suscriptor solicitando recomendaciones sobre qué intervalos estaba usando en mi configuración de opciones de mis mazos de Anki, le recomendé usar el algoritmo FSRS que llevo usando hace ya un par de años, y pensaba pasarle el link de mi post explicando el tema, pero quedé sorprendido al darme cuenta que no había comentado antes sobre esto. Así que gracias a Claudio pude darme cuenta de que quedaba pendiente esta importante explicación.
 
-!Comencemos!
+¡Comencemos!
 
 <div style="border: 2px solid #000; padding: 10px; border-radius: 5px; background-color: #f8f8f8;">
   <i>Nota: prácticamente todo el contenido de esta explicación fue obtenido de la sección correspondiente del <a href="https://docs.ankiweb.net/deck-options.html#fsrs">manual oficial de Anki</a>.</i>
