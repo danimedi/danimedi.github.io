@@ -12,7 +12,7 @@ published: true
 last_modified_at: 2025-03-02
 redirect_from:
 ---
-Pensé que había tocado este tema hace tiempo. Hace unos días recibí un correo de un suscriptor solicitando recomendaciones sobre qué intervalos estaba usando en mis configuración de las opciones de mis mazos de Anki, le recomendé usar el algoritmo FSRS que llevo usando hace ya un par de años, y pensaba pasarle el link de mi post en el que explicaba este tema, pero quedé sorprendido al darme cuenta que no había realizado ningún post o video. Así que gracias a Claudio que pude darme cuenta y aquí va la explicacíon pendiente.
+Pensé que había tocado este tema hace tiempo. Hace unos días recibí un correo de un suscriptor solicitando recomendaciones sobre qué intervalos estaba usando en mi configuración de opciones de mis mazos de Anki, le recomendé usar el algoritmo FSRS que llevo usando hace ya un par de años, y pensaba pasarle el link de mi post explicando el tema, pero quedé sorprendido al darme cuenta que no había comentado antes sobre el tema. Así que gracias a Claudio pude darme cuenta de que quedaba pendiente esta importante explicación.
 
 !Comencemos!
 
