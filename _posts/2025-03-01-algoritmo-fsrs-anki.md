@@ -85,6 +85,8 @@ FSRS permite estimar cuánto estudiarás diariamente:
 
 En realidad se entiende mejor experimentando con él.
 
+![](/assets/images/anki-fsrs-simulator.gif)
+
 ## Consideraciones importantes
 
 ### Compatibilidad con complementos
