@@ -11,6 +11,18 @@ title: Blog
 	<p class="rss-subscribe">Puedes suscribirte a mi Blog <b><a href="{{ "/feed.xml" | relative_url }}">vía RSS <i class="fa-solid fa-rss"></i></a></b> (<i><a href="{{ "/blog/como-usar-feed-rss/" | relative_url }}">¿Cómo suscribirse?</i></a>).</p>
  
   <div class="blog-container">
+
+    <!-- Sidebar for Categories -->
+    <aside class="sidebar">
+      <h2>Categorías</h2>
+      <ul>
+        {%- for category in site.categories -%}
+        <li><a href="{{ "/categories/" | relative_url }}#{{ category[0] | downcase | replace: ' ', '-' }}">{{ category[0] }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </aside>
+    
+    <!-- Rest of the Blog Page -->
     <div class="blog-content">
       <ul class="post-list">
         {%- for post in site.posts -%}
@@ -38,16 +50,6 @@ title: Blog
         {%- endfor -%}
       </ul>
     </div>
-
-    <!-- Sidebar for Categories -->
-    <aside class="sidebar">
-      <h2>Categorías</h2>
-      <ul>
-        {%- for category in site.categories -%}
-        <li><a href="{{ "/categories/" | relative_url }}#{{ category[0] | downcase | replace: ' ', '-' }}">{{ category[0] }}</a></li>
-        {%- endfor -%}
-      </ul>
-    </aside>
   </div>
 
     <ul class="post-list">

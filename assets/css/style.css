@@ -1,36 +1,29 @@
-
 /* Remove the black horizontal line at the top */
 .site-header {
     border-top: none !important;
 }
 
-
-/* POST THUMBNAILS AND TITLES IN THE BLOG LIST */
-
+/* -- THUMBNAILS AND TITLES IN THE BLOG LIST -- */
 .post-item {
   display: flex;
   align-items: center;
   gap: 15px;
   margin-bottom: 20px;
 }
-
 .post-thumbnail {
-    width: 100px;  /* Set a fixed width */
-    height: 100px; /* Set a fixed height */
-    object-fit: cover; /* Ensures images fill the space while keeping a good aspect ratio */
-    border-radius: 8px; /* Optional: rounded corners for a modern look */
-    margin-right: 10px; /* Space between image and text */
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 10px;
 }
-
 .post-link {
   /*font-size: 18px;*/
   /*font-weight: bold;*/
 }
-
 .post-featured-image {
   background: black;
 }
-
 .post-featured-image img {
   width: 100%;
   max-height: 250px;
@@ -40,18 +33,15 @@
 }
 
 
-/* SIDEBAR OF CATEGORIES */
-
+/* -- SIDEBAR OF CATEGORIES -- */
 .blog-container {
   display: flex;
   flex-direction: row; /* Ensures sidebar is next to content */
   justify-content: space-between;
 }
-
 .blog-content {
   width: 80%; /* Adjust width to give space for sidebar */
 }
-
 .sidebar {
   width: 22%;
   max-height: 400px; /* Limit the height */
@@ -60,4 +50,25 @@
   background-color: #f8f8f8;
   border-radius: 8px;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+@media (min-width: 769px) {
+  .sidebar {
+    order: 2;  /* Move sidebar to the right */
+  }
+  .blog-content {
+    order: 1;  /* Keep blog posts on the left */
+  }
+}
+@media (max-width: 768px) {
+  .blog-container {
+    flex-direction: column; /* Stack content and sidebar vertically */
+  }
+  .blog-content {
+    width: 95%;
+  }
+  .sidebar {
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
 }
