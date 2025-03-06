@@ -30,7 +30,7 @@ title: Blog
           <div class="post-thumbnail-container">
             {%- if post.image -%}
             <a href="{{ post.url | relative_url }}">
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-thumbnail">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-thumbnail" loading="lazy">
             </a>
             {%- endif -%}
           </div>
