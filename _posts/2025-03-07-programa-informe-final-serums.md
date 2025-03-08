@@ -1,5 +1,5 @@
 ---
-title:  "Programa para realizar el informe final del SERUMS de forma automática"
+title:  "Programa para realizar el informe final del SERUMS de forma automatizada"
 date:   2025-03-07
 permalink: /blog/programa-informe-final-serums/
 categories: [Programación, Medicina]
@@ -38,7 +38,7 @@ Con estos datos, basta con ingresarlos en la sección "Anexos" del [aplicativo S
 
 ## Datos
 
-Obtener los datos necesarios puede tener algunas complicaciones. En mi caso, la Microrred no me facilitó mis registros individuales, pero la Dirección Regional de Salud de Moquegua me indicó que podía solicitar el archivo plano y extraerlos yo mismo.
+Obtener los datos necesarios puede tener algunas complicaciones. En mi caso, la Microrred no me facilitó mis registros individuales filtrados para que pueda realizar mi SERUMS de forma sencilla, pero la Dirección Regional de Salud de Moquegua me indicó que podía solicitar el archivo plano y extraerlos yo mismo.
 
 ### Archivo plano
 
