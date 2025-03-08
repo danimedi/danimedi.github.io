@@ -1,6 +1,6 @@
 ---
 title:  "Programa para realizar el informe final del SERUMS de forma automática"
-date:   2025-02-27
+date:   2025-03-07
 permalink: /blog/programa-informe-final-serums/
 categories: [Programación, Medicina]
 tags: []
@@ -9,12 +9,9 @@ excerpt: "Programa en Python para realizar de forma automatizada el informe fina
 layout: post
 image: /assets/images/logo-ministerio-de-salud.jpg
 published: true
-last_modified_at: 2025-02-28
+last_modified_at: 2025-03-07
 redirect_from:
 ---
-
-*Nota: se tiene pensado acompañar la presente publicación con un video de YouTube explicando todo ...*
-
 Actualmente estoy completando el programa SERUMS 2024-I, que finaliza el 30 de abril. Al culminar, se requiere elaborar un informe final, registrando mensualmente la información en el [aplicativo del Ministerio de Salud](https://serums.minsa.gob.pe/).
 
 El registro es intuitivo, pero contar manualmente las actividades puede ser tedioso, especialmente si se deja para el último momento. Además, algunos encargados de estadística no siempre facilitan los datos individuales necesarios. Para solucionar esto, creé un programa en Python que automatiza el proceso a partir de los "Archivos planos" que se pueden descargar del HIS MINSA.
@@ -51,19 +48,18 @@ Este archivo contiene todos los registros HIS de un período y lugar específico
 
 El archivo plano es una base de datos con muchas variables, el programa se encarga de trabajar con las necesarias, pero debemos tener dos datos de este archivo plano:
 
-1. **Renipress** de su establecimiento (columna `renipress`, no confundir ocn columna `Id_Establecimiento`)
+1. **RENIPRESS** de su establecimiento (columna `renipress`, no confundir con columna `Id_Establecimiento`)
 2. **Código personal asistencial** (columna `Id_Personal`)
 
+El código RENIPRESS de su establecimiento es fácil de encontrar, pueden hacerlo en la [plataforma de SUSALUD](http://app20.susalud.gob.pe:8080/registro-renipress-webapp/listadoEstablecimientosRegistrados.htm?action=mostrarBuscar#no-back-button). Por otro lado, el código personal asistencial (`Id_Personal`) no es el DNI, sino un número asignado. Para encontrarlo, pueden filtrar por establecimiento y analizar fechas de atención y diagnósticos.
 
+#### ¿Cómo trabajar con un archivo CSV?
 
-Antes de presentarles el programa que pueden usar para realizar sus informes es importante que extraigan del archivo plano un par de datos, los cuales permitirán encontrar su información individual en la base de datos (en mi caso esta contiene la información de los datos registrados del mes de todo el personal de la Microrred).
+Algo por mencionar es que los Archivos Planos están en formato CSV, es decir separados por comas. Podemos usar varios programas para manejar este tipo de archivos, quizá el más popular sea Microsoft Excel. Sin embargo, a veces necesitamos realizar un paso extra para que realice la lectura adecuadamente. En el siguiente GIF les realizo una demostración de cómo hacerlo.
 
-Solo necesitan dos datos:
+![](/assets/images/load-csv-file-excel.gif)
 
-1. Renipress de su establecimiento, que se encuentra en la columna `renipress` (no confundir con la columna `Id_Establecimiento` que es similar, pero no la misma)
-2. Código de ustedes como personal asistencial, que se encuentra en la columna `Id_Personal`
-
-El `Id_Personal` no es su DNI, sino un número asignado. Para encontrarlo, filtren por establecimiento y analicen fechas de atención y diagnósticos para determinar cuál es el que les corresponde.
+Como mencioné, debemos identificar cuál `Id_Personal` corresponde a nosotros.
 
 ### Base de datos de códigos y diagnósticos
 
@@ -208,20 +204,12 @@ Ahora solo queda ingresar los datos generados en el [aplicativo SERUMS](https://
 
 ## Aclaración
 
-Algo importante a considerar es que la forma de realización del informe de actividades preventivo-promocionales ha sido en base a la observación de los informes finales del SERUMS de Serumistas de procesos anteriores en mi Microrred. Vi que en algunos videos de YouTube indican que se debe filtrar las actividades preventivo-promocionales para no incluir en el informe los diagnósticos de enfermedades. Para mí, observando los informes de Serumistas anteriores en mi Microrred, me solicitan todos los códigos, incluyendo diagnósticos también. En el código presentado lo hago de este modo.
-
- Es posible que diferentes Redes de salud o Microrredes tengan diferentes exigencias o formatos de presentación de estos informes. Por este motivo, no puedo garantizar que este método genere los informes adecuados en otros contextos. Sin embargo, es probable que en la mayoría de los casos se pueda modificar el código presentado para conseguir el propósito.
+Este método está diseñado para obtener informes que tienen el formato observado en informes finales de procesos SERUMS anteriores en mi Microrred. Vi que en algunos lugares seleccionan solamente las actividades preventivo-promocionales, no incluyendo los diagnósticos de patologías. Es posible que diferentes Redes o Microrredes de salud tengan otros requerimientos, por lo que tal vez sea necesario ajustar el código para esos casos.
 
 ## Opinión
 
-Este método está basado en la observación de informes previos de mi Microrred. Diferentes Redes de Salud pueden tener otros requerimientos, por lo que tal vez sea necesario ajustar el código.
+Considero que este proceso debería automatizarse desde las unidades de estadística. Con conocimientos básicos de programación, pude generar mi informe fácilmente de forma semi-automatizada. Con un enfoque adecuado, un método similar podría implementarse a nivel nacional, ahorrando tiempo y recursos.
 
-En mi opinión, este proceso debería automatizarse desde las unidades de estadística. Con conocimientos básicos de programación, pude generar mi informe fácilmente, e incluso podría hacerlo para todos los Serumistas de mi Microrred sin mucho problema. Con un enfoque adecuado, esto podría implementarse a nivel nacional, ahorrando tiempo y recursos.
+Entiendo que este método presentado pueda resultar un poco extraño o incluso complicado para alguien que nunca antes ha usado algún lenguaje de programación. Por tal motivo, continúo trabajando en este programa en un repositorio privado en GitHub para mejorar sus capacidades. En caso encuentre una manera más conveniente para que ustedes puedan hacer sus informes SERUMS la estaré compartiendo por este medio.
 
-<br>
-
-<hr>
-
-<br>
-
-*Nota: se tiene pensado acompañar la presente publicación con un video de YouTube explicando todo ...*
+Pueden escribirme si tienen alguna duda :)
