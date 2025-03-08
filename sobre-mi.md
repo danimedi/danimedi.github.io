@@ -20,7 +20,7 @@ Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo e
 
 1. Médico SERUMS (2024-I) y jefe de establecimiento en el Puesto de Salud Salinas Moche.
 2. Adquiriendo experiencia y conocimientos en investigación para completar algunos proyectos y mejorar mi perfil como investigador.
-3. [Podcast llamado "SERUMS - Desde cada rincón"](https://open.spotify.com/show/5zKn2IuA8PAWdPmB3RcqJn?si=cf0d5d737a0b4028) en el cual realizo conversaciones con personas realizando su SERUMS en diferentes lugares.
+3. Podcast ["SERUMS - Desde cada rincón"](https://open.spotify.com/show/5zKn2IuA8PAWdPmB3RcqJn?si=cf0d5d737a0b4028), en el cual realizo conversaciones con personas realizando su SERUMS en diferentes lugares.
 4. Escribir y compartir contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
 
 ## Mi CV

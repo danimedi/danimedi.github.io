@@ -20,7 +20,7 @@ I completed my undergraduate studies in Human Medicine in 2023. I am now a licen
 
 - SERUMS Physician (2024-I) and Head of Facility at the Salinas Moche Health Post.
 - Gaining experience and knowledge in research to complete several projects and strengthen my profile as a researcher.
-- [Podcast: "SERUMS - Desde cada rincón"](https://open.spotify.com/show/5zKn2IuA8PAWdPmB3RcqJn?si=cf0d5d737a0b4028), where I have conversations with people doing their SERUMS in different locations.
+- Podcast: ["SERUMS - Desde cada rincón"](https://open.spotify.com/show/5zKn2IuA8PAWdPmB3RcqJn?si=cf0d5d737a0b4028), where I have conversations with people doing their SERUMS in different locations.
 - Writing and sharing diverse content through my [website](https://danimedi.com) and [YouTube channel](https://www.youtube.com/@danimedi555).
 
 ## My CV
