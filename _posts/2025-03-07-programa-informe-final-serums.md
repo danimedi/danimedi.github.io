@@ -1,5 +1,5 @@
 ---
-title:  "Programa para realizar el informe final del SERUMS de forma automatizada"
+title:  "Informe final SERUMS automatizado"
 date:   2025-03-07
 permalink: /blog/programa-informe-final-serums/
 categories: [Programación, Medicina]
@@ -7,7 +7,7 @@ tags: []
 author: DaniMedi
 excerpt: "Programa en Python para realizar de forma automatizada el informe final del SERUMS a partir de archivos planos del HIS MINSA"
 layout: post
-image: /assets/images/logo-ministerio-de-salud.jpg
+image: /assets/images/minsa-logo-square.jpg
 published: true
 last_modified_at: 2025-03-07
 redirect_from:
