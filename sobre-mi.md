@@ -64,7 +64,7 @@ Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo e
   - *Introduction to Linear Models and Matrix Algebra*  
   - *Statistical Inference and Modeling for High-throughput Experiments*  
   - *High-Dimensional Data Analysis*  
-
+<br>
 - Setiembre 2020  
   ICH Good Clinical Practice E6 (R2)  
 
@@ -78,7 +78,7 @@ Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo e
   - *Excel* (Marzo 2020)  
   - *PowerPoint* (Febrero 2022)  
   - *Outlook* (Marzo 2022)  
-
+<br>
 - Agosto 2022  
   GPH001: **Global Public Health**  
   SDGAcademyX  
@@ -97,7 +97,7 @@ Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo e
   - Listening: 29/30  
   - Speaking: 25/30  
   - Writing: 28/30  
-
+<br>
 - Noviembre 2022  
   Puntaje de *255* en el **USMLE Step 2**.  
 
@@ -113,7 +113,7 @@ Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo e
 
 ### Experiencia laboral
 
-- 2024 – presente  
+- Mayo 2024 – presente  
   Jefe del Puesto de Salud Salinas Moche, en Moquegua, Perú.  
 
 ### Experiencia de investigación

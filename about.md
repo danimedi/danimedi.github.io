@@ -64,7 +64,7 @@ I completed my undergraduate studies in Human Medicine in 2023. I am now a licen
   - *Introduction to Linear Models and Matrix Algebra*  
   - *Statistical Inference and Modeling for High-throughput Experiments*  
   - *High-Dimensional Data Analysis*  
-
+<br>
 - September 2020  
   ICH **Good Clinical Practice** E6 (R2)  
 
@@ -78,7 +78,7 @@ I completed my undergraduate studies in Human Medicine in 2023. I am now a licen
   - *Excel (March 2020)*  
   - *PowerPoint (February 2022)*  
   - *Outlook (March 2022)*  
-
+<br>
 - August 2022  
   GPH001: **Global Public Health**, SDGAcademyX  
 
@@ -96,7 +96,7 @@ I completed my undergraduate studies in Human Medicine in 2023. I am now a licen
   - Listening: 29/30  
   - Speaking: 25/30  
   - Writing: 28/30  
-
+<br>
 - November 2022  
   **USMLE Step 2** score: *255*  
 
