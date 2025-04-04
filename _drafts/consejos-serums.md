@@ -26,7 +26,7 @@ Si tuviera que comenzar el SERUMS de nuevo, me recomendaría ...
 - Digitalización: conversar desde temprano para poder hacer todo de forma virtual (HIS y FUAs)
 - Digitalizar historias clínicas, es algo que tuve que implementar, absolutamente necesario
 - Automatizar papeleo: utilizar programas para llenado de HIS y todo lo que se pueda (se puede conectar con la base de datos de familias)
-- Tener manuales a la mano
+- Tener manuales a la mano: en físico y virtuales
 - El Refcon es un gran aliado, tiene varias funciones interesantes (ej. diagnósticos y códigos de medicamentos)
 
 ## Logística
