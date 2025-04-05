@@ -67,10 +67,10 @@ o peor,
 que rompa mi vida.  
 Ahora que me siento tan frágil  
 me doy cuenta que soy egoísta  
-y aún así la soledad me lastima.  
+y aun así la soledad me lastima.  
 <br>
 Quizá tenga algo de narcisista en mí,  
-y aún así estoy aquí de rodillas  
+y aun así estoy aquí de rodillas  
 suplicando en silencio  
 una nueva oportunidad.  
 A veces quisiera comenzar de cero,  
