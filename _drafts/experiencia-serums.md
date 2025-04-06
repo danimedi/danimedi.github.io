@@ -1,6 +1,6 @@
 ---
 title:  "Mi experiencia en el SERUMS"
-date: 2025-04-06
+date: 
 permalink: /blog/experiencia-serums/
 categories: [Anécdotas, Medicina]
 tags: []
@@ -9,7 +9,7 @@ excerpt: "Breve narración de mi experiencia realizando el SERUMS y cómo termin
 layout: post
 image: /assets/images/
 published: true
-last_modified_at: 2025-04-06
+last_modified_at: 
 redirect_from:
 ---
 No he hablado mucho de mi plaza del SERUMS y de cómo terminé aquí, en realidad no me resulta tan interesante contar mi historia, siento que no es particularmente especial y me interesa mucho más invertir tiempo en historias de otras personas que siento que tienen más que contar que yo. Es lo que he estado haciendo en mi [podcast sobre el SERUMS](https://youtube.com/playlist?list=PLiR4mMxzSHWgkxuhJ1kJAxUWqtDfO-PXa&si=g-Enk2okZKQg_qzp) y es algo que me está gustando realizar.
@@ -132,4 +132,4 @@ La experiencia en el SERUMS va a ser muy diferente para cada uno. Durante el añ
 
 Para aquellos (como yo) que tengan temor de realizar alguna pregunta en público, les dejo mis contactos para que puedan realizarme alguna pregunta adicional que tengan.
 
-Lo mencionado en esta presentación puede encontrarse en un post que hice en mi página web, para que puedan consultar esta información más adelante si lo requieren. También los invito a darle un vistazo a mi podcast "SERUMS - Desde cada rincón" por si les interesa.
+Lo mencionado en esta presentación puede encontrarse en un post que hice en mi página web, para que puedan consultar esta información más adelante si lo requieren. También los invito a darle un vistazo a mi [podcast "SERUMS - Desde cada rincón"](https://youtube.com/playlist?list=PLiR4mMxzSHWgkxuhJ1kJAxUWqtDfO-PXa&si=GmK3nFHPzdea_xZp) por si les interesa.
