@@ -27,6 +27,8 @@ Si tuviera que comenzar el SERUMS de nuevo, me recomendaría ...
 - Digitalizar historias clínicas, es algo que tuve que implementar, absolutamente necesario
 - Automatizar papeleo: utilizar programas para llenado de HIS y todo lo que se pueda (se puede conectar con la base de datos de familias)
 - Tener manuales a la mano: en físico y virtuales
+- Memorizar códigos más usados para acelerar algunos papeleos (CIE-10, códigos prestacionales, etc.)
+- Memorizar dosis de medicamentos más usadas
 - El Refcon es un gran aliado, tiene varias funciones interesantes (ej. diagnósticos y códigos de medicamentos)
 
 ## Logística
@@ -37,12 +39,15 @@ Si tuviera que comenzar el SERUMS de nuevo, me recomendaría ...
 
 - Tener contactos a la mano resulta conveniente: fiscalía, policías, personal de la microrred, personal del SIS (aseguramiento de pacientes y FUAs), encargados de estrategias, médico legista, abogados de Colegio Médico, alcalde y municipio, personal de construcción del Gobierno Regional, pobladores (incluyendo en anexos), buses, señora de la tienda al lado de los buses, personal de estadística, Central de Interpretación y Traducción, directores de colegios, profesores, teléfonos de referencias de hospitales.
 
+        Buscar estos contactos en Notion y brindarlos de forma ordenada.
+
 ## Atención médica
 
 - Estudiar temas de patologías o problemas de salud prevalentes en el lugar (ej. exposición crónica a arsénico, mal de altura)
 - Practicar atención médica con enfoque en la prevención y promoción de salud (simulaciones como propuso Kimberly en el podcast)
 - Mantener humildad y no parar de aprender
 - Una buena manera de aprender es enseñando, organizar actividades académicas es una buena iniciativa
+- Tener a la mano scores útiles (Centor score, manejo de deshidratación) y actividades de prevención que corresponden según edad, sexo y tipo de paciente (tamizajes, vacunas, consejería, etc.)
 
 ## Fallecimientos
 

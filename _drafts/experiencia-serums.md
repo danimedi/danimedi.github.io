@@ -1,0 +1,135 @@
+---
+title:  "Mi experiencia en el SERUMS"
+date: 2025-04-06
+permalink: /blog/experiencia-serums/
+categories: [Anécdotas, Medicina]
+tags: []
+author: DaniMedi
+excerpt: "Breve narración de mi experiencia realizando el SERUMS y cómo terminé en el lugar en donde estoy"
+layout: post
+image: /assets/images/
+published: true
+last_modified_at: 2025-04-06
+redirect_from:
+---
+No he hablado mucho de mi plaza del SERUMS y de cómo terminé aquí, en realidad no me resulta tan interesante contar mi historia, siento que no es particularmente especial y me interesa mucho más invertir tiempo en historias de otras personas que siento que tienen más que contar que yo. Es lo que he estado haciendo en mi [podcast sobre el SERUMS](https://youtube.com/playlist?list=PLiR4mMxzSHWgkxuhJ1kJAxUWqtDfO-PXa&si=g-Enk2okZKQg_qzp) y es algo que me está gustando realizar.
+
+Probablemente no termine haciendo ningún episodio sobre mi plaza, principalmente porque se me haría un poco extraño entrevistarme a mí mismo o tener un episodio en mi podcast en el que yo sea el invitado. Sin embargo, hace un par de días me contactó una compañera que forma parte del Comité del Médico Joven del Colegio Médico del Perú, en Arequipa. Me invitó a participar de una actividad con la idea de compartir mi historia, hablar sobre mi plaza y poder conversar un rato con aquellos médicos recientemente colegiados que iniciarán su SERUMS pronto (en menos de un mes). Me sentí muy halagado al ser considerado para esta actividad y acepté participar.
+
+Me dijeron que la presentación probablemente sea la próxima semana y me dijeron que el tiempo que tengo es 15 minutos para mencionar lo que tenga que mencionar. Así que el día de hoy comencé a avanzar un poco con mis diapositivas. El tema es que me gusta mucho más escribir que hablar y siento que si escribo algún guion será más sencillo para mí exponer luego las cosas que quiero mencionar, mucho más que haciendo diapositivas directamente.
+
+Así que escribiré un pequeño post mencionando las cosas que quiero decir y aprovechar esta situación para compartir también mi experiencia con alguien que pueda estar interesado.
+
+Comencemos.
+
+----
+
+## Introducción
+
+Mi nombre es Daniel Medina, soy médico completando mi SERUMS en el proceso 2024-I. Nací y crecí la mayor parte de mi vida en Arequipa, estudié en el Colegio La Salle, estudié mi pregrado en la Universidad Católica de Santa María y mi internado lo realicé en el Hospital Nacional Edgardo Rebagliati Martins en Lima. El día de hoy les contaré brevemente la historia de cómo terminé realizando mi SERUMS en el Puesto de Salud Salinas Moche.
+
+## Ubicación
+
+Primero, quisiera ponerlos un poco en contexto geográfico. Mi plaza se ubica junto a la laguna Salinas. Geográficamente se ubica en el departamento de Arequipa, pero se considera Moquegua desde el punto de vista administrativo y de gobernanza. El centro poblado es considerado como parte del distrito de Puquina, de Moquegua, y tanto la municipalidad y la red de salud del lugar forman parte de Moquegua.
+
+Una ventaja de esto es que recibo bono por zona alejada y fronteriza (ZAF) a pesar de estar bastante cerca a Arequipa, ya que no es un lugar alejado de Arequipa, pero sí de Moquegua.
+
+![](/assets/images/mapa-arequipa-salinas-moche.png)
+
+El lugar tiene acceso a través de una vía que en su mayor parte es afirmada. Hay transporte público disponible (buses) todos los días. La duración del viaje es de dos horas. El horario de salida de Arequipa es a las 7 am, parten del grifo Chambilla, que se encuentra cerca a los baños termales de Jesús. De regreso, el bus pasa habitualmente por Salinas Moche a la 1 pm.
+
+## ¿Cómo terminé aquí?
+
+Todo se remonta a la época del final de mi internado. Habíamos recibido los resultados del examen del ENAM y, en ese entonces, este examen representaba el 70% del puntaje utilizado para realizar el ranking de adjudicación a nivel nacional para las plazas del SERUMS (no existía el examen SERUMS). Sabiendo que eventualmente iba a tener que elegir una plaza SERUMS le pedí un poco de apoyo a algunos amigos y familiares que me fueran averiguando lugares buenos. Para esto, busqué la base de datos de plazas ofertadas del proceso 2023-I y le mandé capturas de pantalla a mi mamá, algunos residentes que provenían de otros departamentos (ej. Puno) y a algunos tíos.
+
+Fue así que recibí recomendaciones de qué lugares consideraban como buenos y qué lugares no, y fue por ese entonces (por noviembre o diciembre de 2023) que por primera vez escuché de Salinas Moche. Fue mi mamá quien me habló de la existencia de ese lugar, me dijo que era un lugar bastante cerca y que cumplía con las características que le di (de preferencia grado de dificultad 5).
+
+Terminé el internado, averigüé por mi cuenta de ese y otros lugares y realicé una lista de 37 plazas. Anoté estas plazas, así como los criterios de selección y las preguntas por realizar a los Serumistas anteriores en [esta página de Notion](https://danimedi.notion.site/Selecci-n-de-la-plaza-3420eb1ed6ce45f69b8ca43cfd2936c8?pvs=4). En realidad Salinas Moche fue mi primera opción, estas eran las diez primeras plazas que estaba considerando:
+
+1. Salinas Moche
+2. CAP 1 Laraqueri
+3. Chalhuanca
+4. CAP 1 Tarata
+5. Posta Médica Huancané
+6. Cabanillas
+7. Capachica
+8. Llachón
+9. Soraza
+10. Santa Rosa de Yanaque
+
+### Dilema del MINSA vs. EsSalud
+
+Al final revisé más plazas de las que necesitaba, porque cuando se publicó el ranking de adjudicación por orden de mérito estaba en el puesto 25 a nivel nacional, así que estaba en una buena posición. En esa situación sí tenía la opción de poder escoger entre el MINSA y EsSalud, ambos en grado de dificultad 5 y en lugares que consideraba adecuados. Durante mi proceso de toma de decisión mi principal debate interno fue decidir entre MINSA y EsSalud. En aquel entonces manejaba la información que en el MINSA iba a poder juntar días libres y que iba a tener menos carga laboral y más tiempo disponible para mí, mientras que en EsSalud iba a tener más ingresos económicos y un horario fijo.
+
+Finalmente decidí darle cierta preferencia al MINSA por algunos temas personales, como el hecho de poder programar un examen importante que quería dar en Lima durante el SERUMS y quería tener esa facilidad de poder programar mi examen y realizar el viaje con mayor flexibilidad. Otros motivos eran poder tener más tiempo para avanzar con algunas cosas que quería realizar durante mi SERUMS, como poder realizar algunos proyectos de investigación y estudiar para algunas otras cosas.
+
+¿Fue una decisión correcta? La verdad no lo sé. Mi primer mes del SERUMS fue difícil para mí, casi traumático. Terminando ese mes estaba convencido de que había cometido un error en mi elección y me sentí mal conmigo mismo por haber tomado esa decisión, sentía que mejor hubiera estado en EsSalud. Posteriormente, las cosas mejoraron, pero siempre he tenido cierto sentimiento de duda de "qué hubiera sido". Creo que no es saludable pensar en eso, pero sí considero importante que otras personas entiendan un poco más de las diferencias que existen en diferentes plazas para tomar una mejor decisión. Motivado por mi experiencia personal y por otros motivos decidí realizar un podcast sobre el SERUMS, hace poco hice un video conversando con una amiga sobre las diferencias entre el MINSA y EsSalud, si les interesa pueden darle un vistazo.
+
+## Detalles de mi plaza
+
+Conversando con algunos compañeros, no es poco común el sentimiento de haber escogido mal la plaza del SERUMS. Sin embargo, considero que es importante aprender a "pasar la página". Una vez que se tomó una decisión, debemos asumir las cosas que correspondan. Gran parte de la experiencia del SERUMS la hace uno mismo y está en nuestras manos hacer lo posible para maximizar las cosas positivas de la plaza y minimizar las cosas negativas.
+
+Entonces, ¿en qué plaza terminé finalmente? De forma muy sucinta los detalles son los siguientes:
+
+**Plaza SERUMS remunerada – Medicina**  
+**Establecimiento:** Puesto de Salud Salinas Moche (I-1), **MINSA**, **Microrred Ubinas**, **Red Moquegua**  
+**Ubicación:** Puquina, General Sánchez Cerro, Moquegua (4300 m s. n. m.)
+
+- **Acceso:** 2 horas desde Arequipa en bus (pasaje cuesta 12 soles), ruta afirmada. Buses diarios.  
+- **Clima:** Seco y frío (0–10 °C), lluvias fuertes en diciembre-febrero.  
+- **Servicios:** Sin señal móvil, pero con WiFi comunal; electricidad irregular en lluvias; agua no potable (con presencia de arsénico).  
+- **Infraestructura:** Establecimiento nuevo (2024), equipos nuevos, sin ambulancia.  
+- **Carga laboral:** 4–6 pacientes/día (muy variable dependiendo de la temporada). 20 días trabajados al mes (resto de días son libres y pueden acumularse todos). Médico SERUMS suele ser jefe del establecimiento.  
+- **Anexos:** Santa Lucía (visita semanal, mayor volumen de pacientes), Logén (visita mensual, menor volumen de pacientes).  
+- **Patologías frecuentes:** IRAs, EDAs, mal de altura, obesidad, caries; problema principal: exposición a arsénico.  
+- **Emergencias:** Raras, sin ambulancia cercana (Ubinas a 2 h). Apoyo comunitario o de minera Inkabor.  
+- **Seguridad:** Coordinación con comisarías de Santa Lucía y Puquina.  
+- **Economía:** Bono ZAF, gastos bajos, pagos puntuales.  
+- **Ambiente:** Ambiente laboral aceptable, entorno natural atractivo (laguna, vicuñas, parihuanas).  
+- **Reto:** Establecimiento nuevo, temas pendientes (ej. pago de luz 2024).
+
+Si desean más detalles pueden consultar la reseña que escribí en Facebook o preguntarme directamente (al final dejaré mi contacto).
+
+## Rutina
+
+El SERUMS suele ser un cambio grande en la vida diaria de uno, cuando estoy por Salinas Moche usualmente me levanto a las 5 am para estudiar hasta las 6:30 am, luego suelo hacer un poco de ejercicio hasta las 7:15 am, de ahí me baño y me alisto para poder abrir el establecimiento de salud a las 8 am. Suelo ya estar en mi consultorio a las 8 am, independientemente de si tengo turno o no, porque el internet es más estable ahí que en otros lados y también me acostumbra a tener un horario más fijo. Durante el día realizo diferentes actividades, tales como atender a los pacientes que vengan por consulta externa, realizar visitas domiciliarias a pacientes con enfermedades crónicas si lo requieren, realizar informes o llamadas para coordinar alguna actividad, visitar algún anexo (semanalmente a Santa Lucía, mensualmente a Logén), o trabajar en otros proyectos pendientes o en problemas que aparezcan. Almuerzo alrededor de las 2 pm y cierro el establecimiento a las 8 pm.
+
+Dentro de todo he podido acostumbrarme a la rutina y me ha permitido poder trabajar en varias cosas.
+
+## Consejos
+
+Durante el SERUMS he podido aprender mucho, no me daría el tiempo para poder decir todo, pero me gustaría mencionar puntualmente algunas cosas.
+
+### Cómo escoger una plaza
+
+- Establecer las prioridades que tenemos de antemano es el punto más importante para escoger luego una plaza.
+- Considerar la seguridad (en el transporte y en el lugar) y el ambiente laboral en los criterios de elección.
+- Investigar un número razonable de plazas de acuerdo a nuestra posición en el ranking.
+- En lo posible, conversar con Serumistas anteriores para preguntarles directamente por información de la plaza.
+- Registrar en una base de datos las plazas y la información disponible para revisarlas y ordenarlas de acuerdo a orden de preferencia.
+- Una vez tengamos la lista definitiva, no cambiarla el día de la adjudicación.
+- No mirar atrás una vez que se escogió una plaza, sino trabajar para maximizar los aspectos positivos y minimizar los aspectos negativos.
+- No existe una plaza perfecta.
+
+En [este otro post]({{ "/blog/seleccionando-plaza-serums/" | relative_url }}) pueden encontrar más información sobre cómo escoger una plaza del SERUMS.
+
+### Durante el SERUMS
+
+- Revisar la asignación de funciones y tener en claro qué cosas te corresponden y qué cosas no.
+- Tener en claro las metas y el plan de salud local.
+- Intentar digitalizar lo más que se pueda: HIS, VEA, base de datos de historias clínicas, FUAs.
+- Conocer los medicamentos con los que se cuenta y tener una lista a la mano con sus códigos.
+- Memorizar los códigos más usados, como CIE-10, procedimientos, códigos prestacionales.
+- Tener contactos importantes: fiscalía, policías, personal de la microrred, personal del SIS (aseguramiento de pacientes y FUAs), encargados de estrategias, médico legista, abogados de Colegio Médico, alcalde y municipio, personal de construcción del Gobierno Regional, pobladores (incluyendo en anexos), buses, señora de la tienda al lado de los buses, personal de estadística, Central de Interpretación y Traducción, directores de colegios, profesores, teléfonos de referencias de hospitales.
+- Estudiar llenado de certificados de defunción y levantamiento de cadáveres, leer la [Guía técnica para el correcto llenado del certificado de defunción](https://www.gob.pe/institucion/minsa/informes-publicaciones/279679-guia-tecnica-para-el-correcto-llenado-del-certificado-de-defuncion).
+- Los problemas son parte del trabajo, es importante enfrentarlos y asumirlos con responsabilidad.
+
+En [este otro post]({{ "/blog/consejos-serums/" | relative_url }}) pueden encontrar más información sobre consejos durante el SERUMS.
+
+## Preguntas y contacto
+
+La experiencia en el SERUMS va a ser muy diferente para cada uno. Durante el año se encuentran retos y problemas propios del lugar en donde estemos. Espero que esta breve presentación pueda servir como una pequeña ayuda para alguno. Ahora, es su momento para realizar las preguntas que quieran respecto a este tema o cualquier otro tema y poder conversar un momento.
+
+Para aquellos (como yo) que tengan temor de realizar alguna pregunta en público, les dejo mis contactos para que puedan realizarme alguna pregunta adicional que tengan.
+
+Lo mencionado en esta presentación puede encontrarse en un post que hice en mi página web, para que puedan consultar esta información más adelante si lo requieren. También los invito a darle un vistazo a mi podcast "SERUMS - Desde cada rincón" por si les interesa.
