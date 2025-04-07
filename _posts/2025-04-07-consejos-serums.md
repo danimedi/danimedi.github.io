@@ -56,6 +56,8 @@ Por aquí comparto el archivo Excel que creé para el VEA:
 
 Y también comparto el código en [R](https://www.r-project.org/) del programa para evaluar los avances de los planes de atención integral a partir de las bases de datos brindadas en la [página web de la DIRESA](https://www.gob.pe/regionmoquegua-diresa) ([Monitoreo DIRESA](https://drive.google.com/drive/folders/1j38l16exwTSGAddOB2E-aa-duptjGjf7)):
 
+*Nota: no es necesario entender el código en R que se presenta ahora, la idea es que, al tener cosas digitales, se pueden usar herramientas digitales para automatizar procesos.*
+
 ```r
 library(readxl)
 library(dplyr)
@@ -111,7 +113,15 @@ datatable(res_db, options = list(pageLength = 60))
 saveWidget(datatable(res_db, options = list(pageLength = 60)), output_file)
 ```
 
-Lógicamente, este código puede mejorarse y también pueden utilizarse otros lenguajes de programación para realizar la misma función. También, existen algunos otros programas que fui creando durante el SERUMS, pero diría que son más específicos para mi establecimiento. Como idea general considero que vale la pena intentar utilizar estas herramientas de digitalización que permiten luego poder automatizar otros procesos.
+Lógicamente, este código puede mejorarse y también pueden utilizarse otros lenguajes de programación para realizar la misma función.
+
+Otras formas de automatizar algunas actividades es crear documentos (ej. atención médica en historia clínica) a partir de bases de datos (ej. archivo en Excel) para poder generar varios documentos al mismo tiempo solamente cambiando los detalles que los diferencian entre sí. Esto puede ser de utilidad en caso se realice una gran campaña y haya que registrar un elevado número de atenciones en las historias clínicas de diferentes personas. Un método como este permitiría registrar los datos obtenidos en una base de datos, generar a partir de esta los documentos para cada paciente a partir de la información obtenida y luego simplemente imprimir todo. Algunas formas de realizar esto son:
+
+- [Combinar correspondencia en Word](https://youtu.be/chj0ckN0suw?si=dQczW9UPCodZbGm6)
+- [Librería python-docx de Python](https://youtu.be/Zy9sx4GvjUY?si=Cs1sn-bUGZ_Ot-Xn)
+- [Paquete officer en R](https://youtu.be/RkWoi57p-Bo?si=_U5PvV5OHM56olge)
+
+También, existen algunos otros programas que fui creando durante el SERUMS, pero diría que son más específicos para mi establecimiento. Como idea general considero que vale la pena intentar utilizar estas herramientas de digitalización que permiten luego poder automatizar otros procesos.
 
 ## Logística
 
