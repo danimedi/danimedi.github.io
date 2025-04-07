@@ -7,7 +7,7 @@ tags: []
 author: DaniMedi
 excerpt: "Consejos que me daría a mí mismo si tuviera que comenzar el SERUMS nuevamente"
 layout: post
-image: /assets/images/laguna-salinas-moche-pampa.jpg
+image: /assets/images/ps-salinas-moche-adulto-mayor.jpeg
 published: true
 last_modified_at: 2025-04-07
 redirect_from:

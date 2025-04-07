@@ -7,7 +7,7 @@ tags: []
 author: DaniMedi
 excerpt: "Método y comentario personal de cómo escoger una plaza SERUMS"
 layout: post
-image: /assets/images/ps-salinas-moche-adulto-mayor.jpeg
+image: /assets/images/laguna-salinas-moche-misti.jpg
 published: true
 last_modified_at: 2025-04-04
 redirect_from:
