@@ -1,6 +1,6 @@
 ---
 title:  "Mi experiencia en el SERUMS"
-date: 2025-04-08
+date: 2025-04-09
 permalink: /blog/experiencia-serums/
 categories: [Anécdotas, Medicina]
 tags: []
@@ -9,7 +9,7 @@ excerpt: "Breve narración de mi experiencia realizando el SERUMS y cómo termin
 layout: post
 image: /assets/images/salinas-moche-plaza-oscuro.jpg
 published: true
-last_modified_at: 2025-04-08
+last_modified_at: 2025-04-09
 redirect_from:
 ---
 No he hablado mucho de mi plaza del SERUMS y de cómo terminé aquí, en realidad no me resulta tan interesante contar mi historia, siento que no es particularmente especial y me interesa mucho más invertir tiempo en historias de otras personas que siento que tienen más que contar que yo. Es lo que he estado haciendo en mi [podcast sobre el SERUMS](https://youtube.com/playlist?list=PLiR4mMxzSHWgkxuhJ1kJAxUWqtDfO-PXa&si=g-Enk2okZKQg_qzp).
