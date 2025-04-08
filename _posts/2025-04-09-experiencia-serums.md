@@ -67,7 +67,7 @@ Al final revisé más plazas de las que necesitaba, ya que, cuando se publicó e
 
 Finalmente, decidí darle cierta preferencia al MINSA por dos motivos principales: (1) poder tener la flexibilidad de días libres necesaria para dar un examen ([OET]({{ "blog/examen-oet-preparacion-experiencia/" | relative_url }})) durante el año y (2) poder tener más tiempo para realizar algunos proyectos durante el SERUMS (principalmente relacionados a investigación y estudio).
 
-¿Fue una decisión correcta? La verdad no lo sé. Mi primer mes del SERUMS fue muy difícil, casi traumático. Terminando ese mes estaba convencido de que había cometido un error en mi elección y me sentí mal conmigo mismo, sentía que mejor hubiera estado en EsSalud. Posteriormente, las cosas mejoraron, pero siempre he tenido cierto sentimiento de duda de "qué hubiera sido". Creo que no es saludable pensar en eso, pero sí considero importante que otras personas entiendan un poco más de las diferencias que existen en diferentes plazas para tomar una mejor decisión. Motivado por mi experiencia personal y por otros motivos decidí realizar un [podcast sobre el SERUMS](https://youtube.com/playlist?list=PLiR4mMxzSHWgkxuhJ1kJAxUWqtDfO-PXa&si=Xd6u_yxG7DOgwnzv). Justamente hace poco hice un video conversando con una amiga sobre las diferencias entre el MINSA y EsSalud, si les interesa pueden darle un vistazo.
+¿Fue una decisión correcta? La verdad no lo sé. Mi primer mes del SERUMS fue muy difícil, casi traumático. Terminando ese mes estaba convencido de que había cometido un error en mi elección y me sentí mal conmigo mismo, sentía que mejor hubiera estado en EsSalud. Posteriormente, las cosas mejoraron, pero siempre he tenido cierto sentimiento de duda de "qué hubiera sido". Creo que no es saludable pensar en eso, pero sí considero importante que otras personas entiendan un poco más de las diferencias que existen en diferentes plazas para tomar una mejor decisión. Motivado por mi experiencia personal y por otros motivos decidí realizar un [podcast sobre el SERUMS](https://youtube.com/playlist?list=PLiR4mMxzSHWgkxuhJ1kJAxUWqtDfO-PXa&si=Xd6u_yxG7DOgwnzv). Justamente hace poco hice un [video conversando con una amiga sobre las diferencias entre el MINSA y EsSalud](https://youtu.be/DnPFUq1RiNE), si les interesa pueden darle un vistazo.
 
 ## Detalles de mi plaza
 
@@ -98,7 +98,7 @@ Entonces, ¿en qué plaza terminé finalmente? De forma muy sucinta los detalles
 
 </div>
 <br>
-Si desean más detalles pueden consultar la reseña que escribí en Facebook o preguntarme directamente (al final dejaré mi contacto).
+Si desean más detalles pueden consultar la [reseña que escribí en Facebook](https://www.facebook.com/share/p/1EBt9S49Cq/) o preguntarme directamente (al final dejaré mi contacto).
 
 ## Rutina
 
