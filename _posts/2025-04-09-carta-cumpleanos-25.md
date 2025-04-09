@@ -2,9 +2,7 @@
 title: Carta de cumpleaños
 date: 2025-04-09
 permalink: /blog/carta-cumpleanos-25/
-categories:
-  - Escritos
-  - Pensamientos
+categories: [Pensamientos]
 tags: 
 author: DaniMedi
 excerpt: Lectura y respuesta a mi carta de cumpleaños realizada por mí un año atrás
