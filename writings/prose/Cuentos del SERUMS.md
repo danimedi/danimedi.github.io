@@ -1,0 +1,25 @@
+- Salinas Moche: cómo mi madre predijo el lugar y cómo mis familiares influyeron 
+- La terraza mexicana: amigos nuevos y antiguos, amigos del colegio, del internado. Finalmente soy adulto 
+- La perspectiva de un foráneo 
+- Habitación y rutina 
+- Roberto: toda comida es bienvenida 
+- La fiesta de Saúl: recuerdos y mi posición actual de las fiestas 
+- Bofedales: historia de los muertos y el levantamiento de cadáver, final en silencio 
+- Entierro: formar parte de una tradición real 
+- Ubinas 
+- Cumpleaños de Paulo: conversación y sexo 
+- Entre cerros y palmeras: viajes entre Salinas Moche y Costa Palmeras, contraste de situaciones 
+- Maní con pasas: pasar hambre luego de la partida de Roberto 
+- Mudanza: dificultades y ventajas de vivir en el puesto 
+- Volviendo a Lima: planificando fecha para ir a Lima a dar examen y encontrar amigos, para al final ir solo 
+- Examen de inglés: expectativas y experiencia 
+- Richard: conversación con Richard 
+- Jurado: reflexión sobre categorizar e interpretar arte, pensamiento sobre concurso de belleza 
+- Cuando se acumulan las cosas: brote de varicela, embarazo adolescente, nueva gestante, emergencias, informes, salida de SERUMS antigua 
+- Juegos deportivos en Moquegua 
+- Mamás solteras: experiencia con chicas simpáticas que son madres solteras 
+- Trabajando solo: mala programación de turnos, dificultades para trabajar en equipo 
+- Nuevo equipo
+- Podcast
+- Bipolar
+- Adiós

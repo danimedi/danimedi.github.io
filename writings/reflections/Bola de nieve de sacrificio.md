@@ -1,0 +1,11 @@
+- Poner esfuerzo en algo es necesario para crecer como persona 
+- En este post quiero mencionar una idea, que el esfuerzo que uno pone en algo no se pierde, incluso cuando la actividad a la que uno le puso mucho esfuerzo y sacrificio ya no sea realizada 
+- Durante mi vida sacrifiqué muchas cosas para hacer mejor otras: varios deportes, natación, estudios 
+- Dejar de hacer algo se siente como comenzar de cero, es difícil lidiar con eso. Yo me sentí mal por volver a comenzar las cosas, sentimientos de haber perdido mucho tiempo, de no alcanzar el máximo potencial que se hubiera alcanzado si se hubiera comenzado antes, arrepentimientos por poner esfuerzo en cosas que no salieron bien 
+- La vida está llena de tropiezos, fracasos y nuevos comienzos (poner ejemplos de proyectos fallidos y objetivos no cumplidos; como mi sueño de formar parte de la selección nacional de natación) 
+- El esfuerzo y posterior sacrificio no se pierden cuando se cambia una cosa por la otra, es una fuerte motivación 
+- Cuando lo extraordinario se vuelve lo normal, significa que mejoramos 
+- Cómo dejar la natación me motivó a estudiar medicina mejor 
+- Ahora he pensado dedicarme a otras cosas, siento que no es comenzar de cero, mi capacidad de esforzarme está aún ahí, no es poca cosa 
+- "Escoge tu sacrificio", ahora tengo algunos sacrificios que quizá en muchos años no tengan ningún significado (ej. prepararme para el Step 2), incluso puede que los vea como tontos, pero para mí son la gran cosa ahora, aún así perseguirlos es importante para poder crecer como persona y mejorar mi capacidad de realizar grandes esfuerzos de forma sostenida 
+- Es una bola de nieve, uno le da gran valor a las cosas a las que uno le ha puesto gran esfuerzo. Luego, cuando uno sacrifica aquello en lo que ha trabajado tanto suele hacerlo por algo en lo que está dispuesto incluso a sacrificar más cosas, poner más esfuerzo, y así sucesivamente.

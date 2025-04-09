@@ -1,0 +1,6 @@
+- Contar historia de una conversación/discusión con mi papá en la que le dije: "Yo hago y siempre he hecho en esta casa lo que he querido". 
+- Todos hacemos lo que queremos, incluso cuando no "somos libres". Se podría decir algo controversial, los esclavos también hacen lo que quieren. 
+- Todos tenemos cierta libertad, pero no es ilimitada. Ejemplos. 
+- Tener opciones u oportunidades no significa tener libertad. Esto puede dar ilusión de libertad. Ej. grupos desaventajados. 
+- ¿Cuánta libertad tenemos? 
+- Lectura relacionada: post "Amor y libertad"
