@@ -12,15 +12,13 @@ Versión en inglés: [About me]({{ "/about/" | relative_url }})
   <img src="/assets/images/20211224_002701.jpg" height="350">
 </div><br>
 
-Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. Practicar deportes fue mi prioridad durante la mayor parte de mi vida, sin embargo ahora mi prioridad son los estudios.
-
-Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo el título de Médico Cirujano en Perú y me encuentro realizando mi SERUMS en el Puesto de Salud Salinas Moche, en el cual trabajo como médico y jefe del establecimiento. Inicié este trabajo en mayo de 2024 y terminaré en abril de 2025.
+Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. Practicar deportes fue mi prioridad durante la mayor parte de mi vida, sin embargo ahora mi prioridad son los estudios. Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo el título de Médico Cirujano en Perú.
 
 ## Cosas en las que estoy trabajando
 
-1. Médico SERUMS (2024-I) y jefe de establecimiento en el Puesto de Salud Salinas Moche.
-2. Adquiriendo experiencia y conocimientos en investigación para completar algunos proyectos y mejorar mi perfil como investigador.
-3. Podcast ["SERUMS - Desde cada rincón"](https://open.spotify.com/show/5zKn2IuA8PAWdPmB3RcqJn?si=cf0d5d737a0b4028), en el cual realizo conversaciones con personas realizando su SERUMS en diferentes lugares.
+1. Adquiriendo experiencia y conocimientos en investigación para completar algunos proyectos y mejorar mi perfil como investigador.
+2. Buscando oportunidades de experiencia clínica e investigación con el objetivo de realizar mi especialidad médica en Estados Unidos.
+3. Estudiando para dar el USMLE Step 3.
 4. Escribir y compartir contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
 
 ## Mi CV
@@ -113,7 +111,7 @@ Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo e
 
 ### Experiencia laboral
 
-- Mayo 2024 – presente  
+- Mayo 2024 – Abril 2025  
   Jefe del Puesto de Salud Salinas Moche, en Moquegua, Perú.  
 
 ### Experiencia de investigación
