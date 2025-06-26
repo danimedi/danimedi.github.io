@@ -67,7 +67,7 @@ that aggression, instead of affection,
 was the best way to make it last?  
 But it wasn't enough.  
 <br>
-They say that the road to hell feels like heaven,  
+They say the road to hell is paved like heaven,  
 and Lord,  
 I am starting to feel remorse.  
 I need a priest who can cleanse  
@@ -169,7 +169,8 @@ keeps this sickness from reaching my children’s own.
 ### Part II: Son
 
 <em>
-I heard someone crying down in the kitchen,  
+A sound cut the night —  
+a sob in the kitchen.  
 something was obviously wrong —  
 I noticed immediately.  
 <br>
@@ -188,8 +189,8 @@ We walked to the park in silence.
 I didn't understand what had happened,  
 but it didn't matter.  
 <br>
-We sat down on a park bench,  
-I noticed that my shoulder was drenched,  
+We sat down on a park bench.  
+Her tears soaked my shirt,  
 but I didn’t have the courage to look her in the eyes,  
 so I watched the sky.  
 How many minutes without saying a word?  
@@ -384,7 +385,7 @@ to settle for being his partner.
 I look at myself in the mirror and wonder   
 When did I lose himself?  
 Could I’ve done something better?  
-They say that the road to heaven feels like hell —  
+They say the road to heaven is paved like hell —  
 and Lord,  
 I don't think I'll withstand.  
 I wish for ignorance  
