@@ -13,7 +13,7 @@ last_modified_at:  2025-06-26
 redirect_from:
 ---
 
-This is a collection of three poems telling a story about infidelity within a family.
+This is a collection of three poems I wrote, telling a story of infidelity within a family.
 
 *Written with Karol's support.*
 
