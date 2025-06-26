@@ -421,11 +421,11 @@ I'd choose to stop thinking
 about when I became such a terrible mother.  
 <br>
 Oh Lord,  
-please hear my plea,  
-and transform my tears into holy water  
-to cleanse all of my sins and wrongs.  
-I wish you that my repentance  
-will bring back our beloved home.  
-I wish you that this bitter penitence  
-will keep this sickness from reaching our children’s own.  
+hear my plea —  
+turn my tears into holy water  
+to cleanse all these sins and wrongs.  
+May my repentance  
+restore our beloved home,  
+and may this bitter penance  
+keep the sickness from our children’s own.  
 </em>
