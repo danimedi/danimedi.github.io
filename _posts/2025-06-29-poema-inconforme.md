@@ -26,9 +26,11 @@ o la valla de mi estima está muy alta para mí.
 Y desde mi inseguridad  
 va brotando todo aquello  
 que me hace buscar más  
-para hacer lo que no puedo, pero anhelo  
+para hacer lo que no puedo,  
+pero anhelo  
 y me incita a ser capaz  
-de volverme todo aquello que no soy, pero que quiero.  
+de volverme todo aquello que no soy,  
+pero que quiero.  
 <br>
 Soy inseguro,  
 aunque ni estoy tan seguro,  
@@ -44,8 +46,7 @@ Y, aunque mi rol en el mundo
 no es algo que tenga claro,  
 es mi aspiración seguir cambiando  
 con cada fallo.  
-Descubrir los límites de mi capacidad  
-con mis fracasos,  
+Descubrir mis límites con mis fracasos,  
 cuestionando la plenitud de mi libertad  
 y vivir  
 con el único objetivo de ejercerla al máximo.  
