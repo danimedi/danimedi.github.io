@@ -15,8 +15,6 @@ redirect_from:
 
 This is a collection of three poems I wrote, telling a story of infidelity within a family.
 
-*Written with Karol's support.*
-
 ## A Family Malady
 
 ### Part I: Father
