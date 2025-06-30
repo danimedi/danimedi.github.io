@@ -36,7 +36,7 @@ Soy inseguro,
 aunque ni estoy tan seguro,  
 porque quizá no sea inseguridad lo que me aqueja,  
 sino inconformidad  
-de querer ser algo más,  
+por querer ser algo más,  
 alguien mejor.  
 Ese deseo profundo  
 de querer dejar de ser yo  
