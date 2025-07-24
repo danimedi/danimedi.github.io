@@ -24,7 +24,7 @@ I am texting fast and excitedly,
 my masculinity is taking over,  
 and my lust has possessed every inch of my body.  
 I will meet her for the first time this evening,  
-I deposited the money she asked for —  
+I deposited the money she asked for,  
 she told me that she was grateful,  
 that her sister needed it.  
 I booked a hotel room,  
@@ -36,7 +36,7 @@ We talked for some time;
 it wasn't only about sexual fantasies.  
 We talked about each other's days,  
 about our sentiments.  
-She needed some help with money —  
+She needed some help with money,  
 said she'd lost it through bad decisions.  
 Maybe I needed some help from a therapist  
 because my lust for her  
@@ -48,7 +48,7 @@ seeing ourselves as two souls
 that might be able to help each other.  
 <br>
 And we met, we laughed, we talked.  
-Two broken hearts falling in love —  
+Two broken hearts falling in love,  
 or so I thought.  
 <br>
 The room was too small,  
@@ -75,7 +75,7 @@ The love of my life was crying,
 my heart was broken but pounding,  
 heart-quakes at every moment,  
 my legs trembling, my head tumbling.  
-I was a coward one week ago —  
+I was a coward one week ago,  
 they didn’t catch me.  
 But I'm telling the truth now.  
 Why does it feel so painful?  
@@ -87,7 +87,7 @@ not even the slightest disappointment.
 It feels empty, like a stranger.  
 Maybe I’m hallucinating,  
 but I saw the same look  
-in the eyes of the hooker I've been with —  
+in the eyes of the hooker I've been with,  
 those empty eyes devoid of feeling,  
 those eyes of indifference  
 are the ones killing me.  
@@ -100,10 +100,10 @@ I see him as the monster
 and now I feel like the victim.  
 What the fuck am I thinking?  
 I just think I'd feel better  
-putting the blame on you — at least a little.  
+putting the blame on you, at least a little.  
 If your heart had been closer to mine,  
 the result would've been different.  
-I don't know why that should matter —  
+I don't know why that should matter,  
 the only truth is what happened.  
 <br>
 I can't stand him,  
@@ -120,7 +120,7 @@ How to proceed?
 I love my family, but I can't concede my free will.  
 We had a meeting between the three:  
 spouse, older son, and me.  
-She was mad — wanting me out of the house,  
+She was mad, wanting me out of the house,  
 screams and tears,  
 she was too emotional.  
 He, instead, protected me,  
@@ -133,10 +133,10 @@ and lose my authority to my son,
 or preserve my ego and lose my home.  
 <br>
 I don't know how he convinced her,  
-how he reached an agreement —  
+how he reached an agreement  
 to stay in the house,  
 to continue my life,  
-working, sleeping, and feeling at home again —  
+working, sleeping, and feeling at home again,  
 and cheating on her again.  
 <br>
 Looking in the mirror I question  
@@ -159,7 +159,7 @@ or if it's a defect of my soul.
 Oh Lord,  
 I'm starting to feel remorse.  
 I need a priest who can cleanse  
-all of my sins and wrongs —  
+all of my sins and wrongs,  
 hoping that my repentance  
 keeps this sickness from reaching my children’s own.  
 </em>
@@ -167,9 +167,9 @@ keeps this sickness from reaching my children’s own.
 ### Part II: Son
 
 <em>
-A sound cut the night —  
+A sound cut the night,  
 a sob in the kitchen.  
-something was obviously wrong —  
+something was obviously wrong,  
 I noticed immediately.  
 <br>
 She was there, in the darkness.  
@@ -179,7 +179,7 @@ She needed help, and I was there, at that moment.
 <br>
 I gave her a hug  
 and slowly removed the knife from her hand,  
-quietly telling her that she didn't need it —  
+quietly telling her that she didn't need it,  
 that it was too late at night to be having dinner.  
 She smiled, just a little.  
 <br>
@@ -202,7 +202,7 @@ I don't know what I did to deserve all of this".
 That broke my spirit.  
 My eyes welled, just a little,  
 but I had to keep my serenity,  
-show support, follow the protocol —  
+show support, follow the protocol,  
 be the man. She needed that.  
 Act as my father taught me.  
 <br>
@@ -216,7 +216,7 @@ So, there in the park, I promised
 to support her, stand by her side,  
 to become the man of the house,  
 to be loyal, to raise my siblings,  
-and to help financially — as best as I can.  
+and to help financially, as best as I can.  
 I told her I'd become a hooker if needed,  
 that I’d scam Dad or any other bad man  
 just to relieve her.  
@@ -224,7 +224,7 @@ We laughed hard, tears in our eyes,
 as the sun's first light pierced the veil of the night.  
 <br>
 We walked home in silence.  
-I didn't understand why it happened —  
+I didn't understand why it happened  
 and it really mattered.  
 Without understanding  
 I couldn't be sure  
@@ -261,20 +261,20 @@ But what if you had to deal with the same?
 And what if it's only a sickness?  
 I don't know what to believe.  
 I just want to know  
-if it needs to be treated —  
+if it needs to be treated  
 or only forgiven.  
 <br>
 Some years have passed,  
 insecurities have resurfaced,  
 and it's affecting my relationships  
 and the way I’m approaching women.  
-Love, as a feeling — I’ve felt it many times.  
+Love, as a feeling, I’ve felt it many times.  
 But I want to love as a promise.  
 Is it possible  
 to love without doing harm?  
 <br>
 It’s taking a toll.  
-Confidence is attractive —  
+Confidence is attractive,  
 but how could I be so sure  
 about not hurting a woman with my lust?  
 The psychologist told me  
@@ -301,13 +301,13 @@ I think about him.
 Looking in a mirror, I question  
 if I am in the wrong.  
 Maybe, at that moment, I’ll be able to just say no.  
-Maybe it's an addiction —  
+Maybe it's an addiction  
 and maybe I don't have it.  
 I know temptations are strong,  
 but maybe I can handle them.  
 Look at me,  
 look at my siblings,  
-look at my mother —  
+look at my mother,  
 we have existed, lived happily,  
 because he gave him a chance to create a family.  
 He made a bad action,  
@@ -332,7 +332,7 @@ I feel devastated; I’m crying hard,
 my tears falling onto his shoulder.  
 Despair has possessed every inch of my body.  
 <br>
-I looked at the sky — with closed eyes.  
+I looked at the sky with closed eyes.  
 I couldn’t bear the light of the night.  
 The darkness of my heart was deep.  
 Lord, I was ready to kill.  
@@ -345,8 +345,8 @@ I'm in pain,
 unable to process what happened.  
 My marriage: destroyed.  
 My world: shattered.  
-All the good, all the bad —  
-why me?  
+All the good, all the bad.  
+Why me?  
 I deserved nothing.  
 My head feels so loud,  
 but the night is so silent.  
@@ -372,7 +372,7 @@ of the wounds that he didn’t earn.
 <br>
 Some weeks have passed.  
 I don't think I've forgiven him.  
-He's now my slave — or it feels like it.  
+He's now my slave, or it feels like it.  
 I could do whatever I want to him,  
 never in my life have I held so much power,  
 but it didn’t matter.  
@@ -383,26 +383,26 @@ to settle for being his partner.
 I look at myself in the mirror and wonder   
 When did I lose himself?  
 Could I’ve done something better?  
-They say the road to heaven is paved like hell —  
+They say the road to heaven is paved like hell  
 and Lord,  
 I don't think I'll withstand.  
 I wish for ignorance  
 to take back the life that we used to have.  
 <br>
-He is sick — very sick.  
+He is sick, very sick.  
 Thinking that gives me comfort.  
 He is sick and needs help.  
 And I am his wife. I’m not a monster.  
 I can’t give up just like that,  
 I should fight.  
-Love is not a feeling — it is a promise.  
+Love is not a feeling, it is a promise.  
 <br>
 But looking in the mirror,  
 I ask if I’m doing right.  
 Deep inside, I know:  
 I’m selfish.  
 There is no need to lie behind these walls.  
-Together, we built so much —  
+Together, we built so much,  
 I don't want to lose an inch of it.  
 Deep inside, I don't want to be alone at the end.  
 It's more about me than it is for him.  
@@ -413,14 +413,14 @@ I'd move on and care about nothing.
 If I were younger,  
 I'd save my tears and find a new partner.  
 If I were honest,  
-I'd confess I want to punish him —  
+I'd confess I want to punish him,  
 to make him suffer… like I did.  
 If I could free myself from one thing,  
 I'd choose to stop thinking  
 about when I became such a terrible mother.  
 <br>
 Oh Lord,  
-hear my plea —  
+hear my plea,  
 turn my tears into holy water  
 to cleanse all these sins and wrongs.  
 May my repentance  
