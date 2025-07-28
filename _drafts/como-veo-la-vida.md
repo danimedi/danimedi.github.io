@@ -1,14 +1,14 @@
 Estos años he cambiado mi forma de pensar, diría que en gran medida y quiero escribir sobre algunos cambios importantes. 
 
-Primeramente quiero decir que cambiar de forma de pensar, incluso en los más profundo es natural y considero que es lógico. Sin embargo, en la actualidad existe la tendencia de criticar o ver como negativo a las personas que cambian drásticamente de ideología como si fuera algún pecado. Vemos con extrañeza que un político cambie de bando. Como si fuera posible tener las cosas claras desde que tenemos 20 años y tener la obligación de vivir el resto de nuestras vidas pensand lo mismo y discutiendo contra cualquiera que quiera hacernos ver que estamos equivocados. 
+Primeramente, quiero decir que cambiar de forma de pensar, incluso en los más profundo es natural y considero que es lógico. Sin embargo, en la actualidad existe la tendencia de criticar o ver como negativo a las personas que cambian drásticamente de ideología como si fuera algún pecado. Vemos con extrañeza que un político cambie de bando. Como si fuera posible tener las cosas claras desde que tenemos 20 años y tener la obligación de vivir el resto de nuestras vidas pensando lo mismo y discutiendo contra cualquiera que quiera hacernos ver que estamos equivocados. 
 
-Estos son algunos cambios en mi forma de pensar sibre algunas cosas. 
+Estos son algunos cambios en mi forma de pensar sobre algunas cosas. 
 
 ## La realidad de las cosas (metafísica) 
 
-En realidad no podría decir que haya cambiado mi forma de pensar en este aspecto, creo wue simplemente no he pensado nunca sobre esto. 
+En realidad no podría decir que haya cambiado mi forma de pensar en este aspecto, creo que simplemente no he pensado nunca sobre esto. 
 
-Diría que pensaba en las cosas de una manera que consideraba "científica, netamente materialista??. Es decir, las cosas están compuestas por materia, así como nosotros y nosotros como organismos vivos podemos percibir el mundo por la complejidad de nuestro sistema. Luego de tener conocimiento de las ideas de algunos filósofos como Sartre y Heidegger, así como ideas del esteucturalismo (que dicen que hay cosas que no podremos entender del universo), creo que las cosas cambiaron mucho en mi forma de comprender el mundo. 
+Diría que pensaba en las cosas de una manera que consideraba "científica, netamente materialista??. Es decir, las cosas están compuestas por materia, así como nosotros y nosotros como organismos vivos podemos percibir el mundo por la complejidad de nuestro sistema. Luego de tener conocimiento de las ideas de algunos filósofos como Sartre y Heidegger, así como ideas del estructuralismo (que dicen que hay cosas que no podremos entender del universo), creo que las cosas cambiaron mucho en mi forma de comprender el mundo. 
 
 Finalmente, la gota que rebalsó el vaso fueron las ideas de ..., física que explica fundamentos filosóficos específicos del universo y la vida y lo que ello significa. 
 
@@ -18,15 +18,15 @@ Si bien ahora veo la realidad de otro modo totalmente distinto, diría que mis a
 
 En realidad es una pregunta muy profunda que aún es motivo de discusiones filosóficas. Yo no soy filósofo, así que tengo bastante certeza de que no lograré contestar de forma definitiva esta pregunta a lo largo de mi vida. Será una duda que me acompañara por siempre. 
 
-Sin embargo, pienso que está bien pensar al respecto. He cambiado mi forma de pensar principalemente por influencias externas, especialmente a partir de ideas que ñude caltar de algunos filósofos. Diría que luego de escuchar sus ideas, tengo menos certeza que antes sobre el significado de mi vida. 
+Sin embargo, pienso que está bien pensar al respecto. He cambiado mi forma de pensar principalmente por influencias externas, especialmente a partir de ideas que pude captar de algunos filósofos. Diría que luego de escuchar sus ideas, tengo menos certeza que antes sobre el significado de mi vida. 
 
-Si me preguntaran cuál sería para mí la aproximación más exacta a lo que era para mí el significado de la vida hace algunos pocos años respondería que sería el video de Kuezgesagt sobre el optimismo nihilista. Sin embargo, ahora creo que hay más matices sobre este asunto, aunque en líneas generales no diría que haya cambiado radicalmente mi forma de pensar respecto a este tema. 
+Si me preguntaran cuál sería para mí la aproximación más exacta a lo que era para mí el significado de la vida hace algunos pocos años respondería que sería el video de Kurzgesagt sobre el optimismo nihilista. Sin embargo, ahora creo que hay más matices sobre este asunto, aunque en líneas generales no diría que haya cambiado radicalmente mi forma de pensar respecto a este tema. 
 
 ... 
 
 ## Motivo de mi vida 
 
-La premisa de mi vida anteriormente era simple: mi vida es para hacer el bien. El motivo: no quiero sufrir, por lo que debo evitar mi sufrimiento, una forma eficaz de evotar mi sufrimiento es hacer feliz a los demás, hacer feliz a los demás me quitará el sufrimiento a mí. Básicamente, un altruismo egoísta. 
+La premisa de mi vida anteriormente era simple: mi vida es para hacer el bien. El motivo: no quiero sufrir, por lo que debo evitar mi sufrimiento, una forma eficaz de evitar mi sufrimiento es hacer feliz a los demás, hacer feliz a los demás me quitará el sufrimiento a mí. Básicamente, un altruismo egoísta. 
 
 Si bien es una respuesta simple y convincente, creo que realmente no es algo que encapsule mi forma de actuar y enfocar la vida. Es más algo que me gustaría creer y tener presente, es más un ideal que una realidad que guíe mis pasos. 
 
