@@ -26,20 +26,25 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 ### Education
 
 - 2005-2016  
-  **School**: Colegio La Salle – Arequipa  
+  **School**: Colegio La Salle – Arequipa, Peru  
 
 - 2017-2023  
-  **Medical school** at *Universidad Católica de Santa María* – Arequipa  
+  **Medical school** at *Universidad Católica de Santa María* – Arequipa, Peru  
 
 - January – December 2023  
-  **Medical internship** at *Hospital Nacional Edgardo Rebagliati Martins* – Lima  
+  **Medical internship** at *Hospital Nacional Edgardo Rebagliati Martins* – Lima, Peru  
 
 - March 2024  
-  **Bachelor's degree** in Human Medicine issued by *Universidad Católica de Santa María*  
+  **Bachelor's degree** in Human Medicine issued by *Universidad Católica de Santa María* – Arequipa, Peru  
 
 - March 2024  
-  **Medical degree** issued by *Universidad Católica de Santa María*  
+  **Medical degree** issued by *Universidad Católica de Santa María* – Arequipa, Peru  
   _Ranked in the top 20% of my graduating class_  
+
+- August – September 2025  
+  **William J. Harrington Medical Training Programs**, *University of Miami Miller School of Medicine*  
+  *Visiting Physician, Observership*  
+  Cardiology Consults (Aug 2025) and Diagnostic Radiology (Sep 2025)  
 
 ### Certifications
 

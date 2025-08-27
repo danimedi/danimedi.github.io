@@ -29,17 +29,22 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   Estudios de educación primaria y secundaria en el **Colegio La Salle – Arequipa**  
 
 - 2017-2023  
-  Estudios universitarios de pregrado de **Medicina Humana** en la *Universidad Católica de Santa María* – Arequipa  
+  Estudios universitarios de pregrado de **Medicina Humana** en la *Universidad Católica de Santa María* – Arequipa, Perú  
 
 - Enero a diciembre 2023  
-  **Internado** de medicina humana en el **Hospital Nacional Edgardo Rebagliati Martins** – Lima  
+  **Internado** de medicina humana en el **Hospital Nacional Edgardo Rebagliati Martins** – Lima, Perú  
 
 - Marzo 2024  
-  Grado de **Bachiller** de Medicina Humana otorgado por la *Universidad Católica de Santa María*  
+  Grado de **Bachiller** de Medicina Humana otorgado por la *Universidad Católica de Santa María* – Arequipa, Perú  
 
 - Marzo 2024  
-  **Título de Médico Cirujano** otorgado por la *Universidad Católica de Santa María*  
+  **Título de Médico Cirujano** otorgado por la *Universidad Católica de Santa María* – Arequipa, Perú  
   _Alcanzando el quinto superior de la promoción_  
+
+- Agosto y Septiembre 2025  
+  **William J. Harrington Medical Training Programs**, *University of Miami Miller School of Medicine*  
+  *Visiting Physician, Observership*  
+  *Cardiology Consults* (Agosto 2025) y *Diagnostic Radiology* (Septiembre 2025)  
 
 ### Certificados
 
