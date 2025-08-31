@@ -105,3 +105,14 @@ En esta última semana, la Dra. Gosain me dio un consejo. Me dijo que es importa
 No puedo negar que a veces siento que mi vida es una historia de fracasos, de proyectos fallidos, de cosas que pensé que serían de una manera y terminaron siendo de otra. Un juego interminable de lastimar y salir lastimado. De ensayo y error.
 
 Pero estoy aquí.
+
+<br>
+
+<hr>
+
+<br>
+
+*Fotografía en la que estoy camuflado en alguna pared de Wynwood.*
+
+<img src="/assets/images/me-wynwood-wall-big.jpeg">
+
