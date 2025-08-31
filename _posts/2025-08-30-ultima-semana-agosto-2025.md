@@ -21,11 +21,11 @@ Esta última semana conocí personas que han sido amables conmigo, en especial a
 
 Creo que he podido mejorar mis habilidades sociales. Conversé con mi hermano sobre la importancia de dominar el idioma para socializar. Le dije que necesitaba mejorar mi inglés para poder ser más sociable, pero él no estuvo de acuerdo conmigo. Me dijo que el idioma no es lo más importante, sino la actitud y realmente intentar conversar y acercarte a otras personas. Lo intenté y le doy la razón.
 
-## Presentación de pacientes
+## Presentando pacientes
 
 Esta semana pude practicar también mis presentaciones de los pacientes. La *attending* era estricta y le gustaba recibir toda la información de los pacientes de manera organizada. En un inicio se me hizo complicado, debido a que no era el estilo usado por los anteriores *attendings*, pero al final pude adaptarme. La parte en la que mejoré más fue en la de discutir el *assessment* y el plan con mayor profundidad. En realidad se trató de discutir los diagnósticos y problemas, decir lo que yo pensaba al respecto y plantear el manejo que daría si el paciente estuviera en mis manos. La *attending* nos recomendó que leamos sobre las condiciones de los pacientes para sustentar nuestro plan con evidencia y razonamiento. Eso hice y fue genial poder discutir la situación con artículos científicos y guías durante los *rounds*. Las presentaciones se convirtieron en conversaciones entre todos los presentes, lo que resultó muy estimulante y una excelente forma de aprender con cada caso. Sinceramente, durante la universidad y el internado no tuve este tipo de experiencia y creo que me habría ayudado mucho a aprender mejor de los pacientes.
 
-## Estudiar todo el tiempo
+## Estudio constante
 
 Sin embargo, para los doctores aquí no es suficiente con estudiar los temas para los pacientes, también tienen que andar estudiando para los exámenes que deben dar. Durante la residencia dan algunos exámenes, como el USMLE Step 3 y los *Boards* ya como especialistas. Deben dar esos exámenes en varios puntos del proceso de especialización y para continuar estando certificados como especialistas lo que obliga a que estén estudiando y manteniéndose actualizados todo el tiempo.
 
