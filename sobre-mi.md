@@ -12,14 +12,14 @@ Versión en inglés: [About me]({{ "/about/" | relative_url }})
   <img src="/assets/images/20211224_002701.jpg" height="350">
 </div><br>
 
-Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. Practicar deportes fue mi prioridad durante la mayor parte de mi vida, sin embargo ahora mi prioridad son los estudios. Terminé mis estudios de pregrado en Medicina Humana el año 2023, ahora tengo el título de Médico Cirujano en Perú.
+Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. Practicar deportes fue mi prioridad durante la mayor parte de mi vida, sin embargo ahora mi prioridad son los estudios. Me gradué de Medicina Humana el año 2024, ahora tengo el título de Médico Cirujano en Perú.
 
 ## Cosas en las que estoy trabajando
 
-1. Adquiriendo experiencia y conocimientos en investigación para completar algunos proyectos y mejorar mi perfil como investigador.
-2. Buscando oportunidades de experiencia clínica e investigación con el objetivo de realizar mi especialidad médica en Estados Unidos.
-3. Estudiando para dar el USMLE Step 3.
-4. Escribir y compartir contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
+1. Actualmente, en el proceso de postulación al residentado médico de Estados Unidos.
+2. Preparándome para el USMLE Step 3.
+3. Realizando algunos proyectos de investigación en diversos temas.
+4. Escribo y comparto contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
 
 ## Mi CV
 

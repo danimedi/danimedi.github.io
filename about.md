@@ -12,13 +12,13 @@ Spanish version: [Sobre mí]({{ "/sobre-mi/" | relative_url }})
   <img src="/assets/images/20211224_002701.jpg" height="350">
 </div><br>
 
-I was born and raised in Arequipa, Peru. For most of my life, sports were my priority; however, my main focus now is my career. I completed my undergraduate studies in Human Medicine in 2023. I am now a licensed physician in Peru.
+I was born and raised in Arequipa, Peru. For most of my life, sports were my priority; however, my main focus now is my career. I graduated from Human Medicine in 2024. I am now a licensed physician in Peru.
 
 ## Things I am Working On
 
-1. Gaining experience and knowledge in research to complete some projects and strengthen my profile as a researcher.
-2. Seeking clinical and research experience opportunities with the goal of pursuing a medical residency in the United States.
-3. Studying to take the USMLE Step 3.
+1. Currently in the process of applying for medical residency in the United States.
+2. Preparing for the USMLE Step 3.
+3. Working on several research projects on various topics.
 4. Writing and sharing diverse content through my [website](https://danimedi.com) and my [YouTube channel](https://www.youtube.com/@danimedi555).
 
 ## My CV
