@@ -6,7 +6,7 @@ layout: home
 title: Inicio
 ---
 
-![Mi foto](/assets/images/photo-me-white-jacket-edited.jpeg){: height="400" }
+![Mi foto](/assets/images/photo-me-elegant-suit-side.jpeg){: height="400" }
 
 <br>
 Bienvenido a mi página web.

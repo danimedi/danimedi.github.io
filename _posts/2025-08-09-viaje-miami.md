@@ -7,7 +7,7 @@ tags: []
 author: DaniMedi
 excerpt: "Experiencia y pensamientos varios de mi viaje a Miami y los primeros días en esta ciudad."
 layout: post
-image: /assets/images/me-miami-beach-white-shirt.jpeg
+image: /assets/images/selfie-jackson-hospital-jade-uniform.jpeg
 published: true
 last_modified_at: 2025-08-09
 redirect_from:
