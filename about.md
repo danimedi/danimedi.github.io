@@ -46,6 +46,9 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
   *Visiting Physician, Observership*  
   Cardiology Consults (Aug 2025) and Diagnostic Radiology (Sep 2025)  
 
+- September 2025  
+  **ECFMG Certificate** issued by the *Educational Commission for Foreign Medical Graduates* (ECFMG)  
+
 ### Certifications
 
 - October 2014  

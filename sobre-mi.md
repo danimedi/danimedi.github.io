@@ -46,6 +46,9 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   *Visiting Physician, Observership*  
   *Cardiology Consults* (Agosto 2025) y *Diagnostic Radiology* (Septiembre 2025)  
 
+- Septiembre 2025  
+  **ECFMG Certificate** emitido por la *Educational Commission for Foreign Medical Graduates* (ECFMG)  
+
 ### Certificados
 
 - Octubre 2014  
