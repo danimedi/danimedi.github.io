@@ -2,7 +2,7 @@
 title:  "Viaje a Miami y primeros días"
 date: 2025-08-09
 permalink: /blog/viaje-miami/
-categories: [Anécdotas, Pensamientos]
+categories: [Anécdotas]
 tags: []
 author: DaniMedi
 excerpt: "Experiencia y pensamientos varios de mi viaje a Miami y los primeros días en esta ciudad."

@@ -2,7 +2,7 @@
 title:  "Primer mes en Miami"
 date: 2025-08-24
 permalink: /blog/primer-mes-miami/
-categories: [Anécdotas, Pensamientos]
+categories: [Anécdotas]
 tags: []
 author: DaniMedi
 excerpt: "Reflexiones y anécdotas de mi primer mes en Miami."
