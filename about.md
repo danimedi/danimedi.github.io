@@ -63,6 +63,9 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 - March 2017  
   Certificate of completion of the **First Aid** course at the *Peruvian Red Cross*.  
 
+- May 2020  
+  Certificate of completion for **PH527x: Principles, Statistical and Computational Tools for Reproducible Data Science**, *HarvardX*.  
+
 - August 2020  
   Certificate in **Data Analysis for Life Sciences**, *HarvardX*  
   Professional certificate obtained by completing the courses:  

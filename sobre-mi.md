@@ -63,6 +63,9 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 - Marzo 2017  
   Certificado de **Primeros Auxilios** otorgado por la *Cruz Roja* peruana.  
 
+- Mayo 2020  
+  Certificado por completar el curso **PH527x: Principles, Statistical and Computational Tools for Reproducible Data Science**, *HarvardX*.  
+
 - Agosto 2020  
   **Certificate in data analysis for life sciences**, *HarvardX*  
   Professional certificate obtained by completing the courses:  
