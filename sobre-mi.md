@@ -111,7 +111,7 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   Puntaje de *255* en el **USMLE Step 2**.  
 
 - Diciembre 2023  
-  **Examen Nacional de Medicina (ENAM)**: *16.44 puntos*  
+  **Examen Nacional de Medicina (ENAM)**: *16.44 puntos*.  
 
 - Septiembre 2024  
   **OET**:  
@@ -123,7 +123,10 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 ### Experiencia laboral
 
 - Mayo 2024 – Abril 2025  
-  Jefe del Puesto de Salud Salinas Moche, en Moquegua, Perú.  
+  Jefe del Puesto de Salud Salinas Moche, en Moquegua, Perú  
+
+- Mayo 2025 – Junio 2025  
+  Médico General – Alerta Arequipa, Arequipa, Perú  
 
 ### Experiencia de investigación
 

@@ -122,7 +122,10 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 ### Work Experience
 
 - May 2024 – April 2025  
-  Head physician of the Salinas Moche health post in Moquegua, Peru.  
+  Head physician of the Salinas Moche health post in Moquegua, Peru  
+
+- May 2025 – June 2025  
+  General Practice Physician – Alerta Arequipa, Arequipa, Peru  
 
 ### Research Experience
 
