@@ -46,9 +46,6 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   *Visiting Physician, Observership*  
   *Cardiology Consults* (Agosto 2025) y *Diagnostic Radiology* (Septiembre 2025)  
 
-- Septiembre 2025  
-  **ECFMG Certificate** emitido por la *Educational Commission for Foreign Medical Graduates* (ECFMG)  
-
 ### Certificados
 
 - Octubre 2014  
@@ -92,6 +89,9 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   GPH001: **Global Public Health**  
   SDGAcademyX  
 
+- Septiembre 2025  
+  **ECFMG Certificate** emitido por la *Educational Commission for Foreign Medical Graduates* (ECFMG)  
+
 ### Exámenes
 
 - Diciembre 2016  
@@ -123,10 +123,10 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 ### Experiencia laboral
 
 - Mayo 2024 – Abril 2025  
-  Jefe del Puesto de Salud Salinas Moche, en Moquegua, Perú  
+  *Jefe* del **Puesto de Salud Salinas Moche**, en Moquegua, Perú  
 
 - Mayo 2025 – Junio 2025  
-  Médico General – Alerta Arequipa, Arequipa, Perú  
+  Médico General – **Alerta Arequipa**, Arequipa, Perú  
 
 ### Experiencia de investigación
 
