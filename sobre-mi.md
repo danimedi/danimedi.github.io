@@ -16,7 +16,7 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 
 ## Cosas en las que estoy trabajando
 
-1. Actualmente, en el proceso de postulación al residentado médico de Estados Unidos.
+1. Postulando a la residencia médica en Estados Unidos (2026 Match cycle).
 2. Preparándome para el USMLE Step 3.
 3. Realizando algunos proyectos de investigación en diversos temas.
 4. Escribo y comparto contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
@@ -125,7 +125,7 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 - Mayo 2024 – Abril 2025  
   *Jefe* del **Puesto de Salud Salinas Moche**, en Moquegua, Perú  
 
-- Mayo 2025 – Junio 2025  
+- Mayo 2025 – Noviembre 2025  
   Médico General – **Alerta Arequipa**, Arequipa, Perú  
 
 ### Experiencia de investigación
@@ -165,6 +165,6 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 
 - **Programación**: domino los lenguajes de programación R y Python, especialmente para análisis y manipulación de datos. He realizado proyectos de visualización de datos, creación de paquetes en R, web scraping, aplicaciones web, extracción de información a partir de APIs y otros más. Además, también tengo habilidades de diseño de páginas web, incluyendo la construcción de mi página web personal con Jekyll. Mis principales proyectos están disponibles en mi [GitHub: danimedi](https://github.com/danimedi).
 - **Enseñanza**: me gusta compartir las cosas que aprendo con otras personas. Creo que la investigación y la creación de software pueden ayudar a resolver problemas, lo cual me motiva a realizar y compartir las cosas que hago. Comparto lo que aprendo a través de mi canal de [YouTube](https://www.youtube.com/@danimedi555) y mi [página web personal](https://danimedi.com).
-- **Deportes**: los deportes fueron una parte central de mi vida durante mucho tiempo; aunque ahora no tanto, sigo activo. Practico diversos deportes, incluyendo ciclismo, fútbol, atletismo, vóley, tenis de mesa, natación, entre otros.
+- **Deportes**: jugador de segunda división de la liga distrital de Cayma. Sin embargo, pracico otros deportes, incluyendo ciclismo, atletismo, vóley, tenis de mesa, natación, entre otros.
 - **Literatura**: me gusta leer y escribir. En mi blog escribo cuentos, poemas y otros textos donde expreso mis ideas y sentimientos. También disfruto leer libros de literatura, aunque reconozco que a veces no le dedico tanto tiempo como quisiera.
 - **Aprender idiomas y otras cosas más**: tengo una inclinación a aprender cosas nuevas. Además de español e inglés, también uso habitualmente el portugués. De niño estudié francés y chino mandarín, aunque ya no los practico. Tengo un amplio interés por aprender cosas nuevas, algunos temas que me interesan especialmente son filosofía, economía, geografía y política. Aunque sin duda que biología, astronomía, historia y otros más también capturan mi atención.

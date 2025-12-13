@@ -16,7 +16,7 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 
 ## Things I am Working On
 
-1. Currently in the process of applying for medical residency in the United States.
+1. Applying to medical residency in the United States (2026 Match cycle).
 2. Preparing for the USMLE Step 3.
 3. Working on several research projects on various topics.
 4. Writing and sharing diverse content through my [website](https://danimedi.com) and my [YouTube channel](https://www.youtube.com/@danimedi555).
@@ -124,7 +124,7 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 - May 2024 – April 2025  
   *Head physician* of the **Salinas Moche health post** in Moquegua, Peru  
 
-- May 2025 – June 2025  
+- May 2025 – November 2025  
   General Practice Physician – **Alerta Arequipa**, Arequipa, Peru  
 
 ### Research Experience
@@ -163,6 +163,6 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 
 - **Programming**: I am proficient in R and Python, especially for data analysis and manipulation. I have worked on projects involving data visualization, R package development, web scraping, web applications, extracting information from APIs, and more. Additionally, I have web design skills, including building my personal website with Jekyll. My main projects are available on my [GitHub: danimedi](https://github.com/danimedi).
 - **Teaching**: I enjoy sharing what I learn with others. I believe that research and software development can help solve problems, which motivates me to create and share my work. I share what I learn through my [YouTube channel](https://www.youtube.com/@danimedi555) and my [personal website](https://danimedi.com).
-- **Sports**: Sports were a central part of my life for a long time; although not as much now, I still stay active. I practice various sports, including cycling, soccer, athletics, volleyball, table tennis, swimming, and others.
+- **Sports**: Second-division player in the Cayma district league. However, I practice other sports, including cycling, athletics, volleyball, table tennis, swimming, and others.
 - **Literature**: I enjoy reading and writing. On my blog, I write short stories, poems, and other texts where I express my ideas and feelings. I also enjoy reading literature books, though I admit I sometimes don't dedicate as much time to it as I would like.
 - **Learning languages and other subjects**: I have a strong inclination to learn new things. Besides Spanish and English, I also regularly use Portuguese. As a child, I studied French and Mandarin Chinese, though I no longer practice them. I have a broad interest in learning new topics, with a particular interest in philosophy, economics, geography, and politics. However, biology, astronomy, history, and many other subjects also capture my attention.
