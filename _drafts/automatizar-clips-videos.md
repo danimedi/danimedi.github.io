@@ -15,14 +15,13 @@ redirect_from:
 
 Como creador de contenido en YouTube he tenido problemas entrando en formatos de videos cortos, como TikTok, Instagram u otros. Creo que me gusta tomarme mi tiempo para expresar a mi ritmo las cosas que quiero decir y compartir. Sin embargo, hoy en día muchas personas prefieren consumir contenido de una duración más corta.
 
-Algo que estuve realizando es hacer videos cortos introductorios o promocionales para poder realizar videos en YouTube. Otras personas como mi hermano Diego (canal de YouTube) y también Kimberly (@lory.steps) me recomendaron que realizar clips de mi contenido y subirlo en varias plataformas podría ser de utilidad. Sin embargo, me ha resultado complicado por motivos de tiempo.
+Algo que estuve realizando es hacer videos cortos introductorios o promocionales para poder realizar videos en YouTube. Otras personas como mi hermano Diego ([canal de YouTube](https://www.youtube.com/@diegonapoleonmn)) y también Kimberly ([@lory.steps](https://www.tiktok.com/@lorysteps)) me recomendaron que realizar clips de mi contenido y subirlo en varias plataformas podría ser de utilidad. Sin embargo, me ha resultado complicado por motivos de tiempo.
 
 Ante esta problemática estuve pensando en posibles soluciones, siendo una de ellas automatizar lo más que se pueda la creación de clips de mis videos. Luego de este camino de aprendizaje logré poder crear clips (videos cortos de fragmentos de algún video largo destinado para YouTube) de forma semi-automatizada mediante un programa que genera estos clips a partir de especificar el tiempo de inicio y fin de los clips en el video.
 
-Esto hace que crear los clips de los videos sea tan simple como:
+En este post describiré un método que utilicé para realizar esto de una manera más eficiente.
 
-
-## Requirements
+## Requisitos
 
 - ffmpeg
 - Python
@@ -31,7 +30,9 @@ Esto hace que crear los clips de los videos sea tan simple como:
 
 Create a CSV file using time stamps.
 
-Then use the following code to cut the video (requires FFMPEG:
+
+
+Then use the following code to cut the video (requires FFMPEG):
 
 ```
 import subprocess
