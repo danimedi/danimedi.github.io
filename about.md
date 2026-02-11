@@ -122,7 +122,7 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
   - Reading: 480/500 (A)  
   - Speaking: 380/500 (B)  
   - Writing: 300/500 (C+)  
-
+<br>
 - January 2026  
   **USMLE Step 3** score: *238*  
 

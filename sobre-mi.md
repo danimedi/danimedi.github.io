@@ -123,7 +123,7 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   - Reading: 480/500 (A)  
   - Speaking: 380/500 (B)  
   - Writing: 300/500 (C+)  
-
+<br>
 - Enero 2026  
   Puntaje de *238* en el **USMLE Step 3**.  
 
