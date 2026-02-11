@@ -17,9 +17,8 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 ## Things I am Working On
 
 1. Applying to medical residency in the United States (2026 Match cycle).
-2. Preparing for the USMLE Step 3.
-3. Working on several research projects on various topics.
-4. Writing and sharing diverse content through my [website](https://danimedi.com) and my [YouTube channel](https://www.youtube.com/@danimedi555).
+2. Working on several research projects on various topics.
+3. Writing and sharing diverse content through my [website](https://danimedi.com) and my [YouTube channel](https://www.youtube.com/@danimedi555).
 
 ## My CV
 
@@ -45,6 +44,11 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
   **William J. Harrington Medical Training Programs**, *University of Miami Miller School of Medicine*  
   *Visiting Physician, Observership*  
   Cardiology Consults (Aug 2025) and Diagnostic Radiology (Sep 2025)  
+
+- February 2026  
+  **SUNY Upstate Medical University**  
+  *Visiting Physician, Observership*  
+  Department of Radiology  
 
 ### Certifications
 
@@ -107,7 +111,7 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
   - Writing: 28/30  
 <br>
 - November 2022  
-  **USMLE Step 2** score: *255*  
+  **USMLE Step 2 CK** score: *255*  
 
 - December 2023  
   **Examen Nacional de Medicina (ENAM)** score: *16.44*  
@@ -118,6 +122,9 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
   - Reading: 480/500 (A)  
   - Speaking: 380/500 (B)  
   - Writing: 300/500 (C+)  
+
+- January 2026  
+  **USMLE Step 3** score: *238*  
 
 ### Work Experience
 

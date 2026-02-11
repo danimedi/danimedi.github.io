@@ -17,9 +17,8 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 ## Cosas en las que estoy trabajando
 
 1. Postulando a la residencia médica en Estados Unidos (2026 Match cycle).
-2. Preparándome para el USMLE Step 3.
-3. Realizando algunos proyectos de investigación en diversos temas.
-4. Escribo y comparto contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
+2. Realizando algunos proyectos de investigación en diversos temas.
+3. Escribo y comparto contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
 
 ## Mi CV
 
@@ -45,6 +44,11 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   **William J. Harrington Medical Training Programs**, *University of Miami Miller School of Medicine*  
   *Visiting Physician, Observership*  
   *Cardiology Consults* (Agosto 2025) y *Diagnostic Radiology* (Septiembre 2025)  
+
+- Febrero 2026  
+  **SUNY Upstate Medical University**  
+  *Visiting Physician, Observership*  
+  Department of Radiology  
 
 ### Certificados
 
@@ -108,7 +112,7 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   - Writing: 28/30  
 <br>
 - Noviembre 2022  
-  Puntaje de *255* en el **USMLE Step 2**.  
+  Puntaje de *255* en el **USMLE Step 2 CK**.  
 
 - Diciembre 2023  
   **Examen Nacional de Medicina (ENAM)**: *16.44 puntos*.  
@@ -119,6 +123,9 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   - Reading: 480/500 (A)  
   - Speaking: 380/500 (B)  
   - Writing: 300/500 (C+)  
+
+- Enero 2026  
+  Puntaje de *238* en el **USMLE Step 3**.  
 
 ### Experiencia laboral
 
