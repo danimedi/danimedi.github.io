@@ -161,6 +161,9 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   Publicación del artículo **"Hemophagocytic lymphohistiocytosis as the initial manifestation of bone marrow failure in a child with a TERC variant telomere biology disorder"** en la revista *Therapeutic Advances in Rare Disease*.  
   DOI: [10.1177/26330040241311621](https://doi.org/10.1177/26330040241311621)  
 
+- January 2026  
+  Publicación del abstract **"Severe Pediatric COVID-19 During the Predominance of the Lambda Variant at a Referral Hospital in Lima, Peru, 2020–2022"** en la revista *Open Forum Infectious Diseases*.  
+  DOI: [10.1093/ofid/ofaf695.740](https://doi.org/10.1093/ofid/ofaf695.740)  
 
 ### Actividades extracurriculares
 

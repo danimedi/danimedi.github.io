@@ -160,6 +160,10 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
   Publication of the article **“Hemophagocytic lymphohistiocytosis as the initial manifestation of bone marrow failure in a child with a TERC variant telomere biology disorder”** in the journal *Therapeutic Advances in Rare Disease*.  
   DOI: [10.1177/26330040241311621](https://doi.org/10.1177/26330040241311621)  
 
+- January 2026  
+  Publication of the abstract **"Severe Pediatric COVID-19 During the Predominance of the Lambda Variant at a Referral Hospital in Lima, Peru, 2020–2022"** in the journal *Open Forum Infectious Diseases*.  
+  DOI: [10.1093/ofid/ofaf695.740](https://doi.org/10.1093/ofid/ofaf695.740)  
+
 ### Extracurricular Activities
 
 - [**Podcast** "SERUMS - Desde cada rincón"](https://open.spotify.com/show/5zKn2IuA8PAWdPmB3RcqJn?si=cf0d5d737a0b4028) about the experiences of healthcare professionals during the SERUMS (rural service) program in Peru.
