@@ -12,13 +12,7 @@ Versión en inglés: [About me]({{ "/about/" | relative_url }})
   <img src="/assets/images/20211224_002701.jpg" height="350">
 </div><br>
 
-Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. Practicar deportes fue mi prioridad durante la mayor parte de mi vida, sin embargo ahora mi prioridad son los estudios. Me gradué de Medicina Humana el año 2024, ahora tengo el título de Médico Cirujano en Perú.
-
-## Cosas en las que estoy trabajando
-
-1. Postulando a la residencia médica en Estados Unidos (2026 Match cycle).
-2. Realizando algunos proyectos de investigación en diversos temas.
-3. Escribo y comparto contenido variado a través de mi [página web](https://danimedi.com) y mi [canal de YouTube](https://www.youtube.com/@danimedi555).
+Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. Estoy completando mi residencia en medicina interna en St. Bernards Medical Center en Arkansas. Me gusta mucho nadar y jugar fútbol.
 
 ## Mi CV
 
@@ -49,6 +43,9 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   **SUNY Upstate Medical University**  
   *Visiting Physician, Observership*  
   Department of Radiology  
+
+- Julio 2026 - Junio 2029 (esperado)  
+  **Internal Medicine Residency** en *St. Bernards Medical Center* – Jonesboro, Arkansas, USA  
 
 ### Certificados
 
@@ -135,6 +132,9 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
 - Mayo 2025 – Noviembre 2025  
   Médico General – **Alerta Arequipa**, Arequipa, Perú  
 
+- Mayo 2026  
+  Médico de Hospitalización – **Clínica San Pablo**, Arequipa, Perú  
+
 ### Experiencia de investigación
 
 - 2019-2021  
@@ -161,7 +161,7 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. P
   Publicación del artículo **"Hemophagocytic lymphohistiocytosis as the initial manifestation of bone marrow failure in a child with a TERC variant telomere biology disorder"** en la revista *Therapeutic Advances in Rare Disease*.  
   DOI: [10.1177/26330040241311621](https://doi.org/10.1177/26330040241311621)  
 
-- January 2026  
+- Enero 2026  
   Publicación del abstract **"Severe Pediatric COVID-19 During the Predominance of the Lambda Variant at a Referral Hospital in Lima, Peru, 2020–2022"** en la revista *Open Forum Infectious Diseases*.  
   DOI: [10.1093/ofid/ofaf695.740](https://doi.org/10.1093/ofid/ofaf695.740)  
 

@@ -12,13 +12,7 @@ Spanish version: [Sobre mí]({{ "/sobre-mi/" | relative_url }})
   <img src="/assets/images/20211224_002701.jpg" height="350">
 </div><br>
 
-I was born and raised in Arequipa, Peru. For most of my life, sports were my priority; however, my main focus now is my career. I graduated from Human Medicine in 2024. I am now a licensed physician in Peru.
-
-## Things I am Working On
-
-1. Applying to medical residency in the United States (2026 Match cycle).
-2. Working on several research projects on various topics.
-3. Writing and sharing diverse content through my [website](https://danimedi.com) and my [YouTube channel](https://www.youtube.com/@danimedi555).
+I was born and raised in Arequipa, Peru. I am completing my medical residency at St. Bernards Medical Center in Arkansas. I love swimming and playing soccer.
 
 ## My CV
 
@@ -49,6 +43,9 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
   **SUNY Upstate Medical University**  
   *Visiting Physician, Observership*  
   Department of Radiology  
+
+- July 2026 - June 2029 (expected)  
+  **Internal Medicine Residency** at *St. Bernards Medical Center* – Jonesboro, Arkansas, USA  
 
 ### Certifications
 
@@ -133,6 +130,9 @@ I was born and raised in Arequipa, Peru. For most of my life, sports were my pri
 
 - May 2025 – November 2025  
   General Practice Physician – **Alerta Arequipa**, Arequipa, Peru  
+
+- May 2026  
+  Hospitalization Physician – **Clínica San Pablo**, Arequipa, Peru  
 
 ### Research Experience
 
