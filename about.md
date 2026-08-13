@@ -75,10 +75,6 @@ I was born and raised in Arequipa, Peru. I am completing my medical residency at
 - September 2020  
   ICH **Good Clinical Practice** E6 (R2)  
 
-- January 2022  
-  **Basic Life Support (BLS)** Certification  
-  National Health Care Provider Solutions Basic Life Support program  
-
 - 2020 – 2022  
   Microsoft Certification of **Microsoft Office Specialist** for:  
   - *Word (February 2020)*  
@@ -91,6 +87,9 @@ I was born and raised in Arequipa, Peru. I am completing my medical residency at
 
 - September 2025  
   **ECFMG Certificate** issued by the *Educational Commission for Foreign Medical Graduates* (ECFMG)  
+
+- June 2026  
+  **ACLS Provider** issued by the *American Heart Association* (AHA)
 
 ### Exams
 

@@ -75,10 +75,6 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. E
 - Setiembre 2020  
   ICH Good Clinical Practice E6 (R2)  
 
-- Enero 2022  
-  **Basic Life Support** (BLS) Certification  
-  National Health Care Provider Solutions Basic Life Support program.  
-
 - 2020 – 2022  
   Microsoft Certification of **Microsoft Office Specialist** for:  
   - *Word* (Febrero 2020)  
@@ -92,6 +88,10 @@ Mi nombre es Daniel Alejandro Medina Neira. Nací y crecí en Arequipa, Perú. E
 
 - Septiembre 2025  
   **ECFMG Certificate** emitido por la *Educational Commission for Foreign Medical Graduates* (ECFMG)  
+
+- Junio 2026  
+  **ACLS Provider** emitido por la *American Heart Association* (AHA)  
+
 
 ### Exámenes
 
