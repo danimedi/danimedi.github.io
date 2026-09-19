@@ -6,7 +6,7 @@ permalink: /contact/
 
 The main way to contact me is my email:
 
-[<i class="fa-solid fa-square-envelope"></i> danielmedinaneira555@gmail.com](mailto:danielmedinaneira555@gmail.com)
+[<i class="fa-solid fa-square-envelope"></i> dmneira@sbrmc.org](mailto:dmneira@sbrmc.org)
 
 In addition, I have accounts on several social networks, but I am inactive on most of them. You can follow me on:
 
