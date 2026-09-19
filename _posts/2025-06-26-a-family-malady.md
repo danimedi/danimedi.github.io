@@ -1,16 +1,17 @@
 ---
-title:  "Poem Collection: A Family Malady"
+title: 'Poem Collection: A Family Malady'
 date: 2025-06-26
 permalink: /blog/a-family-malady/
-categories: [Escritos]
+categories:
+- Writings
 tags: []
 author: DaniMedi
-excerpt: "Three poems telling a story about infidelity within a family."
+excerpt: Three poems telling a story about infidelity within a family.
 layout: post
 image: /assets/images/window-light.jpg
 published: true
-last_modified_at:  2025-06-26
-redirect_from:
+last_modified_at: 2025-06-26
+redirect_from: null
 ---
 
 This is a collection of three poems I wrote, telling a story of infidelity within a family.

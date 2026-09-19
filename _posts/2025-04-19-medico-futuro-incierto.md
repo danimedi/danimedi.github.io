@@ -1,16 +1,18 @@
 ---
-title:  "Un futuro incierto"
+title: Un futuro incierto
 date: 2025-04-19
 permalink: /blog/medico-futuro-incierto/
-categories: [Pensamientos]
+categories:
+- Thoughts
 tags: []
 author: DaniMedi
-excerpt: "Reflexión sobre mi futuro como médico que inicia su carrera y las cosas que siento en este momento de mi vida"
+excerpt: Reflexión sobre mi futuro como médico que inicia su carrera y las cosas que
+  siento en este momento de mi vida
 layout: post
 image: /assets/images/ladder-sky.jpg
 published: true
 last_modified_at: 2025-04-21
-redirect_from:
+redirect_from: null
 ---
 
 Me encuentro en una situación extraña, tengo mucha incertidumbre y una inseguridad sobre lo que me espera. Me encuentro próximo a terminar el SERUMS y pasan muchas cosas por mi cabeza: tendré problemas para tener mi resolución, podré aprovechar mi tiempo luego de terminar, saldré del país, qué es lo que quiero, conseguiré lo que quiero, mi vida tendrá algún impacto. Todas estas y más son preguntas que deambulan por mis pensamientos con frecuencia.

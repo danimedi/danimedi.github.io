@@ -8,8 +8,8 @@ guid: https://danimedi.com/?p=1259
 permalink: /blog/caida-al-futuro/
 image: /assets/images/man-silhouette-beach.jpg
 categories:
-- Escritos
-- Pensamientos
+- Writings
+- Thoughts
 ---
 
 *Escribí esto el 14 de mayo de 2020.*

@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1409
 permalink: /blog/vivir-el-momento-yo-quiero-mas/
 image: /assets/images/small-fireworks.jpg
 categories:
-- Pensamientos
+- Thoughts
 ---
 
 “Vive el momento”, “La vida es una”, “¿Y si te mueres mañana?”. Probablemente han escuchado algunas frases de este estilo. Estas frases pueden interpretarse de diferentes maneras, pero en muchos casos son interpretadas con la idea de que si queremos hacer algo en este momento lo mejor es que lo hagamos ya, porque la vida es corta y las cosas que dejamos de hacer son cosas que ya no podremos hacer en el futuro, por lo que es mejor guiarnos por lo que queremos en el momento y no tener arrepentimientos.

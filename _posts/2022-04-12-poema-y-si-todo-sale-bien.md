@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=892
 permalink: /blog/poema-y-si-todo-sale-bien/
 image: /assets/images/Screenshot_20220412-052835_Instagram1.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 Escribí este poema el 12 de abril de 2022, inspirado por la imagen de una story de Instagram de una amiga.

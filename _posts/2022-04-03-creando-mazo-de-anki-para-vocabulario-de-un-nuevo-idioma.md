@@ -8,9 +8,9 @@ guid: https://danimedi.com/?p=864
 permalink: /blog/creando-mazo-de-anki-para-vocabulario-de-un-nuevo-idioma/
 image: /assets/images/languages-poster.jpg
 categories:
-- Estudio y Anki
-- Estudio y Anki
-- Programación
+- Study & Anki
+- Study & Anki
+- Programming
 ---
 
 Como mencioné en un [post anterior sobre mi estrategia para aprender nuevos idiomas]({{ '/blog/estrategia-personal-para-aprender-un-nuevo-idioma/' | relative_url }}), el vocabulario es algo sumamente importante en etapas tempranas del aprendizaje de un nuevo idioma.

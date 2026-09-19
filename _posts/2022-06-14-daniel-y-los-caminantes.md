@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1109
 permalink: /blog/daniel-y-los-caminantes/
 image: /assets/images/desert-image.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 Ya llegó el atardecer y se observa como el sol tiñe el cielo de un rojo similar a la arena del desierto. Si se observa al horizonte pareciera como si el cielo y la tierra se fundieran y el desierto inmenso se extendiera hacia el firmamento. Solo se ve desierto.

@@ -8,8 +8,8 @@ guid: https://danimedi.com/?p=1519
 permalink: /blog/discurso-de-despedida-internado/
 image: /assets/images/photo-rebagliati-internado-internos-2023.jpg
 categories:
-- Escritos
-- Medicina
+- Writings
+- Medicine
 ---
 
 Este discurso fue presentado por mí el 2023-12-29 en la ceremonia de culminación del internado médico en el HNERM el 2023. Fueron las palabras de agradecimiento a nombre de nuestra promoción de internos.

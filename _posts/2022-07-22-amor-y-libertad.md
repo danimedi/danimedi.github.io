@@ -8,8 +8,8 @@ guid: https://danimedi.com/?p=1268
 permalink: /blog/amor-y-libertad/
 image: /assets/images/balloons-love-sky.jpg
 categories:
-- Escritos
-- Pensamientos
+- Writings
+- Thoughts
 ---
 
 Este post contiene tres partes independientes, pero relacionadas, que de alguna manera giran alrededor del tema del **amor** y la **libertad**.

@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1016
 permalink: /blog/poema-en-mi-cuarto/
 image: /assets/images/roof-room-image.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 Este poema lo escribí el día 9 de mayo de 2022.

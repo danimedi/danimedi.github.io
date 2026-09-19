@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=497
 permalink: /blog/hoy-tuve-un-sueno/
 image: /assets/images/hot_air_balloon_and_moon.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 Escribí este poema el 13 de noviembre de 2021.

@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=954
 permalink: /blog/cuento-el-sueno-de-suksu/
 image: /assets/images/peruvian-farmer.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 Recuerdos fúnebres invaden su mente con cada tos, memorias de su padre escupiendo sangre a puertas de su muerte le nublan el pensamiento. Ayer no se encontraba tan mal, en cambio hoy solo ve muerte. Suksu ya va varias horas intentando levantarse, pero su cuerpo le desobedece, como si se hubiera rebelado antes que él a los maltratos de cada jornada.

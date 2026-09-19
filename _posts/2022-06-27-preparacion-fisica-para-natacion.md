@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1225
 permalink: /blog/preparacion-fisica-para-natacion/
 image: /assets/images/gym-image.jpg
 categories:
-- Medicina
+- Medicine
 ---
 
 Hoy en día el entrenamiento fuera del agua es realizado por la mayoría de nadadores, existiendo muchos posibles ejercicios y formas de entrenar fuera del agua[^1] [^2]

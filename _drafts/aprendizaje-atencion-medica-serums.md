@@ -1,16 +1,17 @@
 ---
-title:  ""
-date:
+title: ''
+date: null
 permalink: /blog/aprendizaje-atencion-medica-serums/
-categories: [Medicina]
+categories:
+- Medicine
 tags: []
 author: DaniMedi
-excerpt: ""
+excerpt: ''
 layout: post
 image: /assets/images/
 published: true
-last_modified_at:
-redirect_from:
+last_modified_at: null
+redirect_from: null
 ---
 Mucho de lo que aprendí fue practicando en los CCS Cases mientras estudiaba. Algo que me pareció muy interesante es ser eficiente con el tiempo y también la importancia que le dan no solo a la parte de diagnóstico y tratamiento, sino que también se evalúa la parte preventiva. 
 

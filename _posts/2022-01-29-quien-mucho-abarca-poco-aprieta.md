@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=547
 permalink: /blog/quien-mucho-abarca-poco-aprieta/
 image: /assets/images/quien_mucho_abarca.jpg
 categories:
-- Pensamientos
+- Thoughts
 ---
 
 NOTA: algunas ideas son usadas en otros posts, un post importante que toma algunas ideas de este y las desarrolla mucho más es el siguiente: [¿Qué quiero hacer con mi vida?]({{ '/blog/que-quiero-hacer-con-mi-vida/' | relative_url }}).

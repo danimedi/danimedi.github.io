@@ -1,16 +1,18 @@
 ---
-title:  "OET: Preparación y experiencia"
-date:   2025-03-10
+title: 'OET: Preparación y experiencia'
+date: 2025-03-10
 permalink: /blog/examen-oet-preparacion-experiencia/
-categories: [Medicina, Estudio y Anki]
+categories:
+- Medicine
+- Study & Anki
 tags: []
 author: DaniMedi
-excerpt: "Cómo fue mi preparación y la experiencia que tuve dando el examen OET"
+excerpt: Cómo fue mi preparación y la experiencia que tuve dando el examen OET
 layout: post
 image: /assets/images/oet-logo.jpg
 published: true
 last_modified_at: 2025-03-10
-redirect_from:
+redirect_from: null
 ---
 
 En septiembre de 2024, di el examen *Occupational English Test (OET) for Medicine*. En este post quiero compartir mi experiencia y algunos aspectos de mi preparación para rendirlo.

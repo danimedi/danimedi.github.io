@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=833
 permalink: /blog/manejando-mi-tiempo/
 image: /assets/images/clock-time-image.jpg
 categories:
-- Estudio y Anki
+- Study & Anki
 ---
 
 Manejar el tiempo que tenemos de forma adecuada es algo de gran utilidad para realizar las cosas que queremos. En este post brindaré mi forma de organizar el tiempo y algunos consejos que he ido aprendiendo a lo largo de mi vida.

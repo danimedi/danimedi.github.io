@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1262
 permalink: /blog/buscando-paz-y-no-felicidad/
 image: /assets/images/pile-of-rocks.jpg
 categories:
-- Pensamientos
+- Thoughts
 ---
 
 Creo que buscar felicidad es realmente un mal objetivo, porque no es sostenible con el tiempo. Es común escuchar que el objetivo de la vida es ser feliz, pero no estoy de acuerdo, en realidad puede que la vida no tenga un objetivo, la verdad no lo sé. El tema con la felicidad es que depende mucho del contexto. Encontré hace poco algo que escribí yo hace unos años (en mayo de 2020 para ser preciso). Aún comparto gran parte de aquello que escribí aquella vez.

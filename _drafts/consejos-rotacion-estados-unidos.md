@@ -1,16 +1,17 @@
 ---
-title:  "Consejos si tuviera que realizar una rotación en Estados Unidos de nuevo"
-date:
+title: Consejos si tuviera que realizar una rotación en Estados Unidos de nuevo
+date: null
 permalink: /blog/llegando-al-ultimo-mes-2025/
-categories: [Pensamientos]
+categories:
+- Thoughts
 tags: []
 author: DaniMedi
-excerpt: ""
+excerpt: ''
 layout: post
 image: /assets/images/
 published: true
-last_modified_at:
-redirect_from:
+last_modified_at: null
+redirect_from: null
 ---
 
 

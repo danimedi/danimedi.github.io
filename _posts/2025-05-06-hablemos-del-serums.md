@@ -1,16 +1,19 @@
 ---
-title:  "Hablemos del SERUMS: Problemas y Propuestas"
+title: 'Hablemos del SERUMS: Problemas y Propuestas'
 date: 2025-05-06
 permalink: /blog/hablemos-del-serums/
-categories: [Medicina, Pensamientos]
+categories:
+- Medicine
+- Thoughts
 tags: []
 author: DaniMedi
-excerpt: "Presentación de mi opinión personal respecto a a los problemas que considero más importantes, así como propuestas para los mismos."
+excerpt: Presentación de mi opinión personal respecto a a los problemas que considero
+  más importantes, así como propuestas para los mismos.
 layout: post
 image: /assets/images/salinas-moche-lake-sun.jpg
 published: true
 last_modified_at: 2025-05-06
-redirect_from:
+redirect_from: null
 ---
 
 El presente post es el guion usado para la realización del video de YouTube:

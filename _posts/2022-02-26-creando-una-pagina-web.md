@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=821
 permalink: /blog/creando-una-pagina-web/
 image: /assets/images/computer-website-image.jpg
 categories:
-- Programación
+- Programming
 ---
 
 Creé esta página web hace poco tiempo y en realidad hay algunas cosas que aún estoy descubriendo, pero quiero compartir mi experiencia hasta ahora y quizá animar a alguno o brindar un punto de partida para aquellos que quieren crear su propia página web.

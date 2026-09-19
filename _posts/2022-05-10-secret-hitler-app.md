@@ -23,7 +23,7 @@ enclosure:
   '
 image: /assets/images/secret-hitler-long-image.jpg
 categories:
-- Programación
+- Programming
 ---
 
 I created this web app to automatize the set up of the game Secret Hitler. The main objective of this app is accelerating the set up process of the game. The main idea is that the players enter to this website from their cell phones to get the information about their roles and their team-mates (according to the rules of the game).

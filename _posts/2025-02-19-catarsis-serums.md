@@ -1,16 +1,17 @@
 ---
-title:  "Catarsis"
-date:   2025-02-19
+title: Catarsis
+date: 2025-02-19
 permalink: /blog/catarsis-serums/
-categories: [Pensamientos]
+categories:
+- Thoughts
 tags: []
 author: DaniMedi
-excerpt: "Catarsis de mi experiencia hasta pocos meses antes de terminar el SERUMS"
+excerpt: Catarsis de mi experiencia hasta pocos meses antes de terminar el SERUMS
 layout: post
 image: /assets/images/salinas_moche_fog.jpeg
 published: true
 last_modified_at: 2025-02-19
-redirect_from:
+redirect_from: null
 ---
 Ya voy varios meses del SERUMS y debo confesar que no está siendo una experiencia grata, o al menos no como lo imaginé. En primer lugar, no me siento tan médico, la mayor parte de mis labores se sienten muy ajenas a la medicina. Si se queda sin tinta una impresora, soy yo quien debo solucionar el problema. Lo mismo si se rompe una tubería, si no se paga la electricidad, si la cuatrimoto no funciona, si falta comprar un nuevo estabilizador, entre otros. Me gusta resolver problemas, pero para resolver ese tipo de problemas es realmente irrelevante si soy médico. La burocracia y la gestión administrativa ocupan casi todo mi trabajo, pensamientos y preocupaciones.
 

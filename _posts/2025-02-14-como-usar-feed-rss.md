@@ -1,16 +1,17 @@
 ---
-title:  "Cómo usar el feed RSS"
-date:   2025-02-14
+title: Cómo usar el feed RSS
+date: 2025-02-14
 permalink: /blog/como-usar-feed-rss/
-categories: [Programación]
+categories:
+- Programming
 tags: []
 author: DaniMedi
-excerpt: "Tutorial breve de cómo usar el feed RSS para seguir un blog"
+excerpt: Tutorial breve de cómo usar el feed RSS para seguir un blog
 layout: post
 image: /assets/images/e-mail-notification.jpg
 published: true
 last_modified_at: 2025-02-14
-redirect_from:
+redirect_from: null
 ---
 
 El objetivo de este post es brindar una breve explicación de cómo usar el feed RSS (disponible en esta página web) para poder recibir notificaciones de nuevas publicaciones en mi blog o en cualquier otro blog que cuente con feed RSS.

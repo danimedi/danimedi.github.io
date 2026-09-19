@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1381
 permalink: /blog/tomando-notas-en-notion/
 image: /assets/images/laptop-notion.jpg
 categories:
-- Estudio y Anki
+- Study & Anki
 ---
 
 ## ¿Apuntes? ¿Para qué?

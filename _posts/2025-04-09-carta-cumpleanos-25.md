@@ -2,15 +2,16 @@
 title: Carta de cumpleaños
 date: 2025-04-09
 permalink: /blog/carta-cumpleanos-25/
-categories: [Pensamientos]
-tags: 
+categories:
+- Thoughts
+tags: null
 author: DaniMedi
 excerpt: Lectura y respuesta a mi carta de cumpleaños realizada por mí un año atrás
 layout: post
 image: /assets/images/happy-birthday.jpg
 published: true
 last_modified_at: 2025-04-09
-redirect_from:
+redirect_from: null
 ---
 Hace exactamente un año usé la página web FutureMe para mandarme una carta a mí mismo en el futuro. El día de hoy recibí dicha carta. Ya voy haciendo esto por varios años, pero esta es la primera vez que comparto mi experiencia.
 

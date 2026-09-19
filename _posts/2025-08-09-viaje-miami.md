@@ -1,16 +1,18 @@
 ---
-title:  "Viaje a Miami y primeros días"
+title: Viaje a Miami y primeros días
 date: 2025-08-09
 permalink: /blog/viaje-miami/
-categories: [Anécdotas]
+categories:
+- Anecdotes
 tags: []
 author: DaniMedi
-excerpt: "Experiencia y pensamientos varios de mi viaje a Miami y los primeros días en esta ciudad."
+excerpt: Experiencia y pensamientos varios de mi viaje a Miami y los primeros días
+  en esta ciudad.
 layout: post
 image: /assets/images/selfie-jackson-hospital-jade-uniform.jpeg
 published: true
 last_modified_at: 2025-08-09
-redirect_from:
+redirect_from: null
 ---
 
 ## Conversaciones en el camino

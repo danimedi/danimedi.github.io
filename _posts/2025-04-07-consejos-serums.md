@@ -1,16 +1,17 @@
 ---
-title:  "Consejos para el SERUMS"
+title: Consejos para el SERUMS
 date: 2025-04-07
 permalink: /blog/consejos-serums/
-categories: [Medicina]
+categories:
+- Medicine
 tags: []
 author: DaniMedi
-excerpt: "Consejos que me daría a mí mismo si tuviera que comenzar el SERUMS nuevamente"
+excerpt: Consejos que me daría a mí mismo si tuviera que comenzar el SERUMS nuevamente
 layout: post
 image: /assets/images/ps-salinas-moche-adulto-mayor.jpeg
 published: true
 last_modified_at: 2025-04-07
-redirect_from:
+redirect_from: null
 ---
 En este post brindaré algunos consejos que me daría si tuviera que comenzar el SERUMS nuevamente, principalmente en relación a mi labor durante el SERUMS. En [otro post]({{ "/blog/seleccionando-plaza-serums/" | relative_url }}) ya mencioné algunos consejos sobre cómo escoger mi plaza SERUMS si tuviera que hacerlo otra vez.
 

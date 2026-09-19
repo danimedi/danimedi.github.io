@@ -1,16 +1,17 @@
 ---
-title: "Última semana de agosto 2025"
+title: Última semana de agosto 2025
 date: 2025-08-30
 permalink: /blog/ultima-semana-agosto-2025/
-categories: [Anécdotas]
+categories:
+- Anecdotes
 tags: []
 author: DaniMedi
-excerpt: "Última semana del mes de agosto 2025. Experiencias vividas en Miami."
+excerpt: Última semana del mes de agosto 2025. Experiencias vividas en Miami.
 layout: post
 image: /assets/images/moving-out-miami.jpeg
 published: true
 last_modified_at: 2025-08-30
-redirect_from:
+redirect_from: null
 ---
 
 Se terminó mi primer mes en Miami, solo me queda uno más para regresar a Arequipa. Fue un mes muy interesante y esta semana ha sido muy especial. Comparto en el presente post algunas experiencias y pensamientos.

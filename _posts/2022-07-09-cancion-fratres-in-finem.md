@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1281
 permalink: /blog/cancion-fratres-in-finem/
 image: /assets/images/fratres-in-finem-photo.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 El año 2016 fue mi último año en el colegio y en algún punto del año escribí una canción para mi promoción (promoción llamada “Fratres in Finem”).

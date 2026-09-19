@@ -1,16 +1,17 @@
 ---
-title:  "Mis poemas de Instagram"
-date:   2025-02-13
+title: Mis poemas de Instagram
+date: 2025-02-13
 permalink: /blog/poemas-instagram/
-categories: [Escritos]
+categories:
+- Writings
 tags: []
 author: DaniMedi
-excerpt: "Colección de poemas que escribí en mi cuenta de Instagram"
+excerpt: Colección de poemas que escribí en mi cuenta de Instagram
 layout: post
 image: /assets/images/poetry.jpg
 published: true
 last_modified_at: 2025-02-13
-redirect_from:
+redirect_from: null
 ---
 
 Durante un tiempo estuve compartiendo algunos poemas escritos por mí en mi cuenta de Instagram. Recojo en este post todos los poemas escritos.

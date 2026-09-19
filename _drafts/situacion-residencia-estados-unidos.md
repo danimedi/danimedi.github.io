@@ -1,16 +1,17 @@
 ---
-title:  "Mi situación en el camino a la residencia médica en Estados Unidos"
-date:
+title: Mi situación en el camino a la residencia médica en Estados Unidos
+date: null
 permalink: /blog/situacion-residencia-estados-unidos/
-categories: [Programación]
+categories:
+- Programming
 tags: []
 author: DaniMedi
-excerpt: ""
+excerpt: ''
 layout: post
 image: /assets/images/
 published: true
-last_modified_at:
-redirect_from:
+last_modified_at: null
+redirect_from: null
 ---
 
 - Qué cosas hice y qué cosas me faltan, explicación breve del proceso

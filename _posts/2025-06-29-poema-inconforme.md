@@ -1,16 +1,18 @@
 ---
-title:  "Poema: Inconforme"
+title: 'Poema: Inconforme'
 date: 2025-06-29
 permalink: /blog/poema-inconforme/
-categories: [Escritos]
+categories:
+- Writings
 tags: []
 author: DaniMedi
-excerpt: "Poema que aborda el tema de la inconformidad con uno mismo, los deseos de perseguir un ideal y ser libre."
+excerpt: Poema que aborda el tema de la inconformidad con uno mismo, los deseos de
+  perseguir un ideal y ser libre.
 layout: post
 image: /assets/images/walking-mountain.jpg
 published: true
 last_modified_at: 2025-06-29
-redirect_from:
+redirect_from: null
 ---
 
 El presente poema fue escrito por mí. Aborda el tema de la inconformidad con uno mismo, los deseos de perseguir un ideal y ser libre.

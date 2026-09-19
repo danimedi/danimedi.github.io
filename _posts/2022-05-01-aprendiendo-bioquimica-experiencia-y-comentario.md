@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=910
 permalink: /blog/aprendiendo-bioquimica-experiencia-y-comentario/
 image: /assets/images/image-chemistry.jpg
 categories:
-- Medicina
+- Medicine
 ---
 
 *Nota: el contenido de este post va de acuerdo a mi perspectiva personal como estudiante universitario de medicina humana.*

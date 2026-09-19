@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1531
 permalink: /blog/como-prepararse-para-un-examen/
 image: /assets/images/exam_bubbles_image.jpg
 categories:
-- Estudio y Anki
+- Study & Anki
 ---
 
 Intentando retomar un poco la rutina de publicar en mi blog de mi página web en esta ocasión escribo un poco sobre el tema de la preparación para los exámenes.

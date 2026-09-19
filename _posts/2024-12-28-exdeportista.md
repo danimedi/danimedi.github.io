@@ -8,8 +8,8 @@ guid: https://danimedi.com/?p=1650
 permalink: /blog/exdeportista/
 image: /assets/images/gonzalo_y_yo_maraton.jpg
 categories:
-- Anécdotas
-- Pensamientos
+- Anecdotes
+- Thoughts
 ---
 
 Este mes participé en una biatlón, debo agradecer a mi hermano por la experiencia. Fue gracias a él que participé realmente. Una semana antes me habló del evento y que iba a participar él, me preguntó si también quería, le dije que sí, pero probablemente luego me hubiera arrepentido si no fuera porque su emoción por participar fue contagiosa. Incluso llegamos a participar un día antes, aunque esa práctica me desanimó más que animarme, mi desempeño no fue adecuado y terminé terriblemente agotado.

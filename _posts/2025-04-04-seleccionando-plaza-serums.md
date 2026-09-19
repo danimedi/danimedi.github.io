@@ -1,16 +1,17 @@
 ---
-title:  "Seleccionando una plaza SERUMS"
+title: Seleccionando una plaza SERUMS
 date: 2025-04-04
 permalink: /blog/seleccionando-plaza-serums/
-categories: [Medicina]
+categories:
+- Medicine
 tags: []
 author: DaniMedi
-excerpt: "Método y comentario personal de cómo escoger una plaza SERUMS"
+excerpt: Método y comentario personal de cómo escoger una plaza SERUMS
 layout: post
 image: /assets/images/laguna-salinas-moche-misti.jpg
 published: true
 last_modified_at: 2025-04-04
-redirect_from:
+redirect_from: null
 ---
 Elegir una plaza SERUMS es un proceso que puede ser complicado y abrumador. Hay muchas opciones y, especialmente si tu lugar en el ranking es bueno, puedes ser víctima del fenómeno de la ["Paradoja de la elección"](https://es.wikipedia.org/wiki/La_paradoja_de_la_elecci%C3%B3n).
 

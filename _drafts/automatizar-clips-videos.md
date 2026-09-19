@@ -1,16 +1,17 @@
 ---
-title:  "Cómo automatizar creación de clips para videos largos"
-date:
+title: Cómo automatizar creación de clips para videos largos
+date: null
 permalink: /blog/automatizar-clips-videos/
-categories: [Programación]
+categories:
+- Programming
 tags: []
 author: DaniMedi
-excerpt: ""
+excerpt: ''
 layout: post
 image: /assets/images/
 published: true
-last_modified_at:
-redirect_from:
+last_modified_at: null
+redirect_from: null
 ---
 
 Como creador de contenido en YouTube he tenido problemas entrando en formatos de videos cortos, como TikTok, Instagram u otros. Creo que me gusta tomarme mi tiempo para expresar a mi ritmo las cosas que quiero decir y compartir. Sin embargo, hoy en día muchas personas prefieren consumir contenido de una duración más corta.

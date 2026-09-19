@@ -1,16 +1,18 @@
 ---
-title: "Segundo mes de rotación en Miami"
+title: Segundo mes de rotación en Miami
 date: 2025-09-14
 permalink: /blog/segundo-mes-rotacion-miami/
-categories: [Anécdotas]
+categories:
+- Anecdotes
 tags: []
 author: DaniMedi
-excerpt: "Experiencias, pensamientos, anécdotas de la casi primera mitad de septiembre del año 2025."
+excerpt: Experiencias, pensamientos, anécdotas de la casi primera mitad de septiembre
+  del año 2025.
 layout: post
 image: /assets/images/jackson-memorial-hospital-outside.jpeg
 published: true
 last_modified_at: 2025-09-14
-redirect_from:
+redirect_from: null
 ---
 
 Septiembre es mi segundo mes en Estados Unidos. El mes anterior completé una rotación en cardiología y ahora estoy completando una rotación en radiología como *observer* por la Universidad de Miami en el *Jackson Memorial Hospital*.

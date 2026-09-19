@@ -1,16 +1,18 @@
 ---
-title:  "Poema: Duda y fe"
+title: 'Poema: Duda y fe'
 date: 2025-08-24
 permalink: /blog/poema-duda-fe/
-categories: [Escritos]
+categories:
+- Writings
 tags: []
 author: DaniMedi
-excerpt: "Poema escrito por mí sobre algunos temas relacionados a la interacción de sujeto y objeto."
+excerpt: Poema escrito por mí sobre algunos temas relacionados a la interacción de
+  sujeto y objeto.
 layout: post
 image: /assets/images/two-faces-photo-daniel.jpeg
 published: true
 last_modified_at: 2025-08-24
-redirect_from:
+redirect_from: null
 ---
 
 ## Duda y fe

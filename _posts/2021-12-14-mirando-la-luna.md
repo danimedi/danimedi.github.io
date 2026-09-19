@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=493
 permalink: /blog/mirando-la-luna/
 image: /assets/images/moon_over_city.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 Escribí este poema el 22 de octubre de 2021.

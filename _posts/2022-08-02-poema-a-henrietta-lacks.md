@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1317
 permalink: /blog/poema-a-henrietta-lacks/
 image: /assets/images/henrietta-lacks.jpg
 categories:
-- Escritos
+- Writings
 ---
 
 Escribí este poema con la inspiración de la historia de Henrietta Lacks y [algunas controversias](https://apnews.com/article/business-thermo-fisher-scientific-inc-lawsuits-race-and-ethnicity-health-1b7942bb535b3656195d2347c9e676be) que hubieron a partir del uso de sus células.

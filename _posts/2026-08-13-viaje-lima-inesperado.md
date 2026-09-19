@@ -1,16 +1,17 @@
 ---
-title:  "Un viaje a Lima inesperado"
+title: Un viaje a Lima inesperado
 date: 2026-08-13
 permalink: /blog/viaje-lima-inesperado/
-categories: [Anécdotas]
+categories:
+- Anecdotes
 tags: []
 author: DaniMedi
-excerpt: "Viajando a Lima para visitar a Diego en el hospital."
+excerpt: Viajando a Lima para visitar a Diego en el hospital.
 layout: post
 image: /assets/images/lima-nawara-nikkei-selfie.jpg
 published: true
 last_modified_at: 2026-08-13
-redirect_from:
+redirect_from: null
 ---
 
 ## Preparativos

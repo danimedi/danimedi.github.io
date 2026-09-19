@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1386
 permalink: /blog/como-aprendi-a-programar/
 image: /assets/images/laptop-programming-code.jpg
 categories:
-- Programación
+- Programming
 ---
 
 En este post describiré algunos detalles un tanto específicos sobre cómo aprendí a programar.

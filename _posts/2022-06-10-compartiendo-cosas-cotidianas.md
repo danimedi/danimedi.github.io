@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1147
 permalink: /blog/compartiendo-cosas-cotidianas/
 image: /assets/images/light-on-wall-image.jpg
 categories:
-- Pensamientos
+- Thoughts
 ---
 
 ## Trabajando en la oscuridad

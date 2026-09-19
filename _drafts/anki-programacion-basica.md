@@ -1,16 +1,18 @@
 ---
-title: "Programación básica en Anki"
-date:
+title: Programación básica en Anki
+date: null
 permalink: /blog/anki-programacion-basica/
-categories: [Programación, Estudio y Anki]
+categories:
+- Programming
+- Study & Anki
 tags: []
 author: DaniMedi
-excerpt: "Cómo programar de forma básica en Anki utilizando la consola de Python"
+excerpt: Cómo programar de forma básica en Anki utilizando la consola de Python
 layout: post
 image: /assets/images/
 published: true
-last_modified_at:
-redirect_from:
+last_modified_at: null
+redirect_from: null
 ---
 
 - Para qué podría ser útil

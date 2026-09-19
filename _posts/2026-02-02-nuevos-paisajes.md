@@ -1,16 +1,17 @@
 ---
-title:  "Nuevos paisajes"
+title: Nuevos paisajes
 date: 2026-02-02
 permalink: /blog/nuevos-paisajes/
-categories: [Pensamientos]
+categories:
+- Thoughts
 tags: []
 author: DaniMedi
-excerpt: "Algunas reflexiones sobre mi vida y mi situación actual."
+excerpt: Algunas reflexiones sobre mi vida y mi situación actual.
 layout: post
 image: /assets/images/syracuse-park-pool.jpg
 published: true
 last_modified_at: 2026-02-03
-redirect_from:
+redirect_from: null
 ---
 
 Hola nuevamente, para quien lea esto. Han pasado ya varios meses desde la última vez que publiqué en este blog. Han pasado muchas cosas en mi vida últimamente y hoy quiero compartir algunas cosas sobre mi situación actual.

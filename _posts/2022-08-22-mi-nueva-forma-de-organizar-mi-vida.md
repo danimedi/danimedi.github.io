@@ -8,8 +8,8 @@ guid: https://danimedi.com/?p=1377
 permalink: /blog/mi-nueva-forma-de-organizar-mi-vida/
 image: /assets/images/old-pocket-watch.jpg
 categories:
-- Estudio y Anki
-- Pensamientos
+- Study & Anki
+- Thoughts
 ---
 
 Hace un tiempo escribí un [post]({{ '/blog/manejando-mi-tiempo/' | relative_url }}) en el que menciono algunas cosas relacionadas a la forma en la que administro mi tiempo. Resulta en este tiempo transcurrido he cambiado en gran medida mi forma de realizar las cosas. En este post comparto cómo organizo mi tiempo actualmente.

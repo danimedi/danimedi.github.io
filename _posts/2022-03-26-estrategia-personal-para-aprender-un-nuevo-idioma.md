@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=867
 permalink: /blog/estrategia-personal-para-aprender-un-nuevo-idioma/
 image: /assets/images/languages-image.jpg
 categories:
-- Estudio y Anki
+- Study & Anki
 ---
 
 Aprender un nuevo idioma es una experiencia interesante y puede tener distintas utilidades. En mi caso intenté aprender algunos idiomas durante mi vida con mayor o menor éxito y en este post me gustaría compartir algunas de las cosas que he podido aprender en el camino.

@@ -1,16 +1,17 @@
 ---
-title:  "Primer mes en Miami"
+title: Primer mes en Miami
 date: 2025-08-24
 permalink: /blog/primer-mes-miami/
-categories: [Anécdotas]
+categories:
+- Anecdotes
 tags: []
 author: DaniMedi
-excerpt: "Reflexiones y anécdotas de mi primer mes en Miami."
+excerpt: Reflexiones y anécdotas de mi primer mes en Miami.
 layout: post
 image: /assets/images/miami-road-night.jpeg
 published: true
 last_modified_at: 2025-08-24
-redirect_from:
+redirect_from: null
 ---
 
 Ya se acerca el final del primer mes de la rotación. En este primer mes he podido tener buenos y malos momentos. Creo que uno tiene la tendencia a fijarse más en los malos momentos, y para mí eso significa sentir que no estoy haciendo suficiente para aprovechar todas las oportunidades que estoy teniendo. El tiempo pasa muy rápido y siento que no alcanza para realizar todas las cosas que quiero.

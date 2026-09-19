@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=773
 permalink: /blog/aprendiendo-en-comunidad/
 image: /assets/images/puzzle-pieces.jpg
 categories:
-- Pensamientos
+- Thoughts
 ---
 
 Como individuos que formamos parte de la sociedad es evidente darse cuenta que nuestra capacidad de hacer cosas es mejor como grupo que como individuos. Como seres humanos, no tanto nuestra inteligencia, sino nuestra capacidad de aprender colectivamente es lo que nos hace realmente especiales. Esa capacidad para transmitir información entre nosotros y de dejar conocimientos que puedan perdurar más que nosotros y que puedan ser desarrollados por otras personas es lo que ha hecho que podamos aprender tantas cosas como humanidad.

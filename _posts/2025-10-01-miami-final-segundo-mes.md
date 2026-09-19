@@ -1,16 +1,17 @@
 ---
-title: "Rotación en Miami: Final"
+title: 'Rotación en Miami: Final'
 date: 2025-10-01
 permalink: /blog/miami-final-segundo-mes/
-categories: [Anécdotas]
+categories:
+- Anecdotes
 tags: []
 author: DaniMedi
-excerpt: "Últimas experiencias, pensamientos y anécdotas en mis dos meses en Miami."
+excerpt: Últimas experiencias, pensamientos y anécdotas en mis dos meses en Miami.
 layout: post
 image: /assets/images/photo-me-entrance-jackson.jpeg
 published: true
 last_modified_at: 2025-10-01
-redirect_from:
+redirect_from: null
 ---
 
 Mañana estaré regresando a Perú, habiendo culminado mi rotación de dos meses en Miami. Fue una experiencia increíble, llena de aprendizajes y recuerdos que llevaré conmigo por siempre. Estuve compartiendo algunas experiencias en este blog. En el presente post compartiré algunas experiencias más del final de mi segundo mes (septiembre 2025) y algunas reflexiones de estos dos meses.

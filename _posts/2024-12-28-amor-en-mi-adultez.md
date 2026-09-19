@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=1653
 permalink: /blog/amor-en-mi-adultez/
 image: /assets/images/1280px-Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg
 categories:
-- Pensamientos
+- Thoughts
 ---
 
 Soy irremediablemente adulto y este último año lo he sentido profundamente. No lo digo con tristeza, pero tampoco con alegría, es solamente una observación evidente de la condición en la que me encuentro. Lo menciono porque uno de los aspectos en los que esta revelación me ha resultado más evidente es en el aspecto del amor de pareja.

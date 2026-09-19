@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=853
 permalink: /blog/anki-problemas-y-soluciones-de-mazos-colaborativos/
 image: /assets/images/collaborative-anki-image.png
 categories:
-- Estudio y Anki
+- Study & Anki
 ---
 
 Anki es un gran programa para crear y estudiar flashcards, aprovechando la repetición espaciada y el recuerdo activo. Está de más decir que es mi programa de estudio favorito, considerando que gran parte del contenido de mi [canal de YouTube](https://www.youtube.com/c/DaniMedi555), así como varios [posts]({{ '/blog/tutorial-de-anki-desde-cero/' | relative_url }}) en la página web son relacionados a este programa. Sin embargo, lógicamente, hay algunas cosas en las que se puede mejorar.

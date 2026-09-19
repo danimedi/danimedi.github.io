@@ -1,16 +1,17 @@
 ---
-title:  "Poema: Solo y de rodillas"
-date:   2025-03-08
+title: 'Poema: Solo y de rodillas'
+date: 2025-03-08
 permalink: /blog/poema-solo-y-de-rodillas/
-categories: [Escritos]
+categories:
+- Writings
 tags: []
 author: DaniMedi
-excerpt: ""
+excerpt: ''
 layout: post
 image: /assets/images/praying-hands.jpg
 published: true
 last_modified_at: 2025-03-08
-redirect_from:
+redirect_from: null
 ---
 
 Este es un pequeño poema que escribí durante mi primer mes del SERUMS cuando pasaba por una situación difícil, lo compartí en aquel entonces por Instagram, ahora lo comparto por aquí.

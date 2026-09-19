@@ -1,16 +1,18 @@
 ---
-title:  "Cosas aprendidas en mi rotación en Estados Unidos"
-date:
+title: Cosas aprendidas en mi rotación en Estados Unidos
+date: null
 permalink: /blog/rotacion-estados-unidos-aprendizaje/
-categories: [Medicina]
+categories:
+- Medicine
 tags: []
 author: DaniMedi
-excerpt: "Algunas cosas aprendidas durante mi experiencia en Miami rotando en el Jackson Memorial Hospital como observer de la University of Miami Miller School of Medicine."
+excerpt: Algunas cosas aprendidas durante mi experiencia en Miami rotando en el Jackson
+  Memorial Hospital como observer de la University of Miami Miller School of Medicine.
 layout: post
 image: /assets/images/
 published: true
-last_modified_at:
-redirect_from:
+last_modified_at: null
+redirect_from: null
 ---
 
 ## Viviendo

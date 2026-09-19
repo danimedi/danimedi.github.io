@@ -1,16 +1,17 @@
 ---
-title:  "Poema: Un recuerdo, un pueblo"
+title: 'Poema: Un recuerdo, un pueblo'
 date: 2025-04-11
 permalink: /blog/poema-un-recuerdo-un-pueblo/
-categories: [Escritos]
+categories:
+- Writings
 tags: []
 author: DaniMedi
-excerpt: ""
+excerpt: ''
 layout: post
 image: /assets/images/laguna-salinas-nublado.jpeg
 published: true
 last_modified_at: 2025-04-11
-redirect_from:
+redirect_from: null
 ---
 En algún momento alguien me preguntó qué extrañaré del SERUMS. Me dejó pensando, es difícil saber qué cosas se extrañarán en el futuro o si lo extrañarán a uno. Supongo que el tiempo tendrá la última palabra.
 

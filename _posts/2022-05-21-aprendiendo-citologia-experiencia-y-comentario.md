@@ -8,7 +8,7 @@ guid: https://danimedi.com/?p=938
 permalink: /blog/aprendiendo-citologia-experiencia-y-comentario/
 image: /assets/images/cell-image.jpg
 categories:
-- Medicina
+- Medicine
 ---
 
 *Nota: el contenido de este post va de acuerdo a mi perspectiva personal como estudiante universitario de medicina humana.*

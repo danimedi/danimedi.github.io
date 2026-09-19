@@ -8,8 +8,8 @@ guid: https://danimedi.com/?p=784
 permalink: /blog/experiencia-dando-el-toefl/
 image: /assets/images/toefl-image.jpg
 categories:
-- Estudio y Anki
-- Anécdotas
+- Study & Anki
+- Anecdotes
 ---
 
 Hace una semana, el sábado pasado, di el examen TOEFL de inglés. Quiero compartir esta experiencia a través de este post.
