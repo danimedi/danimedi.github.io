@@ -8,13 +8,13 @@ title: Blog
 <div class="blog">
   {%- if site.posts.size > 0 -%}
   
-	<p class="rss-subscribe">Puedes suscribirte a mi Blog <b><a href="{{ "/feed.xml" | relative_url }}">vía RSS <i class="fa-solid fa-rss"></i></a></b> (<i><a href="{{ "/blog/como-usar-feed-rss/" | relative_url }}">¿Cómo suscribirse?</i></a>).</p>
+	<p class="rss-subscribe">You can subscribe to my blog <b><a href="{{ "/feed.xml" | relative_url }}">via RSS <i class="fa-solid fa-rss"></i></a></b> (<i><a href="{{ "/blog/como-usar-feed-rss/" | relative_url }}">How to subscribe?</a></i>).</p>
  
   <div class="blog-container">
 
     <!-- Sidebar for Categories -->
     <aside class="sidebar">
-      <h2>Categorías</h2>
+      <h2>Categories</h2>
       <ul>
         {%- for category in site.categories -%}
         <li><a href="{{ "/categories/" | relative_url }}#{{ category[0] | downcase | replace: ' ', '-' }}">{{ category[0] }}</a></li>

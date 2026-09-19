@@ -37,7 +37,7 @@ plugins:
 header_pages:
   - index.md
   - blog.html
-  - sobre-mi.md
+  - about.md
   - contact.md
 
 # Exclude from processing.
